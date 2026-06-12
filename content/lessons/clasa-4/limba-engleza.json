@@ -1,0 +1,35 @@
+[
+  {
+    "id": "en-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "limba-engleza",
+    "competenta": "2.1",
+    "titlu": "Present continuous — Ce fac acum",
+    "explicatie": "Pentru acțiuni care se petrec ACUM folosim „am/is/are + verb-ing”: I am reading (eu citesc acum), She is playing (ea se joacă acum).",
+    "exemplu": "I am reading. He is running. They are singing.",
+    "activitate": "Cum spui „Eu mă joc acum” în engleză? (play → playing)",
+    "jocuri": ["Spun ce fac acum în engleză.", "Mimez o acțiune și colegul spune „You are ...-ing”."]
+  },
+  {
+    "id": "en-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "limba-engleza",
+    "competenta": "2.2",
+    "titlu": "Jobs — Meserii",
+    "explicatie": "Meserii în engleză: doctor (doctor), teacher (profesor), pilot (pilot), cook (bucătar), firefighter (pompier).",
+    "exemplu": "👩‍⚕️ doctor · 👨‍🏫 teacher · 👨‍✈️ pilot · 👨‍🍳 cook",
+    "activitate": "Cum spui „profesor” în engleză?",
+    "jocuri": ["Asociez meseria cu locul de muncă.", "Spun ce vreau să devin în engleză."]
+  },
+  {
+    "id": "en-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "limba-engleza",
+    "competenta": "2.3",
+    "titlu": "What time is it? — Cât e ceasul",
+    "explicatie": "Pentru ora fixă spunem „It is ... o'clock”. It is three o'clock = este ora trei. Întrebăm: „What time is it?”",
+    "exemplu": "🕐 It is one o'clock. 🕔 It is five o'clock.",
+    "activitate": "Cum spui „este ora 7” în engleză?",
+    "jocuri": ["Citesc ora fixă de pe un ceas în engleză.", "Întreb și răspund: What time is it?"]
+  }
+]

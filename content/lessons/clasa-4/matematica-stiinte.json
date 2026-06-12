@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mat-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "matematica-stiinte",
+    "competenta": "2.4",
+    "titlu": "Ordinea operațiilor",
+    "explicatie": "Când avem mai multe operații, facem întâi înmulțirile și împărțirile, apoi adunările și scăderile. Dacă există paranteze, calculăm întâi în paranteze.",
+    "exemplu": "2 + 3 × 4 = 2 + 12 = 14 (întâi 3×4). (2 + 3) × 4 = 5 × 4 = 20 (întâi paranteza).",
+    "activitate": "Cât face 5 + 2 × 3?",
+    "jocuri": ["Rezolv exerciții cu și fără paranteze.", "Verific ce se schimbă când pun paranteze."]
+  },
+  {
+    "id": "mat-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "matematica-stiinte",
+    "competenta": "2.5",
+    "titlu": "Comparăm și adunăm fracții",
+    "explicatie": "Fracțiile cu același numitor le comparăm după numărul de sus (numărător): 3/5 > 2/5. Le adunăm adunând numărătorii: 1/4 + 2/4 = 3/4.",
+    "exemplu": "2/5 + 1/5 = 3/5. 3/4 este mai mare decât 1/4.",
+    "activitate": "Cât face 1/4 + 2/4?",
+    "jocuri": ["Compar două fracții cu același numitor.", "Adun fracții folosind felii de pizza."]
+  },
+  {
+    "id": "mat-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "matematica-stiinte",
+    "competenta": "4.1",
+    "titlu": "Sistemul Solar",
+    "explicatie": "Pământul se învârte în jurul Soarelui. În Sistemul Solar sunt 8 planete: Mercur, Venus, Pământ, Marte, Jupiter, Saturn, Uranus, Neptun. Soarele este o stea.",
+    "exemplu": "Pământul este a treia planetă de la Soare. Jupiter este cea mai mare planetă.",
+    "activitate": "A câta planetă de la Soare este Pământul?",
+    "jocuri": ["Ordonez planetele de la Soare.", "Desenez Sistemul Solar."]
+  }
+]

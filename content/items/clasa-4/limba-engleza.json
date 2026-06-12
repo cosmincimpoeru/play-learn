@@ -1,0 +1,74 @@
+[
+  {
+    "id": "en-c4-i1", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce înseamnă „I am reading”?",
+    "variante": ["Eu citesc (acum)", "Eu am citit", "Eu voi citi", "Eu scriu"], "raspunsCorect": 0,
+    "explicatie": "„I am reading” = Eu citesc acum.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i2", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „Ea se joacă acum”? (play → playing)",
+    "variante": ["She is playing", "She play", "She played", "She will play"], "raspunsCorect": 0,
+    "explicatie": "Present continuous: „She is playing”.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i3", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Completează: „They ___ singing.”",
+    "variante": ["are", "is", "am", "be"], "raspunsCorect": 0,
+    "explicatie": "Pentru „they” folosim „are”: They are singing.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i4", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „teacher”?",
+    "variante": ["doctor", "profesor", "pilot", "bucătar"], "raspunsCorect": 1,
+    "explicatie": "„Teacher” înseamnă profesor.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i5", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „bucătar” în engleză?",
+    "variante": ["cook", "pilot", "doctor", "teacher"], "raspunsCorect": 0,
+    "explicatie": "„Cook” înseamnă bucătar.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i6", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cine zboară cu avionul? (în engleză)",
+    "variante": ["pilot", "cook", "teacher", "doctor"], "raspunsCorect": 0,
+    "explicatie": "„Pilot” conduce avionul.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i7", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Cum spui „este ora 3” în engleză?",
+    "variante": ["It is three o'clock", "It is third", "There are three", "Three is here"], "raspunsCorect": 0,
+    "explicatie": "Ora fixă: „It is three o'clock”.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i8", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce întrebare folosim pentru oră?",
+    "variante": ["What time is it?", "How are you?", "Where is it?", "Who is it?"], "raspunsCorect": 0,
+    "explicatie": "„What time is it?” = Cât este ceasul?", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i9", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce înseamnă „It is seven o'clock”?",
+    "variante": ["Este ora 7", "Este ora 11", "Sunt 7 mere", "A șaptea zi"], "raspunsCorect": 0,
+    "explicatie": "„It is seven o'clock” = Este ora 7.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i10", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „El aleargă acum”? (run → running)",
+    "variante": ["He is running", "He run", "He runs yesterday", "He will run"], "raspunsCorect": 0,
+    "explicatie": "Present continuous: „He is running”.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i11", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.2", "tip": "adevarat-fals",
+    "enunt": "„Doctor” în engleză înseamnă tot doctor.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Doctor” înseamnă doctor.", "punctaj": 1
+  },
+  {
+    "id": "en-c4-i12", "clasa": "clasa-4", "materie": "limba-engleza", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "„Present continuous” descrie o acțiune care se petrece acum.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Descrie acțiuni în desfășurare, acum.", "punctaj": 1
+  }
+]

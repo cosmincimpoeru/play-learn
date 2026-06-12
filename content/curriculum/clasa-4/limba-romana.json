@@ -1,0 +1,31 @@
+{
+  "clasa": "clasa-4",
+  "materie": "limba-romana",
+  "sursa": "OMEN 5003/02.12.2014 — Limba și literatura română, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale în contexte de comunicare variate",
+    "Exprimarea de mesaje orale în diverse situații de comunicare",
+    "Receptarea de mesaje scrise în diverse contexte de comunicare",
+    "Redactarea de mesaje în diverse situații de comunicare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "3.1",
+      "descriere": "Formularea de concluzii simple pe baza unui text citit (literar/nonliterar)",
+      "obiective": ["Identifică personajul principal și mesajul textului", "Ordonează întâmplările"],
+      "continuturi": ["Textul literar", "Personaje, idee principală, succesiunea întâmplărilor"]
+    },
+    {
+      "cod": "4.1",
+      "descriere": "Recunoașterea părților principale de propoziție și a unor părți de vorbire",
+      "obiective": ["Identifică subiectul și predicatul", "Recunoaște pronumele personal"],
+      "continuturi": ["Subiectul și predicatul", "Pronumele personal"]
+    },
+    {
+      "cod": "4.2",
+      "descriere": "Aplicarea unor reguli de ortografie și de punctuație",
+      "obiective": ["Scrie corect „s-a”/„sa”, „ne-a”/„nea”", "Folosește virgula în enumerare"],
+      "continuturi": ["Ortografie: s-a/sa, ne-a/nea", "Virgula"]
+    }
+  ]
+}

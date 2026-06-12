@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-4",
+  "materie": "religie-ortodoxa",
+  "sursa": "OMEN 5001/02.12.2014 — Religie, Cultul ortodox, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Aplicarea unor norme de comportament specific moralei religioase, în diferite contexte de viață",
+    "Colaborarea cu copiii și cu adulții din mediul familiar, în acord cu valorile religioase",
+    "Explorarea activă a unor elemente din viața de zi cu zi, din perspectiva propriei credințe"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea unor reguli de viață creștină (poruncile lui Dumnezeu)",
+      "obiective": ["Înțelege că poruncile ne învață binele", "Dă exemple de respectare a poruncilor"],
+      "continuturi": ["Cele Zece Porunci (Decalogul)", "Reguli de viață creștină"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Manifestarea milosteniei și a ajutorării celor aflați în nevoie",
+      "obiective": ["Înțelege ce este milostenia", "Identifică fapte de milostenie"],
+      "continuturi": ["Milostenia", "Faptele bune"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea unor sfinți și a rolului lor de modele de viață",
+      "obiective": ["Cunoaște sfinți cinstiți în România", "Înțelege de ce sunt modele"],
+      "continuturi": ["Sfinți — modele de credință"]
+    }
+  ]
+}

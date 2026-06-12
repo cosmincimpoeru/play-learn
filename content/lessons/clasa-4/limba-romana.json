@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lr-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "limba-romana",
+    "competenta": "4.1",
+    "titlu": "Subiectul și predicatul",
+    "explicatie": "Propoziția are două părți principale. Subiectul arată despre cine sau despre ce se vorbește. Predicatul arată ce face subiectul (de obicei un verb).",
+    "exemplu": "„Copiii citesc.” Subiect: copiii (cine?). Predicat: citesc (ce fac?).",
+    "activitate": "În „Bunica gătește”, care este subiectul?",
+    "jocuri": ["Găsesc subiectul și predicatul în 3 propoziții.", "Inventez o propoziție și îi arăt cele două părți."]
+  },
+  {
+    "id": "lr-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "limba-romana",
+    "competenta": "4.2",
+    "titlu": "Scriem corect: „s-a” și „sa”",
+    "explicatie": "„s-a” (cu cratimă) înseamnă „s-a întâmplat ceva” (verb). „sa” (fără cratimă) arată posesia: „cartea sa” = cartea lui. Le deosebim după înțeles.",
+    "exemplu": "El s-a trezit devreme. Maria și-a luat cartea sa.",
+    "activitate": "Completează: „Ana ___ jucat în parc.” (s-a / sa)",
+    "jocuri": ["Aleg forma corectă în propoziții.", "Scriu o propoziție cu „s-a” și una cu „sa”."]
+  },
+  {
+    "id": "lr-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "limba-romana",
+    "competenta": "3.1",
+    "titlu": "Înțelegem un text",
+    "explicatie": "Când citim un text, găsim personajul principal, ce i se întâmplă și care este mesajul (învățătura). Putem ordona întâmplările în ordinea în care s-au petrecut.",
+    "exemplu": "Într-o povestire, Mihai dăruiește mărul său unui copil flămând — mesajul este: „este mai bine să dăruiești decât să primești”.",
+    "activitate": "Care e mesajul unei povești în care un copil ajută pe altul?",
+    "jocuri": ["Pun în ordine 4 întâmplări dintr-o poveste.", "Spun mesajul unei povestiri citite."]
+  }
+]

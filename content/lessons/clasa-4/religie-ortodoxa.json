@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rel-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.1",
+    "titlu": "Cele Zece Porunci",
+    "explicatie": "Dumnezeu i-a dat lui Moise zece porunci, care ne învață cum să trăim frumos: să-L cinstim pe Dumnezeu, să ne cinstim părinții, să nu mințim, să nu furăm, să nu facem rău altora.",
+    "exemplu": "„Cinstește pe tatăl tău și pe mama ta” — o poruncă ce ne învață să ne respectăm părinții.",
+    "activitate": "Care poruncă ne învață să ne respectăm părinții?",
+    "jocuri": ["Spun o regulă bună de comportament.", "Asociez o poruncă cu o faptă bună."]
+  },
+  {
+    "id": "rel-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "religie-ortodoxa",
+    "competenta": "2.1",
+    "titlu": "Milostenia — ajutorul pentru cei în nevoie",
+    "explicatie": "Milostenia înseamnă să-i ajutăm pe cei aflați în nevoie: să dăm de mâncare celui flămând, haine celui sărac, o vorbă bună celui trist. Este o faptă plăcută lui Dumnezeu.",
+    "exemplu": "Când împarți gustarea cu un coleg care nu are, faci o faptă de milostenie.",
+    "activitate": "Cum poți face o faptă de milostenie săptămâna aceasta?",
+    "jocuri": ["Strâng jucării pentru copii care au nevoie.", "Spun trei fapte de milostenie."]
+  },
+  {
+    "id": "rel-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "religie-ortodoxa",
+    "competenta": "3.1",
+    "titlu": "Sfinții — modele de credință",
+    "explicatie": "Sfinții au fost oameni credincioși și buni, care au făcut multe fapte bune. În România sunt cinstiți mulți sfinți, precum Sfânta Parascheva de la Iași și Sfântul Dimitrie Basarabov. Ei ne sunt modele.",
+    "exemplu": "Sfânta Parascheva este ocrotitoarea Moldovei; mulți credincioși o cinstesc la Iași.",
+    "activitate": "De ce sunt sfinții modele pentru noi?",
+    "jocuri": ["Spun o faptă bună a unui sfânt.", "Desenez o biserică cu hramul unui sfânt."]
+  }
+]

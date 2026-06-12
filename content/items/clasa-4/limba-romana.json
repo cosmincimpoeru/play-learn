@@ -1,0 +1,74 @@
+[
+  {
+    "id": "lr-c4-i1", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
+    "enunt": "În „Copiii citesc.”, care este subiectul?",
+    "variante": ["citesc", "Copiii", "Copiii citesc", "niciunul"], "raspunsCorect": 1,
+    "explicatie": "Subiectul arată despre cine se vorbește: „Copiii”.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i2", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
+    "enunt": "În „Bunica gătește.”, care este predicatul?",
+    "variante": ["Bunica", "gătește", "Bunica gătește", "niciunul"], "raspunsCorect": 1,
+    "explicatie": "Predicatul arată ce face subiectul: „gătește”.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i3", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
+    "enunt": "Care cuvânt este pronume personal?",
+    "variante": ["masă", "ea", "frumos", "aleargă"], "raspunsCorect": 1,
+    "explicatie": "„ea” este pronume personal (ține locul unui nume).", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i4", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
+    "enunt": "Completează corect: „Ana ___ jucat în parc.”",
+    "variante": ["s-a", "sa", "za", "s'a"], "raspunsCorect": 0,
+    "explicatie": "Aici e verb: „s-a jucat” (cu cratimă).", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i5", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
+    "enunt": "Completează corect: „Mihai și-a luat cartea ___.”",
+    "variante": ["s-a", "sa", "s-aa", "za"], "raspunsCorect": 1,
+    "explicatie": "Arată posesia: „cartea sa” (fără cratimă).", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i6", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Într-o povestire, Mihai dăruiește mărul său unui copil flămând. Care este mesajul?",
+    "variante": ["Este bine să dăruiești", "Merele sunt roșii", "Trebuie să alergi", "Nu da nimic nimănui"], "raspunsCorect": 0,
+    "explicatie": "Mesajul: este mai bine să dăruiești decât să primești.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i7", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Cum numim personajul cel mai important dintr-o poveste?",
+    "variante": ["personaj principal", "narator tăcut", "cititor", "autor"], "raspunsCorect": 0,
+    "explicatie": "Cel mai important este personajul principal.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i8", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
+    "enunt": "Ce semn pui între cuvintele unei enumerări: „mere, pere ___ prune”?",
+    "variante": ["virgulă (,)", "punct (.)", "semn de întrebare (?)", "niciunul"], "raspunsCorect": 0,
+    "explicatie": "În enumerare folosim virgula: mere, pere, prune.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i9", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
+    "enunt": "În „Ei aleargă repede.”, care este subiectul?",
+    "variante": ["aleargă", "repede", "Ei", "aleargă repede"], "raspunsCorect": 2,
+    "explicatie": "Subiectul este pronumele „Ei” (cine aleargă?).", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i10", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.2", "tip": "adevarat-fals",
+    "enunt": "„s-a” (cu cratimă) este folosit ca verb: „s-a trezit”.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „s-a” cu cratimă apare la verbe: s-a trezit, s-a jucat.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i11", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals",
+    "enunt": "Predicatul arată ce face subiectul.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Predicatul arată acțiunea subiectului.", "punctaj": 1
+  },
+  {
+    "id": "lr-c4-i12", "clasa": "clasa-4", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
+    "enunt": "Care șir conține doar pronume personale?",
+    "variante": ["eu, tu, el, noi", "masă, casă, pom", "mare, mic, frumos", "merge, vine, stă"], "raspunsCorect": 0,
+    "explicatie": "eu, tu, el, noi sunt pronume personale.", "punctaj": 1
+  }
+]

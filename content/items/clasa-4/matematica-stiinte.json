@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mat-c4-i1", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face 2 + 3 × 4?",
+    "variante": ["20", "14", "24", "9"], "raspunsCorect": 1,
+    "explicatie": "Întâi 3×4=12, apoi 2+12=14.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i2", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face (2 + 3) × 4?",
+    "variante": ["14", "20", "24", "9"], "raspunsCorect": 1,
+    "explicatie": "Întâi paranteza: 2+3=5, apoi 5×4=20.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i3", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face 5 + 2 × 3?",
+    "variante": ["21", "11", "13", "30"], "raspunsCorect": 1,
+    "explicatie": "Întâi 2×3=6, apoi 5+6=11.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i4", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.5", "tip": "alegere",
+    "enunt": "Cât face 1/4 + 2/4?",
+    "variante": ["3/4", "3/8", "1/4", "2/4"], "raspunsCorect": 0,
+    "explicatie": "Adunăm numărătorii: 1+2=3, deci 3/4.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i5", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.5", "tip": "alegere",
+    "enunt": "Care fracție este mai mare?",
+    "variante": ["3/5", "2/5", "1/5", "Sunt egale"], "raspunsCorect": 0,
+    "explicatie": "Cu același numitor, 3/5 este cea mai mare.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i6", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care număr este cel mai mare?",
+    "variante": ["99 999", "100 000", "98 765", "89 999"], "raspunsCorect": 1,
+    "explicatie": "100 000 este cel mai mare.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i7", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum se citește numărul 25 400?",
+    "variante": ["două mii cinci sute patruzeci", "douăzeci și cinci de mii patru sute", "două sute cincizeci și patru", "douăzeci și cinci patru"], "raspunsCorect": 1,
+    "explicatie": "25 400 = douăzeci și cinci de mii patru sute.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i8", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "4.1", "tip": "alegere",
+    "enunt": "A câta planetă de la Soare este Pământul?",
+    "variante": ["Prima", "A doua", "A treia", "A patra"], "raspunsCorect": 2,
+    "explicatie": "Pământul este a treia planetă de la Soare.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i9", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "4.1", "tip": "alegere",
+    "enunt": "Câte planete are Sistemul Solar?",
+    "variante": ["7", "8", "9", "10"], "raspunsCorect": 1,
+    "explicatie": "Sistemul Solar are 8 planete.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i10", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "4.1", "tip": "alegere",
+    "enunt": "Ce este Soarele?",
+    "variante": ["O stea", "O planetă", "Un satelit", "Un nor"], "raspunsCorect": 0,
+    "explicatie": "Soarele este o stea.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i11", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "adevarat-fals",
+    "enunt": "Înmulțirea se face înaintea adunării (dacă nu sunt paranteze).",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Înmulțirea/împărțirea au prioritate față de adunare/scădere.", "punctaj": 1
+  },
+  {
+    "id": "mat-c4-i12", "clasa": "clasa-4", "materie": "matematica-stiinte", "competenta": "4.1", "tip": "adevarat-fals",
+    "enunt": "Apa se evaporă, formează nori, apoi cade ca ploaie — acesta este circuitul apei.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Acesta este circuitul apei în natură.", "punctaj": 1
+  }
+]

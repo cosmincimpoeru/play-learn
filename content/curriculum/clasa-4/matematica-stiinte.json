@@ -1,0 +1,38 @@
+{
+  "clasa": "clasa-4",
+  "materie": "matematica-stiinte",
+  "sursa": "OMEN 5003/02.12.2014 — Matematică și Științe ale naturii, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Identificarea unor relații/regularități din mediul apropiat",
+    "Utilizarea numerelor în calcule",
+    "Explorarea caracteristicilor geometrice ale unor obiecte",
+    "Utilizarea unor etaloane pentru măsurări și estimări",
+    "Rezolvarea de probleme în situații familiare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "2.1",
+      "descriere": "Scrierea, citirea și compararea numerelor naturale până la 1 000 000",
+      "obiective": ["Citește și scrie numere mari", "Compară și ordonează numere"],
+      "continuturi": ["Numere naturale 0-1 000 000"]
+    },
+    {
+      "cod": "2.4",
+      "descriere": "Efectuarea operațiilor respectând ordinea efectuării lor",
+      "obiective": ["Efectuează întâi înmulțirea/împărțirea, apoi adunarea/scăderea", "Folosește parantezele"],
+      "continuturi": ["Ordinea efectuării operațiilor"]
+    },
+    {
+      "cod": "2.5",
+      "descriere": "Operarea cu fracții (comparare, adunare cu același numitor)",
+      "obiective": ["Compară fracții simple", "Adună fracții cu același numitor"],
+      "continuturi": ["Fracții"]
+    },
+    {
+      "cod": "4.1",
+      "descriere": "Identificarea unor caracteristici ale corpurilor cerești și ale mediului",
+      "obiective": ["Cunoaște planetele și Sistemul Solar", "Înțelege circuitul apei în natură"],
+      "continuturi": ["Științe: Sistemul Solar", "Circuitul apei"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-4",
+  "materie": "ai-roboti",
+  "sursa": "Conținut custom, adaptat vârstei (10-11 ani) — cum învață AI, folosirea responsabilă, gândire algoritmică",
+  "competenteGenerale": [
+    "Înțelegerea modului în care un program AI învață din date",
+    "Folosirea responsabilă și sigură a tehnologiei și a internetului",
+    "Gândire algoritmică: variabile, condiții și bucle combinate"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Înțelegerea procesului de antrenare a unui model AI (exemple → învățare → predicție)",
+      "obiective": ["Explică pe scurt cum învață AI", "Înțelege rolul exemplelor (datelor)"],
+      "continuturi": ["Antrenarea unui model AI"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Folosirea responsabilă a tehnologiei și recunoașterea informațiilor false",
+      "obiective": ["Verifică o informație din mai multe surse", "Înțelege că AI poate greși"],
+      "continuturi": ["Siguranță online", "Informații false, gândire critică"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Combinarea variabilelor, condițiilor și buclelor într-un algoritm",
+      "obiective": ["Folosește o variabilă simplă (un contor)", "Combină buclă cu condiție"],
+      "continuturi": ["Variabile (contor)", "Algoritmi compleți"]
+    }
+  ]
+}

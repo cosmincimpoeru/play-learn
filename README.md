@@ -27,6 +27,13 @@ PDF-uri programă/teste ──(o dată, cu Claude/Claude Code)──► content/
 | `content/curriculum/{clasa}/{materie}.json` | Programa parsată (competențe) |
 | `content/lessons/{clasa}/{materie}.json` | Lecții (Învățare) |
 | `content/items/{clasa}/{materie}.json` | Banca de itemi (Practică + Teste) |
+| `resources/` | PDF-uri sursă (programe OMEN + teste EN) — referință, **neservite în app** |
+
+## 📚 Acoperire conținut
+
+5 clase × 5 materii, fiecare cu programă + lecții + bancă de itemi:
+Clasa Pregătitoare, Clasa I, a II-a, a III-a, a IV-a ×
+Limba Română, Matematică și Științe, Limba Engleză, Religie Ortodoxă, AI și Roboți.
 
 ## 🔁 Cum adaugi conținut nou (pasul „generezi o dată”)
 

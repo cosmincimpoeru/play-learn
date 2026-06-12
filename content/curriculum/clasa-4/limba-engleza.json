@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-4",
+  "materie": "limba-engleza",
+  "sursa": "Conținut adaptat vârstei — Limba modernă (engleză), Clasa a IV-a",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale simple",
+    "Exprimarea orală a unor mesaje scurte și uzuale",
+    "Receptarea și producerea de mesaje scrise simple"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "2.1",
+      "descriere": "Descrierea unei acțiuni în desfășurare (present continuous: I am ...-ing)",
+      "obiective": ["Spune ce face cineva acum", "Folosește forma „is/are + verb-ing”"],
+      "continuturi": ["Present continuous"]
+    },
+    {
+      "cod": "2.2",
+      "descriere": "Numirea unor meserii în limba engleză",
+      "obiective": ["Numește doctor, teacher, pilot, cook", "Asociază meseria cu activitatea"],
+      "continuturi": ["Jobs"]
+    },
+    {
+      "cod": "2.3",
+      "descriere": "Citirea orei (fixe) în limba engleză",
+      "obiective": ["Spune „It is ... o'clock”", "Recunoaște ora pe ceas"],
+      "continuturi": ["Telling the time"]
+    }
+  ]
+}

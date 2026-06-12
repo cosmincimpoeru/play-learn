@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ai-c4-i1", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care este primul pas prin care învață un AI?",
+    "variante": ["Primește multe exemple (date)", "Doarme", "Face o predicție", "Se oprește"], "raspunsCorect": 0,
+    "explicatie": "Întâi primește multe exemple (date), apoi învață tiparele.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i2", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce face un AI după ce a învățat din exemple?",
+    "variante": ["Face predicții pentru ceva nou", "Uită tot", "Se închide", "Cântă"], "raspunsCorect": 0,
+    "explicatie": "După ce învață, AI face predicții pentru date noi.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i3", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "De ce are nevoie un AI de exemple bune?",
+    "variante": ["Ca să învețe mai bine", "Ca să doarmă", "Ca să fie mai lent", "Nu are nevoie"], "raspunsCorect": 0,
+    "explicatie": "Cu exemple mai bune, AI învață mai bine.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i4", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce faci dacă găsești pe internet o informație care pare neadevărată?",
+    "variante": ["O verific în altă sursă / întreb un adult", "O cred imediat", "O trimit tuturor", "O ignor pe vecie"], "raspunsCorect": 0,
+    "explicatie": "Verificăm din mai multe surse și cerem ajutorul unui adult.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i5", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Poate un program AI să greșească?",
+    "variante": ["Da, de aceea verificăm", "Nu, niciodată", "Doar noaptea", "Doar iarna"], "raspunsCorect": 0,
+    "explicatie": "Da, AI poate greși — de aceea verificăm informațiile.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i6", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum folosim tehnologia corect?",
+    "variante": ["Responsabil și cu grijă", "Fără reguli", "Crezând totul", "Fără ajutorul adulților"], "raspunsCorect": 0,
+    "explicatie": "Tehnologia se folosește responsabil, cu grijă și cu ajutorul adulților.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i7", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce este o variabilă în programare?",
+    "variante": ["O „cutie” în care păstrăm o valoare", "Un animal", "O culoare", "Un robot"], "raspunsCorect": 0,
+    "explicatie": "O variabilă păstrează o valoare pe care o putem schimba.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i8", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Dacă scor = 0 și aduni de 2 ori câte 1, cât e scorul?",
+    "variante": ["1", "2", "3", "0"], "raspunsCorect": 1,
+    "explicatie": "0 + 1 + 1 = 2.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i9", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "„scor = 0. Repetă de 3 ori: adună 1 la scor.” Cât este scorul la final?",
+    "variante": ["1", "2", "3", "0"], "raspunsCorect": 2,
+    "explicatie": "Aduni 1 de trei ori: 0+1+1+1 = 3.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i10", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Un AI învață din date (exemple), nu din nimic.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! AI învață din multe exemple (date).", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i11", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Nu trebuie să credem orice informație de pe internet.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Verificăm informațiile din surse de încredere.", "punctaj": 1
+  },
+  {
+    "id": "ai-c4-i12", "clasa": "clasa-4", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Un contor este o variabilă care numără ceva.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Un contor ține socoteala (numără).", "punctaj": 1
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ai-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "ai-roboti",
+    "competenta": "1.1",
+    "titlu": "Cum învață un AI",
+    "explicatie": "Un model AI învață în trei pași: 1) primește multe exemple (date), 2) învață tiparele din ele, 3) face o predicție pentru ceva nou. Cu cât are exemple mai bune, cu atât învață mai bine.",
+    "exemplu": "Îi arăți unui AI mii de poze cu câini și pisici (exemple), el învață diferențele, apoi recunoaște o poză nouă (predicție).",
+    "activitate": "Care sunt cei trei pași prin care învață un AI?",
+    "jocuri": ["Mă joc de-a AI-ul: sortez poze după reguli.", "Explic unui prieten cum învață AI."]
+  },
+  {
+    "id": "ai-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "ai-roboti",
+    "competenta": "2.1",
+    "titlu": "Folosim tehnologia cu cap",
+    "explicatie": "Tehnologia și AI sunt utile, dar trebuie folosite responsabil. AI poate greși sau poate da informații false. De aceea verificăm informațiile din mai multe surse și nu credem totul de pe internet. Cerem ajutorul unui adult când avem dubii.",
+    "exemplu": "Dacă un program îți spune ceva ciudat, întrebi un adult sau cauți în altă sursă de încredere.",
+    "activitate": "Ce faci dacă găsești o informație care pare neadevărată?",
+    "jocuri": ["Compar aceeași informație din 2 surse.", "Discut cu un adult ce înseamnă o sursă de încredere."]
+  },
+  {
+    "id": "ai-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "ai-roboti",
+    "competenta": "3.1",
+    "titlu": "Variabile și algoritmi compleți",
+    "explicatie": "O variabilă este o „cutie” în care păstrăm un număr și îl putem schimba. De exemplu, un contor numără câte ceva. Combinând variabile, bucle și condiții, scriem algoritmi mai puternici.",
+    "exemplu": "scor = 0. Repetă de 3 ori: dacă ai răspuns corect, adună 1 la scor. La final, scor poate fi 0, 1, 2 sau 3.",
+    "activitate": "Dacă scor = 0 și aduni de 2 ori câte 1, cât e scorul?",
+    "jocuri": ["Țin un contor de puncte într-un joc.", "Scriu un mini-algoritm cu o variabilă și o buclă."]
+  }
+]

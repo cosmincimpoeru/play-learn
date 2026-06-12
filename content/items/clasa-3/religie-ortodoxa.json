@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rel-c3-i1", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum se numește cartea sfântă a creștinilor?",
+    "variante": ["Biblia (Sfânta Scriptură)", "Abecedarul", "Dicționarul", "Atlasul"], "raspunsCorect": 0,
+    "explicatie": "Biblia, sau Sfânta Scriptură, este cartea sfântă a creștinilor.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i2", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Despre ce aflăm în Biblie?",
+    "variante": ["Despre Dumnezeu și binele", "Despre rețete", "Despre roboți", "Despre fotbal"], "raspunsCorect": 0,
+    "explicatie": "În Biblie aflăm despre Dumnezeu și învățăm să facem binele.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i3", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este porunca cea mare dată de Domnul Iisus?",
+    "variante": ["Să-L iubim pe Dumnezeu și pe aproapele", "Să fugim", "Să tăcem mereu", "Să adunăm jucării"], "raspunsCorect": 0,
+    "explicatie": "Porunca iubirii: să-L iubim pe Dumnezeu și pe aproapele.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i4", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Prin ce se arată iubirea față de aproapele?",
+    "variante": ["Prin fapte bune", "Prin ceartă", "Prin supărare", "Prin grabă"], "raspunsCorect": 0,
+    "explicatie": "Iubirea se arată prin fapte bune: ajutor, blândețe, iertare.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i5", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce sărbătorim de Paște?",
+    "variante": ["Învierea Domnului", "Nașterea Domnului", "Pogorârea Sfântului Duh", "Ziua recoltei"], "raspunsCorect": 0,
+    "explicatie": "De Paște sărbătorim Învierea Domnului.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i6", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce sărbătorim de Crăciun?",
+    "variante": ["Nașterea Domnului", "Învierea Domnului", "Rusaliile", "Boboteaza copiilor"], "raspunsCorect": 0,
+    "explicatie": "De Crăciun sărbătorim Nașterea Domnului.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i7", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "La ce sărbătoare prăznuim Pogorârea Sfântului Duh?",
+    "variante": ["Rusalii", "Crăciun", "Paște", "Florii"], "raspunsCorect": 0,
+    "explicatie": "De Rusalii prăznuim Pogorârea Sfântului Duh 🕊️.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i8", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este o faptă de iubire față de aproapele?",
+    "variante": ["Să ajuți un coleg", "Să te superi", "Să râzi de cineva", "Să strici"], "raspunsCorect": 0,
+    "explicatie": "Să ajuți un coleg este o faptă de iubire.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i9", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Biblia ne învață să facem binele.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Biblia ne învață să trăim frumos și să facem binele.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i10", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Porunca iubirii ne cere să-L iubim pe Dumnezeu și pe aproapele.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Aceasta este porunca iubirii.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i11", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Sărbătorile creștine sunt zile de bucurie și rugăciune.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Sunt zile de bucurie, rugăciune și bunătate.", "punctaj": 1
+  },
+  {
+    "id": "rel-c3-i12", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cine este personajul principal al Sfintei Scripturi, prin care Dumnezeu Se face cunoscut?",
+    "variante": ["Domnul Iisus Hristos", "Un rege oarecare", "Un negustor", "Un soldat"], "raspunsCorect": 0,
+    "explicatie": "Domnul Iisus Hristos ni-L face cunoscut pe Dumnezeu.", "punctaj": 1
+  }
+]

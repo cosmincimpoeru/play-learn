@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-3",
+  "materie": "limba-engleza",
+  "sursa": "Conținut adaptat vârstei — Limba modernă (engleză), Clasa a III-a",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale simple",
+    "Exprimarea orală a unor mesaje scurte și uzuale",
+    "Receptarea și producerea de mesaje scrise simple"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "2.1",
+      "descriere": "Folosirea verbului „to be” (I am, you are) și a expresiilor simple",
+      "obiective": ["Spune „I am...”, „You are...”", "Se prezintă în engleză"],
+      "continuturi": ["The verb to be", "Introducing myself"]
+    },
+    {
+      "cod": "2.2",
+      "descriere": "Numirea părților corpului în limba engleză",
+      "obiective": ["Numește head, hand, leg, eye", "Asociază cuvântul cu partea corpului"],
+      "continuturi": ["Body parts"]
+    },
+    {
+      "cod": "2.3",
+      "descriere": "Vorbirea despre activități preferate (hobbies)",
+      "obiective": ["Spune „I like...”", "Numește activități: read, play, sing"],
+      "continuturi": ["Hobbies", "I like..."]
+    }
+  ]
+}

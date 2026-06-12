@@ -1,0 +1,74 @@
+[
+  {
+    "id": "en-c3-i1", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „Eu sunt” în engleză?",
+    "variante": ["You are", "I am", "He is", "We are"], "raspunsCorect": 1,
+    "explicatie": "„I am” înseamnă „Eu sunt”.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i2", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce înseamnă „My name is Ana”?",
+    "variante": ["Numele meu este Ana", "Eu am o pisică", "Ana este aici", "Bună, Ana"], "raspunsCorect": 0,
+    "explicatie": "„My name is Ana” = Numele meu este Ana.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i3", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „head”? 👤",
+    "variante": ["mână", "cap", "picior", "ochi"], "raspunsCorect": 1,
+    "explicatie": "„Head” înseamnă cap.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i4", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „mână” în engleză? ✋",
+    "variante": ["leg", "hand", "eye", "ear"], "raspunsCorect": 1,
+    "explicatie": "„Hand” înseamnă mână.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i5", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „eye”? 👁️",
+    "variante": ["ureche", "ochi", "nas", "gură"], "raspunsCorect": 1,
+    "explicatie": "„Eye” înseamnă ochi.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i6", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „picior” în engleză? 🦵",
+    "variante": ["leg", "hand", "head", "ear"], "raspunsCorect": 0,
+    "explicatie": "„Leg” înseamnă picior.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i7", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce înseamnă „I like to read”?",
+    "variante": ["Îmi place să citesc", "Îmi place să cânt", "Îmi place să dorm", "Îmi place să alerg"], "raspunsCorect": 0,
+    "explicatie": "„read” = a citi, deci „Îmi place să citesc”.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i8", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Cum spui „a cânta” în engleză?",
+    "variante": ["read", "play", "sing", "draw"], "raspunsCorect": 2,
+    "explicatie": "„Sing” înseamnă a cânta.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i9", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce înseamnă „draw”?",
+    "variante": ["a desena", "a citi", "a se juca", "a cânta"], "raspunsCorect": 0,
+    "explicatie": "„Draw” înseamnă a desena.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i10", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce înseamnă „happy”?",
+    "variante": ["trist", "vesel", "obosit", "supărat"], "raspunsCorect": 1,
+    "explicatie": "„Happy” înseamnă vesel.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i11", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.2", "tip": "adevarat-fals",
+    "enunt": "„Ear” înseamnă ureche.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Ear” înseamnă ureche.", "punctaj": 1
+  },
+  {
+    "id": "en-c3-i12", "clasa": "clasa-3", "materie": "limba-engleza", "competenta": "2.3", "tip": "adevarat-fals",
+    "enunt": "„I like to play” înseamnă „Îmi place să mă joc”.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „play” = a se juca.", "punctaj": 1
+  }
+]

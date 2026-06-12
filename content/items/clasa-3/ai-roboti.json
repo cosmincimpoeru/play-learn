@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ai-c3-i1", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "„Repetă de 5 ori: bate din palme.” De câte ori bați?",
+    "variante": ["3", "4", "5", "6"], "raspunsCorect": 2,
+    "explicatie": "Bucla repetă de 5 ori, deci bați de 5 ori.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i2", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum scrii mai scurt: pas, pas, pas, pas?",
+    "variante": ["repetă de 4 ori: pas", "repetă de 2 ori: pas", "pas o dată", "stop"], "raspunsCorect": 0,
+    "explicatie": "Patru pași = „repetă de 4 ori: pas”.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i3", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "„Repetă de 3 ori: sari și strigă hop.” Câte „hop” se aud?",
+    "variante": ["1", "2", "3", "6"], "raspunsCorect": 2,
+    "explicatie": "Bucla repetă de 3 ori, deci 3 „hop”.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i4", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Robotul trebuie să meargă 3 căsuțe la dreapta. Ce comandă repeți de 3 ori?",
+    "variante": ["dreapta", "stânga", "sus", "jos"], "raspunsCorect": 0,
+    "explicatie": "Repeți comanda „dreapta” de 3 ori.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i5", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ținta e cu 2 căsuțe la dreapta și 1 sus. Ce secvență e corectă?",
+    "variante": ["dreapta, dreapta, sus", "sus, sus, dreapta", "stânga, jos", "jos, jos, jos"], "raspunsCorect": 0,
+    "explicatie": "2 la dreapta + 1 sus = dreapta, dreapta, sus.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i6", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "O comandă mută robotul cu...?",
+    "variante": ["O căsuță", "Trei căsuțe", "Tot tabloul", "Niciuna"], "raspunsCorect": 0,
+    "explicatie": "Fiecare comandă mută robotul cu o căsuță.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i7", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Cum ne ajută inteligența artificială?",
+    "variante": ["Traduce și recomandă", "Gătește singură", "Spală vasele cu mâna", "Doarme"], "raspunsCorect": 0,
+    "explicatie": "AI traduce limbi, recomandă conținut și recunoaște vocea.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i8", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Din ce învață un program AI?",
+    "variante": ["Din multe exemple (date)", "Din nimic", "Dintr-o singură poză", "Din somn"], "raspunsCorect": 0,
+    "explicatie": "AI învață din multe exemple, adică din date.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i9", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Când o aplicație îți sugerează un desen animat care îți place, folosește...?",
+    "variante": ["AI (recomandare)", "Un creion", "O hartă", "O lingură"], "raspunsCorect": 0,
+    "explicatie": "Aplicația folosește AI ca să recomande ce îți place.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i10", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "O buclă ne ajută să scriem mai scurt pașii care se repetă.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Bucla scurtează pașii repetați.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i11", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Pe o grilă, comenzile „sus, jos, stânga, dreapta” mișcă robotul.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Acestea sunt comenzile de mișcare pe grilă.", "punctaj": 1
+  },
+  {
+    "id": "ai-c3-i12", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Un asistent vocal recunoaște vocea folosind inteligența artificială.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Recunoașterea vocii folosește AI.", "punctaj": 1
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lr-c3-l1",
+    "clasa": "clasa-3",
+    "materie": "limba-romana",
+    "competenta": "4.1",
+    "titlu": "Substantivul — numele lucrurilor",
+    "explicatie": "Substantivul este cuvântul care denumește ființe, lucruri sau locuri: copil, masă, oraș. Substantivul poate fi la singular (un lucru) sau plural (mai multe).",
+    "exemplu": "carte (singular) → cărți (plural). copac → copaci. floare → flori.",
+    "activitate": "Găsește substantivul: „Pisica doarme.” Care cuvânt denumește o ființă?",
+    "jocuri": ["Caut 5 substantive în cameră.", "Trec substantive de la singular la plural."]
+  },
+  {
+    "id": "lr-c3-l2",
+    "clasa": "clasa-3",
+    "materie": "limba-romana",
+    "competenta": "4.1",
+    "titlu": "Adjectivul și verbul",
+    "explicatie": "Adjectivul arată cum este ceva (mare, roșu, frumos). Verbul arată ce face cineva (aleargă, citește, doarme).",
+    "exemplu": "„Câinele mic aleargă.” mic = adjectiv (cum e), aleargă = verb (ce face).",
+    "activitate": "În „Floarea galbenă înflorește”, care cuvânt este adjectiv?",
+    "jocuri": ["Descriu un obiect cu 3 adjective.", "Spun ce face un animal — folosind verbe."]
+  },
+  {
+    "id": "lr-c3-l3",
+    "clasa": "clasa-3",
+    "materie": "limba-romana",
+    "competenta": "4.2",
+    "titlu": "Scriem corect: „într-o” și „dintr-o”",
+    "explicatie": "Scriem „într-o” și „dintr-o” cu cratimă (-). „într-o” arată locul unde intri, „dintr-o” arată locul de unde ieși.",
+    "exemplu": "Intru într-o cameră. Ies dintr-o cutie.",
+    "activitate": "Completează: „Am pus jucăria ___ cutie.” (într-o / dintr-o)",
+    "jocuri": ["Aleg forma corectă în propoziții.", "Scriu două propoziții cu „într-o” și „dintr-o”."]
+  }
+]

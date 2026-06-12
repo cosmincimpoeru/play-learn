@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-3",
+  "materie": "ai-roboti",
+  "sursa": "Conținut custom, adaptat vârstei (9-10 ani) — programare cu bucle, orientare pe grilă, AI în viața de zi cu zi",
+  "competenteGenerale": [
+    "Construirea unor algoritmi cu repetiție (bucle)",
+    "Orientarea unui robot pe o grilă folosind comenzi",
+    "Înțelegerea modului în care AI ne ajută în viața de zi cu zi"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Folosirea buclelor („repetă de N ori”) pentru a scurta un algoritm",
+      "obiective": ["Înlocuiește pași repetați cu o buclă", "Calculează rezultatul unei bucle"],
+      "continuturi": ["Bucle / repetiție"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Orientarea pe o grilă folosind comenzi (sus, jos, stânga, dreapta)",
+      "obiective": ["Urmează o secvență de comenzi pe grilă", "Ajunge la țintă cu pașii corecți"],
+      "continuturi": ["Comenzi de mișcare", "Coordonate simple"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea unor aplicații ale inteligenței artificiale în viața reală",
+      "obiective": ["Dă exemple de AI util (traduceri, recomandări)", "Înțelege că AI învață din date"],
+      "continuturi": ["AI în viața de zi cu zi"]
+    }
+  ]
+}

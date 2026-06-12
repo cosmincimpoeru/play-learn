@@ -1,0 +1,31 @@
+{
+  "clasa": "clasa-3",
+  "materie": "limba-romana",
+  "sursa": "OMEN 5003/02.12.2014 — Limba și literatura română, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale în contexte de comunicare variate",
+    "Exprimarea de mesaje orale în diverse situații de comunicare",
+    "Receptarea de mesaje scrise în diverse contexte de comunicare",
+    "Redactarea de mesaje în diverse situații de comunicare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "3.1",
+      "descriere": "Extragerea unor informații de detaliu dintr-un text citit",
+      "obiective": ["Identifică informații din text", "Răspunde la întrebări despre text"],
+      "continuturi": ["Textul literar și nonliterar", "Înțelegerea textului"]
+    },
+    {
+      "cod": "4.1",
+      "descriere": "Aplicarea regulilor de despărțire în silabe și a unor noțiuni de gramatică",
+      "obiective": ["Recunoaște substantivul, adjectivul și verbul", "Identifică numărul (singular/plural)"],
+      "continuturi": ["Substantivul", "Adjectivul", "Verbul", "Numărul"]
+    },
+    {
+      "cod": "4.2",
+      "descriere": "Redactarea unor texte scurte, respectând reguli de ortografie și punctuație",
+      "obiective": ["Folosește corect „într-o” și „dintr-o”", "Scrie o compunere scurtă"],
+      "continuturi": ["Ortografie", "Compunerea"]
+    }
+  ]
+}

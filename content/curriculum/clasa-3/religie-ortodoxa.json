@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-3",
+  "materie": "religie-ortodoxa",
+  "sursa": "OMEN 5001/02.12.2014 — Religie, Cultul ortodox, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Aplicarea unor norme de comportament specific moralei religioase, în diferite contexte de viață",
+    "Colaborarea cu copiii și cu adulții din mediul familiar, în acord cu valorile religioase",
+    "Explorarea activă a unor elemente din viața de zi cu zi, din perspectiva propriei credințe"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea Sfintei Scripturi (Biblia) ca o carte sfântă a creștinilor",
+      "obiective": ["Cunoaște ce este Biblia", "Înțelege că Biblia ne învață lucruri bune"],
+      "continuturi": ["Sfânta Scriptură (Biblia)"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Aplicarea poruncii iubirii în relațiile cu Dumnezeu și cu semenii",
+      "obiective": ["Înțelege porunca iubirii", "Dă exemple de fapte de iubire"],
+      "continuturi": ["Porunca iubirii", "Iubirea de Dumnezeu și de aproapele"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea marilor sărbători creștine și a semnificației lor",
+      "obiective": ["Cunoaște Crăciunul, Paștele, Rusaliile", "Înțelege bucuria sărbătorii"],
+      "continuturi": ["Mari sărbători creștine"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mat-c3-l1",
+    "clasa": "clasa-3",
+    "materie": "matematica-stiinte",
+    "competenta": "2.4",
+    "titlu": "Înmulțirea și împărțirea",
+    "explicatie": "Înmulțirea adună grupuri egale: 4 × 3 = 12. Împărțirea împarte în grupuri egale: 12 : 3 = 4 (12 împărțit în 3 grupuri dă 4 în fiecare).",
+    "exemplu": "6 × 5 = 30. 30 : 5 = 6. Înmulțirea și împărțirea sunt operații „pereche”.",
+    "activitate": "Cât face 24 : 4?",
+    "jocuri": ["Împart 12 bomboane la 3 copii în mod egal.", "Spun tabla înmulțirii cu 4."]
+  },
+  {
+    "id": "mat-c3-l2",
+    "clasa": "clasa-3",
+    "materie": "matematica-stiinte",
+    "competenta": "2.5",
+    "titlu": "Fracții: jumătate și sfert",
+    "explicatie": "Când împărțim un întreg în părți egale, obținem fracții. Jumătate (1/2) înseamnă 1 din 2 părți egale. Sfert (1/4) înseamnă 1 din 4 părți egale.",
+    "exemplu": "O pizză tăiată în 2 → o felie este o jumătate (1/2). Tăiată în 4 → o felie este un sfert (1/4).",
+    "activitate": "Dacă tai un măr în 2 părți egale, o parte este...?",
+    "jocuri": ["Împart o foaie în 4 părți egale.", "Colorez jumătate dintr-un desen."]
+  },
+  {
+    "id": "mat-c3-l3",
+    "clasa": "clasa-3",
+    "materie": "matematica-stiinte",
+    "competenta": "4.1",
+    "titlu": "Cele cinci simțuri",
+    "explicatie": "Omul are cinci simțuri: văzul (ochii), auzul (urechile), mirosul (nasul), gustul (limba) și pipăitul (pielea). Ele ne ajută să cunoaștem lumea.",
+    "exemplu": "Cu ochii vedem culorile, cu urechile auzim muzica, cu nasul mirosim florile.",
+    "activitate": "Cu ce simț afli că o floare miroase frumos?",
+    "jocuri": ["Ghicesc un obiect doar pipăind.", "Asociez fiecare simț cu organul potrivit."]
+  }
+]

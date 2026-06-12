@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mat-c3-i1", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face 6 × 5?",
+    "variante": ["11", "30", "25", "35"], "raspunsCorect": 1,
+    "explicatie": "6 × 5 = 30.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i2", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face 24 : 4?",
+    "variante": ["5", "6", "7", "8"], "raspunsCorect": 1,
+    "explicatie": "24 : 4 = 6.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i3", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face 7 × 8?",
+    "variante": ["54", "56", "63", "49"], "raspunsCorect": 1,
+    "explicatie": "7 × 8 = 56.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i4", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "alegere",
+    "enunt": "Cât face 36 : 6?",
+    "variante": ["5", "6", "7", "8"], "raspunsCorect": 1,
+    "explicatie": "36 : 6 = 6.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i5", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.5", "tip": "alegere",
+    "enunt": "O pizza este tăiată în 2 părți egale. O parte este...?",
+    "variante": ["O jumătate (1/2)", "Un sfert (1/4)", "Un întreg", "Trei părți"], "raspunsCorect": 0,
+    "explicatie": "1 din 2 părți egale = o jumătate (1/2).", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i6", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.5", "tip": "alegere",
+    "enunt": "Un tort tăiat în 4 părți egale — o felie este...?",
+    "variante": ["O jumătate", "Un sfert (1/4)", "Un întreg", "Două jumătăți"], "raspunsCorect": 1,
+    "explicatie": "1 din 4 părți egale = un sfert (1/4).", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i7", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care număr este cel mai mare?",
+    "variante": ["2350", "3250", "2530", "3052"], "raspunsCorect": 1,
+    "explicatie": "3250 are cele mai multe mii și e cel mai mare.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i8", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Câte mii are numărul 4 567?",
+    "variante": ["4", "5", "6", "7"], "raspunsCorect": 0,
+    "explicatie": "4 567 are 4 mii.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i9", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "4.1", "tip": "alegere",
+    "enunt": "Cu ce simț mirosim o floare?",
+    "variante": ["Văzul", "Mirosul (nasul)", "Auzul", "Gustul"], "raspunsCorect": 1,
+    "explicatie": "Mirosim cu nasul — simțul mirosului.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i10", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "4.1", "tip": "alegere",
+    "enunt": "Câte simțuri are omul?",
+    "variante": ["3", "4", "5", "6"], "raspunsCorect": 2,
+    "explicatie": "Omul are 5 simțuri: văz, auz, miros, gust, pipăit.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i11", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.4", "tip": "adevarat-fals",
+    "enunt": "Înmulțirea și împărțirea sunt operații „pereche”: dacă 6×5=30, atunci 30:5=6.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Una „desface” ce face cealaltă.", "punctaj": 1
+  },
+  {
+    "id": "mat-c3-i12", "clasa": "clasa-3", "materie": "matematica-stiinte", "competenta": "2.5", "tip": "adevarat-fals",
+    "enunt": "Două jumătăți (1/2 + 1/2) formează un întreg.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Două jumătăți fac un întreg.", "punctaj": 1
+  }
+]

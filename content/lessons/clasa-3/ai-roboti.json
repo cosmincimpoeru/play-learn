@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ai-c3-l1",
+    "clasa": "clasa-3",
+    "materie": "ai-roboti",
+    "competenta": "1.1",
+    "titlu": "Bucle — repetăm inteligent",
+    "explicatie": "În loc să scriem același pas de multe ori, folosim o buclă: „repetă de N ori”. Așa programul e mai scurt. Dacă „repetă de 3 ori: pas înainte”, robotul face 3 pași.",
+    "exemplu": "În loc de: pas, pas, pas, pas → scriem „repetă de 4 ori: pas”.",
+    "activitate": "„Repetă de 5 ori: bate din palme.” De câte ori bați?",
+    "jocuri": ["Scriu o buclă pentru a desena un pătrat (repetă de 4 ori: linie + întoarce).", "Transform pași repetați într-o buclă."]
+  },
+  {
+    "id": "ai-c3-l2",
+    "clasa": "clasa-3",
+    "materie": "ai-roboti",
+    "competenta": "2.1",
+    "titlu": "Mișcăm robotul pe grilă",
+    "explicatie": "Un robot pe o grilă se mișcă cu comenzi: sus, jos, stânga, dreapta. Fiecare comandă îl mută o căsuță. Ca să ajungă la țintă, dăm comenzile în ordinea corectă.",
+    "exemplu": "Robotul e jos-stânga, ținta e cu 2 căsuțe la dreapta și 1 sus: dreapta, dreapta, sus.",
+    "activitate": "Robotul trebuie să meargă 3 căsuțe la dreapta. Ce comandă repeți?",
+    "jocuri": ["Desenez un traseu pe caiet cu pătrățele.", "Dau comenzi unui prieten-robot să ajungă la ușă."]
+  },
+  {
+    "id": "ai-c3-l3",
+    "clasa": "clasa-3",
+    "materie": "ai-roboti",
+    "competenta": "3.1",
+    "titlu": "AI ne ajută în fiecare zi",
+    "explicatie": "Inteligența artificială ne ajută în multe feluri: traduce dintr-o limbă în alta, recomandă desene animate care ne plac, recunoaște vocea când vorbim cu telefonul. AI învață din multe exemple (date).",
+    "exemplu": "Când o aplicație îți sugerează un desen animat care îți place, folosește AI care a învățat ce ai mai văzut.",
+    "activitate": "Dă un exemplu de moment în care un telefon „te înțelege” folosind AI.",
+    "jocuri": ["Spun 3 lucruri la care ne ajută AI.", "Mă joc de-a „traducătorul” între două cuvinte."]
+  }
+]

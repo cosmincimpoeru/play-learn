@@ -1,0 +1,38 @@
+{
+  "clasa": "clasa-3",
+  "materie": "matematica-stiinte",
+  "sursa": "OMEN 5003/02.12.2014 — Matematică și Științe ale naturii, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Identificarea unor relații/regularități din mediul apropiat",
+    "Utilizarea numerelor în calcule",
+    "Explorarea caracteristicilor geometrice ale unor obiecte",
+    "Utilizarea unor etaloane pentru măsurări și estimări",
+    "Rezolvarea de probleme în situații familiare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "2.1",
+      "descriere": "Scrierea, citirea și compararea numerelor naturale până la 10 000",
+      "obiective": ["Citește și scrie numere până la 10 000", "Compară și ordonează numere"],
+      "continuturi": ["Numere naturale 0-10 000"]
+    },
+    {
+      "cod": "2.4",
+      "descriere": "Efectuarea de înmulțiri și împărțiri în concentrul 0-10 000",
+      "obiective": ["Înmulțește și împarte numere", "Cunoaște tabla înmulțirii"],
+      "continuturi": ["Înmulțirea și împărțirea"]
+    },
+    {
+      "cod": "2.5",
+      "descriere": "Recunoașterea intuitivă a fracțiilor simple (jumătate, sfert)",
+      "obiective": ["Recunoaște 1/2 și 1/4 dintr-un întreg", "Împarte în părți egale"],
+      "continuturi": ["Fracții: jumătate, sfert"]
+    },
+    {
+      "cod": "4.1",
+      "descriere": "Identificarea unor caracteristici ale corpului uman și ale mediului",
+      "obiective": ["Cunoaște organe de simț", "Recunoaște nevoile plantelor și animalelor"],
+      "continuturi": ["Științe: corpul uman, viețuitoare"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rel-c3-l1",
+    "clasa": "clasa-3",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.1",
+    "titlu": "Sfânta Scriptură — Biblia",
+    "explicatie": "Biblia (Sfânta Scriptură) este cartea sfântă a creștinilor. În ea aflăm despre Dumnezeu, despre crearea lumii și despre viața Domnului Iisus Hristos. Ne învață să trăim frumos și să facem binele.",
+    "exemplu": "În Biblie citim despre crearea lumii, despre Nașterea Domnului și despre pildele Sale.",
+    "activitate": "Cum se numește cartea sfântă a creștinilor?",
+    "jocuri": ["Desenez coperta unei cărți sfinte.", "Spun o învățătură bună pe care o cunosc."]
+  },
+  {
+    "id": "rel-c3-l2",
+    "clasa": "clasa-3",
+    "materie": "religie-ortodoxa",
+    "competenta": "2.1",
+    "titlu": "Porunca iubirii",
+    "explicatie": "Domnul Iisus ne-a dat porunca cea mare: să-L iubim pe Dumnezeu și să ne iubim aproapele ca pe noi înșine. Iubirea se arată prin fapte bune: ajutor, blândețe, iertare.",
+    "exemplu": "Când ajuți un coleg, când ești blând cu fratele tău, când ierți — împlinești porunca iubirii.",
+    "activitate": "Cum poți arăta iubire față de aproapele tău azi?",
+    "jocuri": ["Fac o faptă de iubire acasă.", "Spun trei moduri de a fi bun cu ceilalți."]
+  },
+  {
+    "id": "rel-c3-l3",
+    "clasa": "clasa-3",
+    "materie": "religie-ortodoxa",
+    "competenta": "3.1",
+    "titlu": "Marile sărbători creștine",
+    "explicatie": "Creștinii au sărbători mari: Crăciunul (Nașterea Domnului), Paștele (Învierea Domnului) și Rusaliile (Pogorârea Sfântului Duh). Sunt zile de bucurie, rugăciune și bunătate.",
+    "exemplu": "🎄 Crăciun — Nașterea Domnului · ✝️ Paște — Învierea Domnului · 🕊️ Rusalii — Sfântul Duh",
+    "activitate": "Ce sărbătoare creștină este cea a Învierii Domnului?",
+    "jocuri": ["Asociez sărbătoarea cu semnificația ei.", "Desenez un simbol al unei sărbători."]
+  }
+]

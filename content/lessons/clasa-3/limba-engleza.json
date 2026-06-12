@@ -1,0 +1,35 @@
+[
+  {
+    "id": "en-c3-l1",
+    "clasa": "clasa-3",
+    "materie": "limba-engleza",
+    "competenta": "2.1",
+    "titlu": "I am... — Mă prezint",
+    "explicatie": "În engleză ne prezentăm cu verbul „to be”: „I am” = eu sunt, „You are” = tu ești. „My name is...” = numele meu este...",
+    "exemplu": "I am happy. My name is Ana. You are my friend.",
+    "activitate": "Cum spui „Eu sunt vesel” în engleză? (happy = vesel)",
+    "jocuri": ["Mă prezint în engleză: „My name is...”.", "Spun cum mă simt azi: „I am...”."]
+  },
+  {
+    "id": "en-c3-l2",
+    "clasa": "clasa-3",
+    "materie": "limba-engleza",
+    "competenta": "2.2",
+    "titlu": "Body parts — Părțile corpului",
+    "explicatie": "Părțile corpului în engleză: head (cap), hand (mână), leg (picior), eye (ochi), ear (ureche).",
+    "exemplu": "👤 head · ✋ hand · 🦵 leg · 👁️ eye",
+    "activitate": "Cum spui „mână” în engleză?",
+    "jocuri": ["Arăt o parte a corpului și o numesc în engleză.", "Joc „Simon says: touch your head!”."]
+  },
+  {
+    "id": "en-c3-l3",
+    "clasa": "clasa-3",
+    "materie": "limba-engleza",
+    "competenta": "2.3",
+    "titlu": "I like... — Ce îmi place",
+    "explicatie": "Spunem ce ne place cu „I like...”: read (a citi), play (a se juca), sing (a cânta), draw (a desena).",
+    "exemplu": "I like to read. I like to play. I like to sing.",
+    "activitate": "Cum spui „Îmi place să cânt” în engleză? (sing = a cânta)",
+    "jocuri": ["Spun 3 activități care îmi plac în engleză.", "Desenez ce îmi place și scriu „I like...”."]
+  }
+]

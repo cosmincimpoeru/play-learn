@@ -1,0 +1,31 @@
+{
+  "clasa": "clasa-2",
+  "materie": "limba-romana",
+  "sursa": "OMEN 3418/19.03.2013 — Comunicare în limba română, Clasa a II-a",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale în contexte de comunicare cunoscute",
+    "Exprimarea de mesaje orale în diverse situații de comunicare",
+    "Receptarea unei varietăți de mesaje scrise, în contexte de comunicare cunoscute",
+    "Redactarea de mesaje în diverse situații de comunicare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "3.1",
+      "descriere": "Citirea unor mesaje scrise, întâlnite în mediul cunoscut",
+      "obiective": ["Citește un text scurt", "Înțelege despre ce este textul"],
+      "continuturi": ["Citirea textului", "Înțelegerea textului scris"]
+    },
+    {
+      "cod": "3.2",
+      "descriere": "Identificarea unor informații dintr-un text citit",
+      "obiective": ["Găsește informația cerută în text", "Răspunde la întrebări despre text"],
+      "continuturi": ["Informații din text", "Personaje, loc, timp"]
+    },
+    {
+      "cod": "4.2",
+      "descriere": "Redactarea unor mesaje scurte, folosind semnele de punctuație",
+      "obiective": ["Folosește punctul și semnul întrebării", "Scrie corect cu literă mare la început"],
+      "continuturi": ["Semnele de punctuație: punctul, semnul întrebării", "Litera mare"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-2",
+  "materie": "limba-engleza",
+  "sursa": "Conținut adaptat vârstei (limba engleză), Clasa a II-a",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale simple în limba engleză",
+    "Exprimarea orală a unor cuvinte și expresii uzuale",
+    "Recunoașterea unor cuvinte familiare scrise"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "2.1",
+      "descriere": "Numirea zilelor săptămânii în limba engleză",
+      "obiective": ["Spune Monday, Tuesday...", "Recunoaște ziua corectă"],
+      "continuturi": ["Days of the week"]
+    },
+    {
+      "cod": "2.2",
+      "descriere": "Numirea unor alimente uzuale în limba engleză",
+      "obiective": ["Numește apple, bread, milk, water", "Asociază cuvântul cu alimentul"],
+      "continuturi": ["Food"]
+    },
+    {
+      "cod": "2.3",
+      "descriere": "Descrierea vremii în limba engleză",
+      "obiective": ["Spune sunny, rainy, cloudy", "Asociază cuvântul cu vremea"],
+      "continuturi": ["Weather"]
+    }
+  ]
+}

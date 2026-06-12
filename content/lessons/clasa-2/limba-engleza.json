@@ -1,0 +1,35 @@
+[
+  {
+    "id": "en-c2-l1",
+    "clasa": "clasa-2",
+    "materie": "limba-engleza",
+    "competenta": "2.1",
+    "titlu": "Days of the week — Zilele",
+    "explicatie": "Zilele săptămânii în engleză: Monday (luni), Tuesday (marți), Wednesday (miercuri), Thursday (joi), Friday (vineri), Saturday (sâmbătă), Sunday (duminică).",
+    "exemplu": "Monday = luni · Friday = vineri · Sunday = duminică",
+    "activitate": "Cum spui „luni” în engleză?",
+    "jocuri": ["Spun zilele în engleză, în ordine.", "Asociez ziua în română cu cea în engleză."]
+  },
+  {
+    "id": "en-c2-l2",
+    "clasa": "clasa-2",
+    "materie": "limba-engleza",
+    "competenta": "2.2",
+    "titlu": "Food — Mâncarea",
+    "explicatie": "Alimente în engleză: apple (măr), bread (pâine), milk (lapte), water (apă), egg (ou).",
+    "exemplu": "🍎 apple · 🍞 bread · 🥛 milk · 💧 water",
+    "activitate": "Cum spui „pâine” în engleză?",
+    "jocuri": ["Arăt un aliment și spun numele în engleză.", "Fac o listă de cumpărături în engleză."]
+  },
+  {
+    "id": "en-c2-l3",
+    "clasa": "clasa-2",
+    "materie": "limba-engleza",
+    "competenta": "2.3",
+    "titlu": "Weather — Vremea",
+    "explicatie": "Vremea în engleză: sunny (însorit), rainy (ploios), cloudy (înnorat), snowy (cu zăpadă).",
+    "exemplu": "☀️ sunny · 🌧️ rainy · ☁️ cloudy · ❄️ snowy",
+    "activitate": "Cum spui „însorit” în engleză?",
+    "jocuri": ["Mă uit pe geam și spun vremea în engleză.", "Desenez vremea de azi și o numesc."]
+  }
+]

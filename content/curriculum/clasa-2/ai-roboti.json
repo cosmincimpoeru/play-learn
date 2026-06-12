@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-2",
+  "materie": "ai-roboti",
+  "sursa": "Conținut custom, adaptat vârstei (8-9 ani) — gândire algoritmică, condiții și depanare",
+  "competenteGenerale": [
+    "Înțelegerea ideii că dispozitivele inteligente urmează reguli și condiții",
+    "Construirea și corectarea unor algoritmi simpli",
+    "Gândire logică: condiții „dacă/altfel” și găsirea greșelilor"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Înțelegerea ideii de condiție „dacă... altfel...”",
+      "obiective": ["Alege acțiunea potrivită în funcție de condiție", "Formulează o regulă simplă"],
+      "continuturi": ["Condiții și decizii"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Găsirea greșelii într-un algoritm (depanare)",
+      "obiective": ["Identifică pasul greșit dintr-o listă", "Corectează ordinea pașilor"],
+      "continuturi": ["Depanarea (debugging)"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea ideii de „inteligență artificială” ca program care învață din exemple",
+      "obiective": ["Înțelege că AI învață din multe exemple", "Dă un exemplu de AI util"],
+      "continuturi": ["Ce este inteligența artificială"]
+    }
+  ]
+}

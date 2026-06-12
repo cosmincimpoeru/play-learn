@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mat-c2-l1",
+    "clasa": "clasa-2",
+    "materie": "matematica-stiinte",
+    "competenta": "1.5",
+    "titlu": "Înmulțirea — adunare repetată",
+    "explicatie": "A înmulți înseamnă a aduna același număr de mai multe ori. 3 × 4 înseamnă „de 3 ori câte 4”, adică 4 + 4 + 4 = 12.",
+    "exemplu": "2 × 5 = 5 + 5 = 10. 3 × 2 = 2 + 2 + 2 = 6.",
+    "activitate": "Cât face 2 × 4? (adună 4 de două ori)",
+    "jocuri": ["Grupez obiectele câte 2 și le număr.", "Spun tabla înmulțirii cu 2."]
+  },
+  {
+    "id": "mat-c2-l2",
+    "clasa": "clasa-2",
+    "materie": "matematica-stiinte",
+    "competenta": "1.1",
+    "titlu": "Numere până la 1000",
+    "explicatie": "Numerele mari au sute, zeci și unități. 235 are 2 sute, 3 zeci și 5 unități. Cu cât are mai multe sute, cu atât numărul e mai mare.",
+    "exemplu": "100, 200, 300... 235 este între 200 și 300. 400 este mai mare decât 235.",
+    "activitate": "Ce număr este mai mare: 320 sau 230?",
+    "jocuri": ["Număr din 100 în 100 până la 1000.", "Ordonez trei numere de la mic la mare."]
+  },
+  {
+    "id": "mat-c2-l3",
+    "clasa": "clasa-2",
+    "materie": "matematica-stiinte",
+    "competenta": "3.1",
+    "titlu": "Stările apei",
+    "explicatie": "Apa poate fi lichidă (apa pe care o bem), solidă (gheața, zăpada) sau gazoasă (aburul). Apa își schimbă starea cu căldura sau frigul.",
+    "exemplu": "Iarna, apa îngheață și devine gheață. Când fierbe, apa devine abur.",
+    "activitate": "În ce stare este apa când o pui la congelator?",
+    "jocuri": ["Observ cum se topește un cub de gheață.", "Desenez apa în cele trei stări."]
+  }
+]

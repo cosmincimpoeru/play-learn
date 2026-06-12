@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rel-c2-l1",
+    "clasa": "clasa-2",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.1",
+    "titlu": "Dumnezeu a făcut lumea din iubire",
+    "explicatie": "Dumnezeu a creat lumea: cerul, soarele, apele, plantele, animalele și pe om. Toate sunt daruri făcute din iubire, ca să ne bucurăm de ele și să le îngrijim.",
+    "exemplu": "Soarele ne dă lumină, apa ne potolește setea, copacii ne dau aer curat — toate sunt daruri.",
+    "activitate": "Numește un dar din natură pentru care ești recunoscător.",
+    "jocuri": ["Desenez lumea creată de Dumnezeu.", "Spun „mulțumesc” pentru un dar al naturii."]
+  },
+  {
+    "id": "rel-c2-l2",
+    "clasa": "clasa-2",
+    "materie": "religie-ortodoxa",
+    "competenta": "2.1",
+    "titlu": "Iubirea și iertarea",
+    "explicatie": "Dumnezeu este iubire și ne învață să ne iubim aproapele: familia, prietenii, vecinii. Când cineva greșește, putem să iertăm, așa cum și noi suntem iertați.",
+    "exemplu": "Dacă un prieten te-a supărat și îți cere iertare, îl ierți — așa arăți iubire.",
+    "activitate": "Cum arăți iubire față de un coleg azi?",
+    "jocuri": ["Spun „te iert” cu inima bună.", "Fac un gest frumos pentru cineva drag."]
+  },
+  {
+    "id": "rel-c2-l3",
+    "clasa": "clasa-2",
+    "materie": "religie-ortodoxa",
+    "competenta": "3.1",
+    "titlu": "Pilda bunului samarinean",
+    "explicatie": "Domnul Iisus a spus o pildă: un om căzut la drum a fost ajutat de un străin bun, samarineanul, după ce alții trecuseră pe lângă el. Învățătura este: să-i ajutăm pe cei aflați în nevoie.",
+    "exemplu": "Samarineanul l-a îngrijit pe omul rănit și a avut grijă de el — a fost milostiv.",
+    "activitate": "Ce poți face dacă vezi pe cineva care are nevoie de ajutor?",
+    "jocuri": ["Joc de rol: ajut un prieten „rănit”.", "Spun cum pot fi un bun samarinean acasă."]
+  }
+]

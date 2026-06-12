@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rel-c2-i1", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cine a creat lumea?",
+    "variante": ["Dumnezeu", "Oamenii", "Roboții", "Nimeni"], "raspunsCorect": 0,
+    "explicatie": "Dumnezeu a creat lumea din iubire.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i2", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care este un dar al naturii?",
+    "variante": ["Soarele", "Telefonul", "Mașina", "Calculatorul"], "raspunsCorect": 0,
+    "explicatie": "Soarele este un dar din natura creată de Dumnezeu.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i3", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce facem când un prieten ne cere iertare?",
+    "variante": ["Îl iertăm", "Ne supărăm mai tare", "Plecăm", "Țipăm"], "raspunsCorect": 0,
+    "explicatie": "Îl iertăm, cu inima bună — așa arătăm iubire.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i4", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum ne învață Dumnezeu să fim cu aproapele?",
+    "variante": ["Să-l iubim și să-l ajutăm", "Să-l ignorăm", "Să ne certăm", "Să fugim"], "raspunsCorect": 0,
+    "explicatie": "Dumnezeu ne învață să iubim și să ajutăm aproapele.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i5", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "În pilda bunului samarinean, cine l-a ajutat pe omul rănit?",
+    "variante": ["Samarineanul", "Nimeni", "Un rege", "Un copil"], "raspunsCorect": 0,
+    "explicatie": "Samarineanul cel bun l-a ajutat și l-a îngrijit.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i6", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Care este învățătura din pilda bunului samarinean?",
+    "variante": ["Să-i ajutăm pe cei în nevoie", "Să trecem mai departe", "Să ne grăbim", "Să nu privim"], "raspunsCorect": 0,
+    "explicatie": "Învățătura este să fim milostivi și să ajutăm.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i7", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum trebuie să ne purtăm cu natura, darul lui Dumnezeu?",
+    "variante": ["Să o îngrijim", "Să o stricăm", "Să o murdărim", "Să o ignorăm"], "raspunsCorect": 0,
+    "explicatie": "Natura este un dar — o îngrijim și o păstrăm curată.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i8", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "„Dumnezeu este ___”. Completează:",
+    "variante": ["iubire", "departe", "supărat", "obosit"], "raspunsCorect": 0,
+    "explicatie": "„Dumnezeu este iubire” — este tema acestui an.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i9", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Lumea și natura sunt daruri ale lui Dumnezeu.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Sunt daruri făcute din iubire.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i10", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Iertarea este un semn de iubire.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Când iertăm, arătăm iubire.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i11", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Domnul Iisus ne-a învățat prin pilde (povești cu tâlc).",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Pildele sunt povești scurte cu o învățătură.", "punctaj": 1
+  },
+  {
+    "id": "rel-c2-i12", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cine este „aproapele” nostru?",
+    "variante": ["Familia, prietenii, vecinii", "Doar eu", "Roboții", "Nimeni"], "raspunsCorect": 0,
+    "explicatie": "Aproapele înseamnă cei din jurul nostru: familie, prieteni, vecini.", "punctaj": 1
+  }
+]

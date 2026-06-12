@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ai-c2-i1", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "DACĂ afară plouă, ATUNCI ce iei?",
+    "variante": ["Umbrela", "Ochelarii de soare", "Săniuța", "Mingea"], "raspunsCorect": 0,
+    "explicatie": "Dacă plouă, atunci iei umbrela.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i2", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "DACĂ semaforul e roșu, ATUNCI...?",
+    "variante": ["Mă opresc", "Trec repede", "Alerg", "Închid ochii"], "raspunsCorect": 0,
+    "explicatie": "La roșu ne oprim.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i3", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "DACĂ e cald afară, ATUNCI ce porți? ALTFEL porți haina groasă.",
+    "variante": ["Tricou", "Fular gros", "Mănuși", "Căciulă"], "raspunsCorect": 0,
+    "explicatie": "Dacă e cald, porți tricou; altfel, haină groasă.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i4", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Pași: 1) te încalți, 2) pui șosetele. Ce e greșit?",
+    "variante": ["Ordinea — întâi șosetele, apoi pantofii", "Nimic", "Lipsește mâncarea", "Sunt prea mulți pași"], "raspunsCorect": 0,
+    "explicatie": "Întâi pui șosetele, apoi te încalți.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i5", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum se numește căutarea și repararea unei greșeli într-un algoritm?",
+    "variante": ["Depanare", "Numărare", "Colorare", "Desenare"], "raspunsCorect": 0,
+    "explicatie": "Se numește depanare (debugging).", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i6", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Pași pentru ceai: 1) bei, 2) pui apa, 3) fierbi. Care e primul pas CORECT?",
+    "variante": ["Fierbi apa", "Bei", "Pui zahăr", "Dormi"], "raspunsCorect": 0,
+    "explicatie": "Corect: întâi fierbi apa, apoi o pui, apoi bei.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i7", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Cum învață un program de inteligență artificială (AI)?",
+    "variante": ["Din multe exemple", "Dormind", "Mâncând", "Niciodată"], "raspunsCorect": 0,
+    "explicatie": "AI învață din multe exemple pe care le vede.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i8", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ca să recunoască o pisică, un AI are nevoie de...?",
+    "variante": ["Multe poze cu pisici", "O singură poză", "Nimic", "O carte de povești"], "raspunsCorect": 0,
+    "explicatie": "AI învață văzând multe poze cu pisici.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i9", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "DACĂ ți-e foame, ATUNCI...?",
+    "variante": ["Mănânci", "Dormi toată ziua", "Alergi la nesfârșit", "Nu faci nimic"], "raspunsCorect": 0,
+    "explicatie": "Dacă ți-e foame, atunci mănânci.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i10", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Un asistent vocal (ca cel din telefon) folosește inteligența artificială.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Asistenții vocali folosesc AI ca să ne înțeleagă.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i11", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Depanarea înseamnă să găsești și să repari greșeala din pași.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Asta înseamnă depanare.", "punctaj": 1
+  },
+  {
+    "id": "ai-c2-i12", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "O regulă „dacă/altfel” ajută calculatorul să aleagă ce să facă.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Așa ia calculatorul decizii.", "punctaj": 1
+  }
+]

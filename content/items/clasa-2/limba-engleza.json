@@ -1,0 +1,74 @@
+[
+  {
+    "id": "en-c2-i1", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „luni” în engleză?",
+    "variante": ["Sunday", "Monday", "Friday", "Tuesday"], "raspunsCorect": 1,
+    "explicatie": "„Monday” înseamnă luni.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i2", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce înseamnă „Friday”?",
+    "variante": ["luni", "miercuri", "vineri", "duminică"], "raspunsCorect": 2,
+    "explicatie": "„Friday” înseamnă vineri.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i3", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „duminică” în engleză?",
+    "variante": ["Saturday", "Sunday", "Monday", "Thursday"], "raspunsCorect": 1,
+    "explicatie": "„Sunday” înseamnă duminică.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i4", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „bread”? 🍞",
+    "variante": ["lapte", "pâine", "apă", "măr"], "raspunsCorect": 1,
+    "explicatie": "„Bread” înseamnă pâine.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i5", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „lapte” în engleză? 🥛",
+    "variante": ["water", "milk", "egg", "apple"], "raspunsCorect": 1,
+    "explicatie": "„Milk” înseamnă lapte.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i6", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „water”? 💧",
+    "variante": ["apă", "pâine", "ou", "lapte"], "raspunsCorect": 0,
+    "explicatie": "„Water” înseamnă apă.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i7", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Cum spui „însorit” în engleză? ☀️",
+    "variante": ["rainy", "sunny", "cloudy", "snowy"], "raspunsCorect": 1,
+    "explicatie": "„Sunny” înseamnă însorit.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i8", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce înseamnă „rainy”? 🌧️",
+    "variante": ["însorit", "ploios", "înnorat", "cu zăpadă"], "raspunsCorect": 1,
+    "explicatie": "„Rainy” înseamnă ploios.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i9", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Cum spui „cu zăpadă” în engleză? ❄️",
+    "variante": ["snowy", "sunny", "rainy", "cloudy"], "raspunsCorect": 0,
+    "explicatie": "„Snowy” înseamnă cu zăpadă.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i10", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „măr” în engleză? 🍎",
+    "variante": ["apple", "egg", "milk", "bread"], "raspunsCorect": 0,
+    "explicatie": "„Apple” înseamnă măr.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i11", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "„Saturday” înseamnă sâmbătă.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Saturday” înseamnă sâmbătă.", "punctaj": 1
+  },
+  {
+    "id": "en-c2-i12", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "adevarat-fals",
+    "enunt": "„Cloudy” înseamnă înnorat.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Cloudy” înseamnă înnorat.", "punctaj": 1
+  }
+]

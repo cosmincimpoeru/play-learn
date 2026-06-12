@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-2",
+  "materie": "religie-ortodoxa",
+  "sursa": "OMEN 3418/19.03.2013 — Religie, Cultul ortodox, Clasa a II-a (temă: „Dumnezeu este iubire”)",
+  "competenteGenerale": [
+    "Aplicarea unor norme de comportament specific moralei religioase, în diferite contexte de viață",
+    "Colaborarea cu copiii și cu adulții din mediul familiar, în acord cu valorile religioase",
+    "Explorarea activă a unor elemente din viața de zi cu zi, din perspectiva propriei credințe"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Explicarea iubirii lui Dumnezeu pentru oameni și a lumii create",
+      "obiective": ["Înțelege că Dumnezeu a creat lumea din iubire", "Recunoaște darurile naturii"],
+      "continuturi": ["Dumnezeu Creatorul", "Lumea — darul lui Dumnezeu"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Aplicarea unor valori creștine în relațiile cu ceilalți (iubire, iertare, ajutor)",
+      "obiective": ["Înțelege iubirea aproapelui", "Iartă și ajută"],
+      "continuturi": ["Iubirea aproapelui", "Iertarea"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea unor pilde și învățături creștine",
+      "obiective": ["Cunoaște o pildă simplă", "Înțelege învățătura de bunătate"],
+      "continuturi": ["Pilde și învățături", "Bunul samarinean"]
+    }
+  ]
+}

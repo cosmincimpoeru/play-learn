@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ai-c2-l1",
+    "clasa": "clasa-2",
+    "materie": "ai-roboti",
+    "competenta": "1.1",
+    "titlu": "Dacă... altfel...",
+    "explicatie": "Calculatoarele iau decizii cu reguli: „DACĂ se întâmplă ceva, ATUNCI fac asta, ALTFEL fac altceva”. Așa aleg ce să facă în fiecare situație.",
+    "exemplu": "DACĂ afară plouă, ATUNCI iau umbrela, ALTFEL iau ochelarii de soare.",
+    "activitate": "DACĂ semaforul e roșu, ATUNCI...? DAR dacă e verde, ATUNCI...?",
+    "jocuri": ["Joc „dacă/altfel”: dacă bat o dată, sari; dacă bat de două ori, stai.", "Inventez o regulă pentru robotul meu."]
+  },
+  {
+    "id": "ai-c2-l2",
+    "clasa": "clasa-2",
+    "materie": "ai-roboti",
+    "competenta": "2.1",
+    "titlu": "Găsim greșeala (depanarea)",
+    "explicatie": "Uneori un algoritm are o greșeală și nu funcționează. A căuta și a repara greșeala se numește „depanare” (debugging). Citim pașii cu atenție și găsim ce nu e în ordine.",
+    "exemplu": "Pași greșiți pentru ceai: 1) bei ceaiul, 2) pui apa, 3) fierbi. Greșeala: bei la început! Corect: fierbi, pui, bei.",
+    "activitate": "Pași: 1) te încalți, 2) pui șosetele. Ce e greșit?",
+    "jocuri": ["Caut pasul greșit dintr-o listă.", "Repar ordinea pașilor pentru a face un sandviș."]
+  },
+  {
+    "id": "ai-c2-l3",
+    "clasa": "clasa-2",
+    "materie": "ai-roboti",
+    "competenta": "3.1",
+    "titlu": "Ce este inteligența artificială?",
+    "explicatie": "Inteligența artificială (AI) este un program care învață din multe exemple. Dacă îi arăți multe poze cu pisici, învață să recunoască o pisică. Nu gândește ca noi, dar învață din exemple.",
+    "exemplu": "Un program AI poate recunoaște dacă într-o poză este un câine sau o pisică, după ce a văzut multe poze.",
+    "activitate": "Cum învață un program AI să recunoască o pisică?",
+    "jocuri": ["Grupez poze cu animale „ca un AI”.", "Spun la ce ne ajută un asistent vocal."]
+  }
+]

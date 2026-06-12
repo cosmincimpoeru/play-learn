@@ -1,0 +1,31 @@
+{
+  "clasa": "clasa-2",
+  "materie": "matematica-stiinte",
+  "sursa": "OMEN 3418/19.03.2013 — Matematică și explorarea mediului, Clasa a II-a",
+  "competenteGenerale": [
+    "Utilizarea numerelor în calcule elementare",
+    "Evidențierea caracteristicilor geometrice ale unor obiecte din spațiul înconjurător",
+    "Identificarea unor fenomene/relații/regularități din mediul apropiat",
+    "Generarea unor explicații simple prin folosirea unor elemente de logică"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Scrierea, citirea și formarea numerelor până la 1000",
+      "obiective": ["Citește și scrie numere până la 1000", "Compară numere de trei cifre"],
+      "continuturi": ["Numere naturale 0-1000"]
+    },
+    {
+      "cod": "1.5",
+      "descriere": "Efectuarea de adunări și scăderi, înmulțiri și împărțiri în concentrul 0-1000",
+      "obiective": ["Adună și scade cu trecere peste ordin", "Înmulțește cu 2, 5 și 10"],
+      "continuturi": ["Adunarea și scăderea", "Înmulțirea ca adunare repetată"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Identificarea unor fenomene din mediul apropiat și măsurări",
+      "obiective": ["Folosește unități de măsură: leu, oră", "Recunoaște stările apei"],
+      "continuturi": ["Măsurări: timp, bani", "Științe: stările apei"]
+    }
+  ]
+}

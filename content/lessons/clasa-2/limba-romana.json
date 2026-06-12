@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lr-c2-l1",
+    "clasa": "clasa-2",
+    "materie": "limba-romana",
+    "competenta": "3.1",
+    "titlu": "Citim un text",
+    "explicatie": "Când citim un text, aflăm o întâmplare. Citim cu atenție, de la început până la sfârșit, ca să înțelegem ce se petrece și cine sunt personajele.",
+    "exemplu": "„Ana are o pisică. Pisica se numește Mura. Mura doarme pe pernă.” — Am aflat cine, ce și unde.",
+    "activitate": "Citește: „Dan udă florile în grădină.” Cine udă florile?",
+    "jocuri": ["Citesc un text și spun titlul potrivit.", "Povestesc ce am citit cu cuvintele mele."]
+  },
+  {
+    "id": "lr-c2-l2",
+    "clasa": "clasa-2",
+    "materie": "limba-romana",
+    "competenta": "4.2",
+    "titlu": "Punctul și semnul întrebării",
+    "explicatie": "La sfârșitul unei propoziții punem un semn. Punctul (.) se pune când spunem ceva. Semnul întrebării (?) se pune când întrebăm ceva.",
+    "exemplu": "Afară plouă. (spunem) · Plouă afară? (întrebăm)",
+    "activitate": "Ce semn pui la final: „Cum te numești___”",
+    "jocuri": ["Aleg semnul potrivit pentru fiecare propoziție.", "Scriu o întrebare și pun semnul corect."]
+  },
+  {
+    "id": "lr-c2-l3",
+    "clasa": "clasa-2",
+    "materie": "limba-romana",
+    "competenta": "3.2",
+    "titlu": "Găsim informații în text",
+    "explicatie": "Un text ne dă informații. Putem găsi cine este personajul, ce face, unde și când se întâmplă. Recitim textul ca să fim siguri.",
+    "exemplu": "„Vara, bunica face dulceață de căpșuni.” Cine? Bunica. Ce face? Dulceață. Când? Vara.",
+    "activitate": "„Dimineața, Tudor merge la școală cu autobuzul.” Cu ce merge Tudor?",
+    "jocuri": ["Răspund la 3 întrebări despre un text.", "Subliniez în minte cuvântul-cheie din text."]
+  }
+]

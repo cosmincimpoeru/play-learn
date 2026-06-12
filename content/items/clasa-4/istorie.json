@@ -1,74 +1,40 @@
 [
-  {
-    "id": "ist-c4-i1", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Ce studiază istoria?",
-    "variante": ["Trecutul", "Doar viitorul", "Numerele", "Plantele"], "raspunsCorect": 0,
-    "explicatie": "Istoria studiază trecutul oamenilor.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i2", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care este ordinea corectă a timpului?",
-    "variante": ["Trecut, prezent, viitor", "Viitor, trecut, prezent", "Prezent, trecut, viitor", "Viitor, prezent, trecut"], "raspunsCorect": 0,
-    "explicatie": "Timpul curge: trecut → prezent → viitor.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i3", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Când au fost bunicii copii?",
-    "variante": ["În trecut", "În prezent", "În viitor", "Niciodată"], "raspunsCorect": 0,
-    "explicatie": "Bunicii au fost copii în trecut.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i4", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este o sursă istorică?",
-    "variante": ["O fotografie veche", "O jucărie nouă", "Un telefon nou", "Un balon"], "raspunsCorect": 0,
-    "explicatie": "O fotografie veche este o sursă istorică.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i5", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere",
-    "enunt": "De unde aflăm despre trecut?",
-    "variante": ["Din surse istorice", "Din nimic", "Din viitor", "Din desene animate noi"], "raspunsCorect": 0,
-    "explicatie": "Aflăm din surse istorice: obiecte vechi, documente, povestiri.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i6", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care NU este o sursă istorică?",
-    "variante": ["O cetate veche", "O monedă veche", "Un document vechi", "O tabletă nou-nouță"], "raspunsCorect": 3,
-    "explicatie": "O tabletă nouă nu este o sursă despre trecut.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i7", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce sărbătorim la 1 Decembrie?",
-    "variante": ["Marea Unire (Ziua Națională)", "Crăciunul", "Începutul școlii", "Ziua copilului"], "raspunsCorect": 0,
-    "explicatie": "La 1 Decembrie sărbătorim Marea Unire — Ziua Națională.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i8", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Care a fost un domnitor viteaz al românilor?",
-    "variante": ["Ștefan cel Mare", "Un personaj de desene animate", "Un cântăreț de azi", "Un sportiv"], "raspunsCorect": 0,
-    "explicatie": "Ștefan cel Mare a fost un domnitor viteaz.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i9", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cine a unit pentru prima dată țările române?",
-    "variante": ["Mihai Viteazul", "Un negustor", "Un învățător", "Un pictor"], "raspunsCorect": 0,
-    "explicatie": "Mihai Viteazul a realizat prima unire a țărilor române.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i10", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "În ce an s-a făcut Marea Unire?",
-    "variante": ["1918", "2000", "1850", "1700"], "raspunsCorect": 0,
-    "explicatie": "Marea Unire s-a făcut la 1 Decembrie 1918.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i11", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Pe axa timpului așezăm evenimentele în ordinea în care s-au petrecut.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Axa timpului ordonează evenimentele cronologic.", "punctaj": 1
-  },
-  {
-    "id": "ist-c4-i12", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Povestirile bătrânilor pot fi o sursă despre trecut.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Mărturiile oamenilor sunt surse istorice.", "punctaj": 1
-  }
+  { "id": "ist-c4-u1", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce studiază istoria?", "variante": ["Trecutul", "Doar viitorul", "Numerele", "Plantele"], "raspunsCorect": 0, "explicatie": "Istoria studiază trecutul.", "punctaj": 1 },
+  { "id": "ist-c4-u2", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este ordinea corectă a timpului?", "variante": ["Trecut, prezent, viitor", "Viitor, trecut, prezent", "Prezent, trecut, viitor", "Viitor, prezent, trecut"], "raspunsCorect": 0, "explicatie": "Trecut → prezent → viitor.", "punctaj": 1 },
+  { "id": "ist-c4-u3", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este o sursă istorică?", "variante": ["O fotografie veche", "O jucărie nouă", "Un telefon nou", "Un balon"], "raspunsCorect": 0, "explicatie": "O fotografie veche este sursă istorică.", "punctaj": 1 },
+  { "id": "ist-c4-u4", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce sărbătorim la 1 Decembrie?", "variante": ["Marea Unire (Ziua Națională)", "Crăciunul", "Începutul școlii", "Ziua copilului"], "raspunsCorect": 0, "explicatie": "Marea Unire — Ziua Națională.", "punctaj": 1 },
+  { "id": "ist-c4-u5", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care a fost un domnitor viteaz al românilor?", "variante": ["Ștefan cel Mare", "Un personaj de desene animate", "Un cântăreț de azi", "Un sportiv"], "raspunsCorect": 0, "explicatie": "Ștefan cel Mare a fost un domnitor viteaz.", "punctaj": 1 },
+  { "id": "ist-c4-u6", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Când au fost bunicii copii?", "variante": ["În trecut", "În prezent", "În viitor", "Niciodată"], "raspunsCorect": 0, "explicatie": "Bunicii au fost copii în trecut.", "punctaj": 1 },
+  { "id": "ist-c4-u7", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "De unde aflăm despre trecut?", "variante": ["Din surse istorice", "Din nimic", "Din viitor", "Din desene noi"], "raspunsCorect": 0, "explicatie": "Din surse: obiecte vechi, documente, povestiri.", "punctaj": 1 },
+  { "id": "ist-c4-u8", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "În ce an s-a făcut Marea Unire?", "variante": ["1918", "2000", "1850", "1700"], "raspunsCorect": 0, "explicatie": "1 Decembrie 1918.", "punctaj": 1 },
+  { "id": "ist-c4-u9", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Pe axa timpului așezăm evenimentele în ordinea în care s-au petrecut.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Axa timpului ordonează cronologic.", "punctaj": 1 },
+  { "id": "ist-c4-u10", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Povestirile bătrânilor pot fi o sursă despre trecut.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt surse istorice.", "punctaj": 1 },
+  { "id": "ist-c4-u11", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cine a unit pentru prima dată țările române?", "variante": ["Mihai Viteazul", "Un negustor", "Un învățător", "Un pictor"], "raspunsCorect": 0, "explicatie": "Mihai Viteazul.", "punctaj": 1 },
+  { "id": "ist-c4-u12", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care NU este o sursă istorică?", "variante": ["O tabletă nou-nouță", "O cetate veche", "O monedă veche", "Un document vechi"], "raspunsCorect": 0, "explicatie": "O tabletă nouă nu e sursă despre trecut.", "punctaj": 1 },
+
+  { "id": "ist-c4-m1", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Unde s-a hotărât Marea Unire la 1 Decembrie 1918?", "variante": ["La Alba Iulia", "La București", "La Iași", "La Cluj"], "raspunsCorect": 0, "explicatie": "La Alba Iulia.", "punctaj": 1 },
+  { "id": "ist-c4-m2", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce a fost mai întâi: domnia lui Ștefan cel Mare sau Marea Unire (1918)?", "variante": ["Ștefan cel Mare", "Marea Unire", "În același timp", "Niciuna"], "raspunsCorect": 0, "explicatie": "Ștefan cel Mare a domnit cu sute de ani înainte de 1918.", "punctaj": 1 },
+  { "id": "ist-c4-m3", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce fel de informații aflăm dintr-o monedă veche?", "variante": ["Despre vremurile și conducătorii din trecut", "Despre vremea de mâine", "Despre rețete", "Despre jocuri video"], "raspunsCorect": 0, "explicatie": "Monedele ne spun despre epoca și conducătorii lor.", "punctaj": 1 },
+  { "id": "ist-c4-m4", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce a realizat Mihai Viteazul?", "variante": ["Prima unire a țărilor române", "A construit școli moderne", "A pictat biserici", "A inventat telefonul"], "raspunsCorect": 0, "explicatie": "A realizat prima unire a țărilor române.", "punctaj": 1 },
+  { "id": "ist-c4-m5", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum măsurăm timpul îndepărtat în istorie?", "variante": ["În ani și secole", "În minute", "În pași", "În culori"], "raspunsCorect": 0, "explicatie": "În ani și secole (un secol = 100 de ani).", "punctaj": 1 },
+  { "id": "ist-c4-m6", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care șir conține DOAR surse istorice?", "variante": ["fotografie veche, monedă veche, document vechi", "fotografie veche, telefon nou, document vechi", "monedă veche, tabletă, jucărie nouă", "document nou, balon, monedă"], "raspunsCorect": 0, "explicatie": "Toate trei sunt urme din trecut.", "punctaj": 1 },
+  { "id": "ist-c4-m7", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Câți ani are un secol?", "variante": ["100", "10", "1000", "50"], "raspunsCorect": 0, "explicatie": "Un secol = 100 de ani.", "punctaj": 1 },
+  { "id": "ist-c4-m8", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce sărbătorim de fapt la 1 Decembrie?", "variante": ["Unirea românilor într-o singură țară", "Sfârșitul școlii", "Începutul iernii", "Ziua recoltei"], "raspunsCorect": 0, "explicatie": "Unirea de la 1918 — Ziua Națională.", "punctaj": 1 },
+  { "id": "ist-c4-m9", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce sunt importante sursele istorice?", "variante": ["Ne ajută să aflăm adevărul despre trecut", "Ne spun viitorul", "Ne distrează doar", "Nu sunt importante"], "raspunsCorect": 0, "explicatie": "Din ele aflăm cum a fost trecutul.", "punctaj": 1 },
+  { "id": "ist-c4-m10", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care domnitor este legat de Moldova și de multe biserici ctitorite?", "variante": ["Ștefan cel Mare", "Un negustor", "Un pictor de azi", "Un sportiv"], "raspunsCorect": 0, "explicatie": "Ștefan cel Mare a ctitorit multe biserici în Moldova.", "punctaj": 1 },
+  { "id": "ist-c4-m11", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Un secol are 100 de ani.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! 1 secol = 100 ani.", "punctaj": 1 },
+  { "id": "ist-c4-m12", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum putem afla povestea unei clădiri vechi din oraș?", "variante": ["Citind documente și întrebând oameni care o cunosc", "Inventând", "Ghicind", "Nu putem afla"], "raspunsCorect": 0, "explicatie": "Folosim surse: documente și mărturii.", "punctaj": 1 },
+
+  { "id": "ist-c4-g1", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ordonează pe axa timpului: A) Marea Unire (1918), B) domnia lui Ștefan cel Mare (sec. XV), C) prezentul. Care e ordinea?", "variante": ["B, A, C", "A, B, C", "C, B, A", "B, C, A"], "raspunsCorect": 0, "explicatie": "Ștefan (sec. XV) → Marea Unire (1918) → prezent.", "punctaj": 1 },
+  { "id": "ist-c4-g2", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Anul 1918 face parte din ce secol?", "variante": ["Secolul XX (al 20-lea)", "Secolul XIX", "Secolul XXI", "Secolul XV"], "raspunsCorect": 0, "explicatie": "Anii 1901–2000 sunt secolul XX.", "punctaj": 1 },
+  { "id": "ist-c4-g3", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Două surse spun lucruri diferite despre un eveniment. Ce face un bun cercetător?", "variante": ["Compară mai multe surse ca să afle adevărul", "Crede prima sursă orbește", "Renunță", "Inventează singur"], "raspunsCorect": 0, "explicatie": "Comparăm mai multe surse pentru adevăr.", "punctaj": 1 },
+  { "id": "ist-c4-g4", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce este 1 Decembrie 1918 un moment important pentru români?", "variante": ["Românii s-au unit într-un singur stat", "A început o vacanță lungă", "S-a inventat o mașină", "A nins mult"], "raspunsCorect": 0, "explicatie": "La 1918 s-a realizat unirea românilor.", "punctaj": 1 },
+  { "id": "ist-c4-g5", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce au în comun Ștefan cel Mare și Mihai Viteazul?", "variante": ["Au fost conducători viteji ai românilor", "Au trăit în același an", "Au fost pictori", "Au fost negustori"], "raspunsCorect": 0, "explicatie": "Amândoi au fost conducători viteji, în vremuri diferite.", "punctaj": 1 },
+  { "id": "ist-c4-g6", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Câți ani au trecut de la Marea Unire (1918) până în anul 2018?", "variante": ["100", "50", "200", "1000"], "raspunsCorect": 0, "explicatie": "2018 − 1918 = 100 de ani.", "punctaj": 1 },
+  { "id": "ist-c4-g7", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care sursă ne dă cele mai sigure informații despre cum se îmbrăcau oamenii acum 200 de ani?", "variante": ["Picturi și haine păstrate din acea vreme", "O poveste inventată azi", "Un desen animat modern", "O presupunere"], "raspunsCorect": 0, "explicatie": "Sursele autentice (picturi, obiecte) sunt cele mai sigure.", "punctaj": 1 },
+  { "id": "ist-c4-g8", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pe o axă a timpului, ce este mai aproape de prezent: anul 1500 sau anul 1900?", "variante": ["1900", "1500", "La fel", "Niciunul"], "raspunsCorect": 0, "explicatie": "1900 este mai aproape de prezent decât 1500.", "punctaj": 1 },
+  { "id": "ist-c4-g9", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție despre Marea Unire este ADEVĂRATĂ?", "variante": ["A avut loc la 1 Decembrie 1918, la Alba Iulia", "A avut loc în anul 2000", "A fost o sărbătoare a recoltei", "S-a întâmplat la București în 1850"], "raspunsCorect": 0, "explicatie": "1 Decembrie 1918, la Alba Iulia.", "punctaj": 1 },
+  { "id": "ist-c4-g10", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Un bun cercetător compară mai multe surse înainte să tragă o concluzie.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Comparăm surse pentru a afla adevărul.", "punctaj": 1 },
+  { "id": "ist-c4-g11", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care eveniment a fost ULTIMUL în timp?", "variante": ["Marea Unire (1918)", "Domnia lui Ștefan cel Mare (sec. XV)", "Prima unire a lui Mihai Viteazul (1600)", "Toate odată"], "raspunsCorect": 0, "explicatie": "1918 este cel mai recent dintre cele trei.", "punctaj": 1 },
+  { "id": "ist-c4-g12", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce e bine să cunoaștem trecutul țării noastre?", "variante": ["Ca să înțelegem cine suntem și să prețuim ce avem", "Ca să schimbăm trecutul", "Ca să uităm tot", "Nu e bine"], "raspunsCorect": 0, "explicatie": "Cunoașterea trecutului ne ajută să ne înțelegem identitatea.", "punctaj": 1 }
 ]

@@ -1,74 +1,40 @@
 [
-  {
-    "id": "civ-c4-i1", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Ce înseamnă să spui adevărul?",
-    "variante": ["Să nu minți", "Să taci mereu", "Să inventezi povești", "Să pleci"], "raspunsCorect": 0,
-    "explicatie": "Adevărul înseamnă să nu minți, să fii sincer.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i2", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Bunătatea înseamnă...?",
-    "variante": ["Să-i ajuți pe ceilalți", "Să te superi", "Să fii egoist", "Să râzi de cineva"], "raspunsCorect": 0,
-    "explicatie": "Bunătatea înseamnă să-i ajuți și să fii blând cu ceilalți.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i3", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care faptă arată cinste?",
-    "variante": ["Înapoiezi un obiect pierdut", "Păstrezi ce nu e al tău", "Minți", "Copiezi la test"], "raspunsCorect": 0,
-    "explicatie": "Să înapoiezi un obiect găsit arată cinste.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i4", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care sunt culorile drapelului României?",
-    "variante": ["Roșu, galben, albastru", "Roșu, alb, albastru", "Verde, galben, roșu", "Albastru, alb, roșu"], "raspunsCorect": 0,
-    "explicatie": "Drapelul României are roșu, galben și albastru.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i5", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este un simbol național al României?",
-    "variante": ["Imnul", "O jucărie", "Un desen animat", "Un joc"], "raspunsCorect": 0,
-    "explicatie": "Imnul este un simbol național, alături de drapel și stemă.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i6", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum se numește țara noastră?",
-    "variante": ["România", "Italia", "Franța", "Grecia"], "raspunsCorect": 0,
-    "explicatie": "Țara noastră se numește România.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i7", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cum avem grijă de mediu?",
-    "variante": ["Nu aruncăm gunoaie și colectăm selectiv", "Aruncăm gunoiul pe jos", "Rupem florile", "Risipim apa"], "raspunsCorect": 0,
-    "explicatie": "Avem grijă de mediu păstrând curățenia și colectând selectiv.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i8", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce face un bun cetățean în comunitate?",
-    "variante": ["Cooperează și ajută", "Strică lucrurile comune", "Se ceartă cu toți", "Stă deoparte mereu"], "raspunsCorect": 0,
-    "explicatie": "Un bun cetățean cooperează și ajută comunitatea.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i9", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Respectul înseamnă să-i prețuiești pe ceilalți oameni.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Respectul înseamnă să-i prețuiești pe ceilalți.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i10", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Imnul, drapelul și stema sunt simboluri naționale.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Acestea sunt simbolurile naționale ale țării.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i11", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Plantarea copacilor ajută mediul.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Copacii curăță aerul și protejează natura.", "punctaj": 1
-  },
-  {
-    "id": "civ-c4-i12", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este imnul național al României?",
-    "variante": ["Deșteaptă-te, române!", "La mulți ani", "Cântec de leagăn", "Un colind"], "raspunsCorect": 0,
-    "explicatie": "Imnul național este „Deșteaptă-te, române!”.", "punctaj": 1
-  }
+  { "id": "civ-c4-u1", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă să spui adevărul?", "variante": ["Să nu minți", "Să taci mereu", "Să inventezi povești", "Să pleci"], "raspunsCorect": 0, "explicatie": "Adevărul = să fii sincer.", "punctaj": 1 },
+  { "id": "civ-c4-u2", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Bunătatea înseamnă...?", "variante": ["Să-i ajuți pe ceilalți", "Să te superi", "Să fii egoist", "Să râzi de cineva"], "raspunsCorect": 0, "explicatie": "Bunătatea = să-i ajuți pe ceilalți.", "punctaj": 1 },
+  { "id": "civ-c4-u3", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care sunt culorile drapelului României?", "variante": ["Roșu, galben, albastru", "Roșu, alb, albastru", "Verde, galben, roșu", "Albastru, alb, roșu"], "raspunsCorect": 0, "explicatie": "Roșu, galben și albastru.", "punctaj": 1 },
+  { "id": "civ-c4-u4", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum se numește țara noastră?", "variante": ["România", "Italia", "Franța", "Grecia"], "raspunsCorect": 0, "explicatie": "Țara noastră se numește România.", "punctaj": 1 },
+  { "id": "civ-c4-u5", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum avem grijă de mediu?", "variante": ["Nu aruncăm gunoaie și colectăm selectiv", "Aruncăm pe jos", "Rupem florile", "Risipim apa"], "raspunsCorect": 0, "explicatie": "Păstrăm curățenia și colectăm selectiv.", "punctaj": 1 },
+  { "id": "civ-c4-u6", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care faptă arată cinste?", "variante": ["Înapoiezi un obiect pierdut", "Păstrezi ce nu e al tău", "Minți", "Copiezi la test"], "raspunsCorect": 0, "explicatie": "Să înapoiezi un obiect găsit = cinste.", "punctaj": 1 },
+  { "id": "civ-c4-u7", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este un simbol național al României?", "variante": ["Imnul", "O jucărie", "Un desen animat", "Un joc"], "raspunsCorect": 0, "explicatie": "Imnul, alături de drapel și stemă.", "punctaj": 1 },
+  { "id": "civ-c4-u8", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce face un bun cetățean în comunitate?", "variante": ["Cooperează și ajută", "Strică lucrurile comune", "Se ceartă cu toți", "Stă deoparte"], "raspunsCorect": 0, "explicatie": "Cooperează și ajută.", "punctaj": 1 },
+  { "id": "civ-c4-u9", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Respectul înseamnă să-i prețuiești pe ceilalți oameni.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Respectul = a-i prețui pe ceilalți.", "punctaj": 1 },
+  { "id": "civ-c4-u10", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Imnul, drapelul și stema sunt simboluri naționale.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt simbolurile naționale.", "punctaj": 1 },
+  { "id": "civ-c4-u11", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Plantarea copacilor ajută mediul.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Copacii curăță aerul.", "punctaj": 1 },
+  { "id": "civ-c4-u12", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este imnul național al României?", "variante": ["Deșteaptă-te, române!", "La mulți ani", "Cântec de leagăn", "Un colind"], "raspunsCorect": 0, "explicatie": "„Deșteaptă-te, române!”.", "punctaj": 1 },
+
+  { "id": "civ-c4-m1", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Găsești pe stradă banii unui coleg. Ce faptă arată cinste?", "variante": ["I-i înapoiez", "Îi păstrez", "Îi ascund", "Îi cheltui"], "raspunsCorect": 0, "explicatie": "Cinstea cere să înapoiem ce nu e al nostru.", "punctaj": 1 },
+  { "id": "civ-c4-m2", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Când se cântă imnul național?", "variante": ["La sărbători și evenimente importante", "La joacă", "Niciodată", "Doar la culcare"], "raspunsCorect": 0, "explicatie": "Imnul se cântă la sărbători și momente importante.", "punctaj": 1 },
+  { "id": "civ-c4-m3", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum colectăm selectiv corect?", "variante": ["Separăm hârtia, plasticul și sticla", "Aruncăm totul împreună", "Ardem gunoiul", "Îl lăsăm pe jos"], "raspunsCorect": 0, "explicatie": "Colectarea selectivă: separăm pe categorii.", "punctaj": 1 },
+  { "id": "civ-c4-m4", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care faptă arată respect față de un vârstnic?", "variante": ["Îi cedez locul în autobuz", "Îl împing", "Râd de el", "Îl ignor"], "raspunsCorect": 0, "explicatie": "Respectul: să-i cedăm locul.", "punctaj": 1 },
+  { "id": "civ-c4-m5", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Din ce comunitate mai mare facem parte, pe lângă localitate?", "variante": ["Comunitatea națională (țara)", "Doar familia", "Doar clasa", "Niciuna"], "raspunsCorect": 0, "explicatie": "Facem parte și din comunitatea națională — țara.", "punctaj": 1 },
+  { "id": "civ-c4-m6", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este o valoare morală?", "variante": ["Cinstea", "Lăcomia", "Răutatea", "Minciuna"], "raspunsCorect": 0, "explicatie": "Cinstea este o valoare morală.", "punctaj": 1 },
+  { "id": "civ-c4-m7", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum economisim apa acasă?", "variante": ["Închidem robinetul când nu îl folosim", "Lăsăm apa să curgă", "Udăm asfaltul", "Spălăm strada cu furtunul"], "raspunsCorect": 0, "explicatie": "Închidem robinetul ca să nu risipim apă.", "punctaj": 1 },
+  { "id": "civ-c4-m8", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este capitala României?", "variante": ["București", "Cluj-Napoca", "Iași", "Brașov"], "raspunsCorect": 0, "explicatie": "Capitala este București.", "punctaj": 1 },
+  { "id": "civ-c4-m9", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Un coleg a greșit fără să vrea. Ce valoare arăți dacă îl ierți?", "variante": ["Bunătatea și înțelegerea", "Răzbunarea", "Lăcomia", "Frica"], "raspunsCorect": 0, "explicatie": "Iertarea arată bunătate și înțelegere.", "punctaj": 1 },
+  { "id": "civ-c4-m10", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care faptă protejează comunitatea?", "variante": ["Să păstrez curat parcul din cartier", "Să arunc gunoi", "Să stric băncile", "Să sperii vecinii"], "raspunsCorect": 0, "explicatie": "A păstra curățenia ajută comunitatea.", "punctaj": 1 },
+  { "id": "civ-c4-m11", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Steagul (drapelul) este un simbol al țării, pe care îl respectăm.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Drapelul este simbol național.", "punctaj": 1 },
+  { "id": "civ-c4-m12", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care șir conține DOAR valori morale bune?", "variante": ["adevăr, bunătate, respect", "adevăr, minciună, respect", "lăcomie, bunătate, respect", "răutate, adevăr, cinste"], "raspunsCorect": 0, "explicatie": "adevăr, bunătate, respect sunt toate valori bune.", "punctaj": 1 },
+
+  { "id": "civ-c4-g1", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Vezi un coleg care copiază la test. Cum acționezi corect, cu cinste și respect?", "variante": ["Nu copiez și pot să-l încurajez să învețe corect", "Copiez și eu", "Râd de el", "Îl laud că a copiat"], "raspunsCorect": 0, "explicatie": "Cinstea cere să nu copiem și să încurajăm corectitudinea.", "punctaj": 1 },
+  { "id": "civ-c4-g2", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care este ordinea de la comunitatea mică la cea mare?", "variante": ["familia, localitatea, țara (România)", "țara, localitatea, familia", "localitatea, familia, țara", "țara, familia, localitatea"], "raspunsCorect": 0, "explicatie": "De la mic la mare: familia, localitatea, țara.", "punctaj": 1 },
+  { "id": "civ-c4-g3", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care faptă ajută CEL MAI MULT mediul pe termen lung?", "variante": ["Plantăm copaci și colectăm selectiv mereu", "Aruncăm o singură hârtie la coș o dată", "Stingem o lumină azi", "Nimic"], "raspunsCorect": 0, "explicatie": "Obiceiurile constante (plantat, colectat) ajută cel mai mult.", "punctaj": 1 },
+  { "id": "civ-c4-g4", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cum arăți respect față de simbolurile naționale când se cântă imnul?", "variante": ["Stau în picioare, în liniște", "Vorbesc tare", "Mă joc", "Plec"], "raspunsCorect": 0, "explicatie": "La imn stăm în picioare, cu respect și în liniște.", "punctaj": 1 },
+  { "id": "civ-c4-g5", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care faptă combină adevărul ȘI bunătatea?", "variante": ["Spun adevărul, dar cu blândețe, ca să nu rănesc", "Spun adevărul răstit", "Mint ca să fiu plăcut", "Tac mereu"], "raspunsCorect": 0, "explicatie": "Adevărul spus cu blândețe îmbină ambele valori.", "punctaj": 1 },
+  { "id": "civ-c4-g6", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR simboluri naționale?", "variante": ["drapelul, imnul, stema", "drapelul, mingea, stema", "imnul, jucăria, stema", "stema, telefonul, imnul"], "raspunsCorect": 0, "explicatie": "drapelul, imnul, stema sunt simbolurile naționale.", "punctaj": 1 },
+  { "id": "civ-c4-g7", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un parc din cartier e plin de gunoaie. Care e atitudinea de bun cetățean?", "variante": ["Organizez/particip la o curățenie cu prietenii", "Mai arunc și eu gunoi", "Mă plâng, dar nu fac nimic", "Plec definitiv"], "raspunsCorect": 0, "explicatie": "Cetățeanul responsabil acționează: curăță și implică pe alții.", "punctaj": 1 },
+  { "id": "civ-c4-g8", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care faptă NU respectă valoarea respectului?", "variante": ["Întrerupi mereu și râzi de părerile altora", "Asculți părerea altuia", "Vorbești pe rând", "Mulțumești"], "raspunsCorect": 0, "explicatie": "A întrerupe și a râde de alții arată lipsă de respect.", "punctaj": 1 },
+  { "id": "civ-c4-g9", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce sunt importante simbolurile naționale?", "variante": ["Ne unesc și ne arată apartenența la țară", "Sunt doar niște desene", "Nu au rost", "Sunt pentru jocuri"], "raspunsCorect": 0, "explicatie": "Ne unesc și exprimă apartenența la națiune.", "punctaj": 1 },
+  { "id": "civ-c4-g10", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Un bun cetățean are grijă atât de oameni, cât și de mediu.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Responsabilitatea cuprinde și oamenii, și natura.", "punctaj": 1 },
+  { "id": "civ-c4-g11", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care decizie arată cele mai multe valori bune?", "variante": ["Spun adevărul, ajut un coleg și respect regulile", "Mint, dar ajut", "Respect regulile, dar râd de alții", "Ajut, dar fur"], "raspunsCorect": 0, "explicatie": "Adevăr + bunătate + respect, toate împreună.", "punctaj": 1 },
+  { "id": "civ-c4-g12", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Facem parte în același timp dintr-o comunitate locală și din comunitatea națională.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Aparținem localității și țării.", "punctaj": 1 }
 ]

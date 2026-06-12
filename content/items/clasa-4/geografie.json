@@ -1,74 +1,40 @@
 [
-  {
-    "id": "geo-c4-i1", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere",
-    "enunt": "În ce parte răsare Soarele?",
-    "variante": ["La est", "La vest", "La nord", "La sud"], "raspunsCorect": 0,
-    "explicatie": "Soarele răsare la est.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i2", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere",
-    "enunt": "În ce parte apune Soarele?",
-    "variante": ["La est", "La vest", "La nord", "La sud"], "raspunsCorect": 1,
-    "explicatie": "Soarele apune la vest.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i3", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care sunt cele patru puncte cardinale?",
-    "variante": ["Nord, sud, est, vest", "Sus, jos, stânga, dreapta", "Roșu, galben, verde, albastru", "Unu, doi, trei, patru"], "raspunsCorect": 0,
-    "explicatie": "Punctele cardinale sunt nord, sud, est și vest.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i4", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum este relieful la munte?",
-    "variante": ["Înalt", "Neted", "Sub apă", "Plat ca o foaie"], "raspunsCorect": 0,
-    "explicatie": "Munții sunt forme de relief înalte.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i5", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum se numește forma de relief întinsă și netedă?",
-    "variante": ["Câmpie", "Munte", "Deal înalt", "Vârf"], "raspunsCorect": 0,
-    "explicatie": "Câmpia este întinsă și netedă.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i6", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cu ce culoare sunt apele pe hartă?",
-    "variante": ["Albastru", "Maro", "Verde", "Roșu"], "raspunsCorect": 0,
-    "explicatie": "Apele sunt colorate cu albastru pe hartă.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i7", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Care este capitala României?",
-    "variante": ["București", "Cluj-Napoca", "Iași", "Constanța"], "raspunsCorect": 0,
-    "explicatie": "Capitala României este București.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i8", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Care este cel mai mare râu al României?",
-    "variante": ["Dunărea", "Un pârâu", "Marea", "Un lac mic"], "raspunsCorect": 0,
-    "explicatie": "Dunărea este cel mai mare râu și se varsă în Marea Neagră.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i9", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Pe ce continent se află România?",
-    "variante": ["Europa", "Asia", "Africa", "America"], "raspunsCorect": 0,
-    "explicatie": "România se află pe continentul Europa.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i10", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cum se numesc munții care străbat România?",
-    "variante": ["Carpații", "Alpii", "Anzii", "Himalaya"], "raspunsCorect": 0,
-    "explicatie": "Munții Carpați străbat România.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i11", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Pământul este planeta pe care trăim.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Pământul este planeta noastră.", "punctaj": 1
-  },
-  {
-    "id": "geo-c4-i12", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Pe hartă, munții sunt colorați de obicei cu maro.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Munții sunt reprezentați cu maro pe hartă.", "punctaj": 1
-  }
+  { "id": "geo-c4-u1", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "În ce parte răsare Soarele?", "variante": ["La est", "La vest", "La nord", "La sud"], "raspunsCorect": 0, "explicatie": "Soarele răsare la est.", "punctaj": 1 },
+  { "id": "geo-c4-u2", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "În ce parte apune Soarele?", "variante": ["La est", "La vest", "La nord", "La sud"], "raspunsCorect": 1, "explicatie": "Soarele apune la vest.", "punctaj": 1 },
+  { "id": "geo-c4-u3", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care sunt cele patru puncte cardinale?", "variante": ["Nord, sud, est, vest", "Sus, jos, stânga, dreapta", "Roșu, galben, verde, albastru", "Unu, doi, trei, patru"], "raspunsCorect": 0, "explicatie": "Nord, sud, est, vest.", "punctaj": 1 },
+  { "id": "geo-c4-u4", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum este relieful la munte?", "variante": ["Înalt", "Neted", "Sub apă", "Plat ca o foaie"], "raspunsCorect": 0, "explicatie": "Munții sunt forme de relief înalte.", "punctaj": 1 },
+  { "id": "geo-c4-u5", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum se numește forma de relief întinsă și netedă?", "variante": ["Câmpie", "Munte", "Deal înalt", "Vârf"], "raspunsCorect": 0, "explicatie": "Câmpia este întinsă și netedă.", "punctaj": 1 },
+  { "id": "geo-c4-u6", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este capitala României?", "variante": ["București", "Cluj-Napoca", "Iași", "Constanța"], "raspunsCorect": 0, "explicatie": "Capitala este București.", "punctaj": 1 },
+  { "id": "geo-c4-u7", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cu ce culoare sunt apele pe hartă?", "variante": ["Albastru", "Maro", "Verde", "Roșu"], "raspunsCorect": 0, "explicatie": "Apele sunt albastre pe hartă.", "punctaj": 1 },
+  { "id": "geo-c4-u8", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este cel mai mare râu al României?", "variante": ["Dunărea", "Un pârâu", "Marea", "Un lac mic"], "raspunsCorect": 0, "explicatie": "Dunărea este cel mai mare râu.", "punctaj": 1 },
+  { "id": "geo-c4-u9", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Pe ce continent se află România?", "variante": ["Europa", "Asia", "Africa", "America"], "raspunsCorect": 0, "explicatie": "România se află în Europa.", "punctaj": 1 },
+  { "id": "geo-c4-u10", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum se numesc munții care străbat România?", "variante": ["Carpații", "Alpii", "Anzii", "Himalaya"], "raspunsCorect": 0, "explicatie": "Munții Carpați.", "punctaj": 1 },
+  { "id": "geo-c4-u11", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Pământul este planeta pe care trăim.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Pământul este planeta noastră.", "punctaj": 1 },
+  { "id": "geo-c4-u12", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Pe hartă, munții sunt colorați de obicei cu maro.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Munții — maro pe hartă.", "punctaj": 1 },
+
+  { "id": "geo-c4-mm1", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Dacă privești spre nord, în ce parte este estul?", "variante": ["La dreapta", "La stânga", "În spate", "În față"], "raspunsCorect": 0, "explicatie": "Cu fața la nord, estul e la dreapta.", "punctaj": 1 },
+  { "id": "geo-c4-mm2", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care formă de relief este mai joasă decât muntele, dar mai înaltă decât câmpia?", "variante": ["Dealul", "Vârful", "Marea", "Lacul"], "raspunsCorect": 0, "explicatie": "Dealul este între munte și câmpie.", "punctaj": 1 },
+  { "id": "geo-c4-mm3", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "În ce se varsă Dunărea?", "variante": ["În Marea Neagră", "Într-un lac mic", "În ocean direct", "Nicăieri"], "raspunsCorect": 0, "explicatie": "Dunărea se varsă în Marea Neagră.", "punctaj": 1 },
+  { "id": "geo-c4-mm4", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cu ce culoare sunt câmpiile pe hartă?", "variante": ["Verde", "Maro", "Albastru", "Roșu"], "raspunsCorect": 0, "explicatie": "Câmpiile — verde pe hartă.", "punctaj": 1 },
+  { "id": "geo-c4-mm5", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Dimineața Soarele e la est. La prânz e cam la...?", "variante": ["Sud (sus pe cer)", "Nord", "Vest deja", "Sub pământ"], "raspunsCorect": 0, "explicatie": "La prânz Soarele e sus, spre sud.", "punctaj": 1 },
+  { "id": "geo-c4-mm6", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce este Pământul?", "variante": ["O planetă", "O stea", "Un satelit al Lunii", "Un nor"], "raspunsCorect": 0, "explicatie": "Pământul este o planetă.", "punctaj": 1 },
+  { "id": "geo-c4-mm7", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "La ce folosește o hartă?", "variante": ["Să ne orientăm și să găsim locuri", "Să gătim", "Să numărăm", "Să desenăm flori"], "raspunsCorect": 0, "explicatie": "Harta ne ajută să ne orientăm.", "punctaj": 1 },
+  { "id": "geo-c4-mm8", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care oraș este capitala țării noastre?", "variante": ["București", "Sibiu", "Timișoara", "Galați"], "raspunsCorect": 0, "explicatie": "Capitala este București.", "punctaj": 1 },
+  { "id": "geo-c4-mm9", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce instrument ne ajută să găsim nordul?", "variante": ["Busola", "Termometrul", "Rigla", "Ceasul"], "raspunsCorect": 0, "explicatie": "Busola arată nordul.", "punctaj": 1 },
+  { "id": "geo-c4-mm10", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Marea care scaldă țărmul României se numește...?", "variante": ["Marea Neagră", "Marea Roșie", "Marea Mediterană", "Marea Baltică"], "raspunsCorect": 0, "explicatie": "Marea Neagră.", "punctaj": 1 },
+  { "id": "geo-c4-mm11", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Dealul este mai înalt decât câmpia, dar mai jos decât muntele.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Ordinea: câmpie < deal < munte.", "punctaj": 1 },
+  { "id": "geo-c4-mm12", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Câte continente are planeta Pământ?", "variante": ["7", "5", "3", "10"], "raspunsCorect": 0, "explicatie": "Pământul are 7 continente.", "punctaj": 1 },
+
+  { "id": "geo-c4-g1", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Mergi spre est, apoi te întorci complet (180°). În ce direcție mergi acum?", "variante": ["Vest", "Nord", "Sud", "Est"], "raspunsCorect": 0, "explicatie": "Opusul estului este vestul.", "punctaj": 1 },
+  { "id": "geo-c4-g2", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ordonează formele de relief de la cea mai joasă la cea mai înaltă.", "variante": ["câmpie, deal, munte", "munte, deal, câmpie", "deal, câmpie, munte", "munte, câmpie, deal"], "raspunsCorect": 0, "explicatie": "câmpie < deal < munte.", "punctaj": 1 },
+  { "id": "geo-c4-g3", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir descrie corect o „călătorie” de la mic la mare?", "variante": ["localitatea, țara, continentul, planeta", "planeta, țara, localitatea", "țara, planeta, localitatea", "continentul, localitatea, planeta"], "raspunsCorect": 0, "explicatie": "De la mic la mare: localitate → țară → continent → planetă.", "punctaj": 1 },
+  { "id": "geo-c4-g4", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cu fața spre nord, dai mâna dreaptă în lateral. Spre ce punct cardinal arată?", "variante": ["Est", "Vest", "Sud", "Nord"], "raspunsCorect": 0, "explicatie": "Cu fața la nord, dreapta arată spre est.", "punctaj": 1 },
+  { "id": "geo-c4-g5", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pe o hartă vezi o zonă maro lângă una verde. Ce relief se întâlnesc acolo?", "variante": ["Muntele cu câmpia", "Marea cu lacul", "Două mări", "Două câmpii"], "raspunsCorect": 0, "explicatie": "Maro = munte, verde = câmpie.", "punctaj": 1 },
+  { "id": "geo-c4-g6", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Dunărea străbate mai multe țări și se varsă în Marea Neagră. Ce este Dunărea?", "variante": ["Un fluviu (râu mare)", "Un lac", "Un munte", "O mare"], "raspunsCorect": 0, "explicatie": "Dunărea este un fluviu, cel mai mare râu al țării.", "punctaj": 1 },
+  { "id": "geo-c4-g7", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Soarele răsare la est și apune la vest. Dacă umbra ta dimineața e spre vest, încotro e Soarele?", "variante": ["Spre est", "Spre vest", "Spre nord", "Spre sud"], "raspunsCorect": 0, "explicatie": "Umbra cade opus Soarelui; dacă umbra e la vest, Soarele e la est.", "punctaj": 1 },
+  { "id": "geo-c4-g8", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care este ordinea corectă, de la cel mai mic la cel mai mare?", "variante": ["București (oraș), România (țară), Europa (continent)", "Europa, România, București", "România, Europa, București", "Europa, București, România"], "raspunsCorect": 0, "explicatie": "Oraș < țară < continent.", "punctaj": 1 },
+  { "id": "geo-c4-g9", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pe hartă, o linie albastră lungă care traversează țara reprezintă, cel mai probabil...?", "variante": ["Un râu", "Un munte", "Un oraș", "O pădure"], "raspunsCorect": 0, "explicatie": "Liniile albastre sunt ape curgătoare (râuri).", "punctaj": 1 },
+  { "id": "geo-c4-g10", "clasa": "clasa-4", "materie": "geografie", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "România este pe continentul Europa. Europa este pe...?", "variante": ["Planeta Pământ", "Lună", "Marte", "Soare"], "raspunsCorect": 0, "explicatie": "Toate continentele sunt pe planeta Pământ.", "punctaj": 1 },
+  { "id": "geo-c4-g11", "clasa": "clasa-4", "materie": "geografie", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Vestul este opusul estului, iar nordul este opusul sudului.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! E–V și N–S sunt perechi opuse.", "punctaj": 1 },
+  { "id": "geo-c4-g12", "clasa": "clasa-4", "materie": "geografie", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Vrei să mergi de la câmpie spre cel mai înalt relief. Spre ce te îndrepți?", "variante": ["Spre munte", "Spre mare", "Spre lac", "Spre o altă câmpie"], "raspunsCorect": 0, "explicatie": "Cel mai înalt relief este muntele.", "punctaj": 1 }
 ]

@@ -1,74 +1,40 @@
 [
-  {
-    "id": "rel-c4-i1", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Câte porunci i-a dat Dumnezeu lui Moise?",
-    "variante": ["Zece", "Trei", "Cinci", "Șapte"], "raspunsCorect": 0,
-    "explicatie": "Sunt cele Zece Porunci (Decalogul).", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i2", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care poruncă ne învață să ne respectăm părinții?",
-    "variante": ["Cinstește pe tatăl tău și pe mama ta", "Să alergi mult", "Să dormi devreme", "Să mănânci tot"], "raspunsCorect": 0,
-    "explicatie": "„Cinstește pe tatăl tău și pe mama ta” ne învață respectul față de părinți.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i3", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Ce ne învață poruncile lui Dumnezeu?",
-    "variante": ["Cum să trăim frumos și să facem binele", "Cum să jucăm fotbal", "Cum să gătim", "Cum să desenăm"], "raspunsCorect": 0,
-    "explicatie": "Poruncile ne învață să trăim frumos și să facem binele.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i4", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Ce înseamnă milostenia?",
-    "variante": ["Să-i ajutăm pe cei în nevoie", "Să adunăm bani", "Să ne supărăm", "Să tăcem"], "raspunsCorect": 0,
-    "explicatie": "Milostenia înseamnă să-i ajutăm pe cei aflați în nevoie.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i5", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este o faptă de milostenie?",
-    "variante": ["Să dai de mâncare celui flămând", "Să strici jucării", "Să fugi", "Să țipi"], "raspunsCorect": 0,
-    "explicatie": "Să dai de mâncare celui flămând este o faptă de milostenie.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i6", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cine au fost sfinții?",
-    "variante": ["Oameni credincioși și buni", "Regi bogați", "Soldați aspri", "Negustori"], "raspunsCorect": 0,
-    "explicatie": "Sfinții au fost oameni credincioși și buni, cu multe fapte bune.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i7", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce sfântă este cinstită la Iași, ca ocrotitoare a Moldovei?",
-    "variante": ["Sfânta Parascheva", "Sfânta Vineri a copiilor", "Sfânta Lumină", "Sfânta Carte"], "raspunsCorect": 0,
-    "explicatie": "Sfânta Parascheva este cinstită la Iași.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i8", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "De ce sunt sfinții modele pentru noi?",
-    "variante": ["Pentru faptele lor bune și credința lor", "Pentru că erau bogați", "Pentru că alergau repede", "Pentru că aveau jucării"], "raspunsCorect": 0,
-    "explicatie": "Sfinții ne sunt modele prin faptele bune și credința lor.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i9", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Una dintre porunci ne învață să nu mințim.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Poruncile ne învață să spunem adevărul.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i10", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Când împarți gustarea cu un coleg care nu are, faci o faptă de milostenie.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! A împărți cu cei în nevoie este milostenie.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i11", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Poruncile ne învață să nu furăm și să nu facem rău altora.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Acestea sunt printre cele Zece Porunci.", "punctaj": 1
-  },
-  {
-    "id": "rel-c4-i12", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cum putem urma exemplul sfinților?",
-    "variante": ["Făcând fapte bune și rugându-ne", "Supărându-ne", "Certându-ne", "Ignorându-i pe ceilalți"], "raspunsCorect": 0,
-    "explicatie": "Îi urmăm prin fapte bune, rugăciune și bunătate.", "punctaj": 1
-  }
+  { "id": "rel-c4-u1", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Câte porunci i-a dat Dumnezeu lui Moise?", "variante": ["Zece", "Trei", "Cinci", "Șapte"], "raspunsCorect": 0, "explicatie": "Cele Zece Porunci (Decalogul).", "punctaj": 1 },
+  { "id": "rel-c4-u2", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care poruncă ne învață să ne respectăm părinții?", "variante": ["Cinstește pe tatăl tău și pe mama ta", "Să alergi mult", "Să dormi devreme", "Să mănânci tot"], "raspunsCorect": 0, "explicatie": "„Cinstește pe tatăl tău și pe mama ta”.", "punctaj": 1 },
+  { "id": "rel-c4-u3", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă milostenia?", "variante": ["Să-i ajutăm pe cei în nevoie", "Să adunăm bani", "Să ne supărăm", "Să tăcem"], "raspunsCorect": 0, "explicatie": "Milostenia = să-i ajutăm pe cei în nevoie.", "punctaj": 1 },
+  { "id": "rel-c4-u4", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cine au fost sfinții?", "variante": ["Oameni credincioși și buni", "Regi bogați", "Soldați aspri", "Negustori"], "raspunsCorect": 0, "explicatie": "Oameni credincioși și buni.", "punctaj": 1 },
+  { "id": "rel-c4-u5", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este o faptă de milostenie?", "variante": ["Să dai de mâncare celui flămând", "Să strici jucării", "Să fugi", "Să țipi"], "raspunsCorect": 0, "explicatie": "Să dai de mâncare celui flămând.", "punctaj": 1 },
+  { "id": "rel-c4-u6", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce ne învață poruncile lui Dumnezeu?", "variante": ["Cum să trăim frumos și să facem binele", "Cum să jucăm fotbal", "Cum să gătim", "Cum să desenăm"], "raspunsCorect": 0, "explicatie": "Ne învață binele și viața frumoasă.", "punctaj": 1 },
+  { "id": "rel-c4-u7", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce sfântă este cinstită la Iași?", "variante": ["Sfânta Parascheva", "Sfânta Vineri a copiilor", "Sfânta Lumină", "Sfânta Carte"], "raspunsCorect": 0, "explicatie": "Sfânta Parascheva, la Iași.", "punctaj": 1 },
+  { "id": "rel-c4-u8", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "De ce sunt sfinții modele pentru noi?", "variante": ["Pentru faptele lor bune și credința lor", "Pentru că erau bogați", "Pentru că alergau repede", "Pentru jucării"], "raspunsCorect": 0, "explicatie": "Pentru faptele bune și credință.", "punctaj": 1 },
+  { "id": "rel-c4-u9", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Una dintre porunci ne învață să nu mințim.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Ne învață să spunem adevărul.", "punctaj": 1 },
+  { "id": "rel-c4-u10", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Când împarți gustarea cu un coleg care nu are, faci o faptă de milostenie.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! A împărți este milostenie.", "punctaj": 1 },
+  { "id": "rel-c4-u11", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Poruncile ne învață să nu furăm și să nu facem rău altora.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt printre cele Zece Porunci.", "punctaj": 1 },
+  { "id": "rel-c4-u12", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum putem urma exemplul sfinților?", "variante": ["Făcând fapte bune și rugându-ne", "Supărându-ne", "Certându-ne", "Ignorându-i pe ceilalți"], "raspunsCorect": 0, "explicatie": "Prin fapte bune, rugăciune și bunătate.", "punctaj": 1 },
+
+  { "id": "rel-c4-m1", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cui i-a dat Dumnezeu cele Zece Porunci?", "variante": ["Lui Moise", "Unui rege", "Unui copil", "Unui negustor"], "raspunsCorect": 0, "explicatie": "Dumnezeu i le-a dat lui Moise.", "punctaj": 1 },
+  { "id": "rel-c4-m2", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care faptă respectă porunca „Să nu minți”?", "variante": ["Spui adevărul chiar dacă e greu", "Inventezi o scuză", "Ascunzi adevărul", "Dai vina pe altul"], "raspunsCorect": 0, "explicatie": "Spunând adevărul respectăm porunca.", "punctaj": 1 },
+  { "id": "rel-c4-m3", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Vezi o familie săracă fără haine de iarnă. Ce faptă de milostenie poți face?", "variante": ["Le dăruiesc haine pe care nu le mai port", "Trec mai departe", "Râd de ei", "Mă supăr"], "raspunsCorect": 0, "explicatie": "Milostenia: să dăruim celor în nevoie.", "punctaj": 1 },
+  { "id": "rel-c4-m4", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Sfânta Parascheva este ocrotitoarea cărei regiuni?", "variante": ["A Moldovei", "A Olteniei", "A Banatului", "A Dobrogei"], "raspunsCorect": 0, "explicatie": "Sfânta Parascheva — ocrotitoarea Moldovei.", "punctaj": 1 },
+  { "id": "rel-c4-m5", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care faptă NU respectă o poruncă?", "variante": ["Să iei lucrul altuia fără voie", "Să-ți cinstești părinții", "Să spui adevărul", "Să ajuți"], "raspunsCorect": 0, "explicatie": "A lua fără voie încalcă porunca „Să nu furi”.", "punctaj": 1 },
+  { "id": "rel-c4-m6", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este un exemplu de milostenie la școală?", "variante": ["Împart rechizite cu un coleg care nu are", "Stric caietul colegului", "Râd de cel care greșește", "Nu vorbesc cu nimeni"], "raspunsCorect": 0, "explicatie": "A împărți cu cei în nevoie este milostenie.", "punctaj": 1 },
+  { "id": "rel-c4-m7", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce putem învăța de la sfinți?", "variante": ["Bunătatea, credința și răbdarea", "Cum să câștigăm jocuri", "Rețete de prăjituri", "Cum să alergăm"], "raspunsCorect": 0, "explicatie": "Învățăm bunătate, credință și răbdare.", "punctaj": 1 },
+  { "id": "rel-c4-m8", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Poruncile lui Dumnezeu sunt reguli care...?", "variante": ["Ne ajută să trăim bine și în pace", "Ne încurcă", "Sunt doar pentru adulți", "Nu au rost"], "raspunsCorect": 0, "explicatie": "Ne ajută să trăim frumos și în pace.", "punctaj": 1 },
+  { "id": "rel-c4-m9", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Milostenia se poate arăta și printr-o vorbă. Care?", "variante": ["O vorbă bună celui trist", "O vorbă urâtă", "O minciună", "Tăcerea rece"], "raspunsCorect": 0, "explicatie": "O vorbă bună mângâie și e o faptă de milostenie.", "punctaj": 1 },
+  { "id": "rel-c4-m10", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum cinstesc creștinii un sfânt?", "variante": ["Prin rugăciune și fapte bune", "Prin ceartă", "Ignorându-l", "Prin lene"], "raspunsCorect": 0, "explicatie": "Îl cinstesc prin rugăciune și urmând exemplul lui.", "punctaj": 1 },
+  { "id": "rel-c4-m11", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Cele Zece Porunci ne arată cum să trăim frumos cu Dumnezeu și cu oamenii.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt reguli de viață bună.", "punctaj": 1 },
+  { "id": "rel-c4-m12", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care faptă este milostenie?", "variante": ["Să vizitezi un bolnav și să-l alini", "Să-l eviți", "Să-l superi", "Să râzi de el"], "raspunsCorect": 0, "explicatie": "A cerceta și alina pe cel bolnav este milostenie.", "punctaj": 1 },
+
+  { "id": "rel-c4-g1", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un coleg a uitat acasă banii de gustare. Ce faptă respectă atât milostenia, cât și porunca iubirii?", "variante": ["Împart gustarea mea cu el", "Îi spun să se descurce", "Râd de el", "Îl ignor"], "raspunsCorect": 0, "explicatie": "Împărțind, faci milostenie și urmezi porunca iubirii.", "punctaj": 1 },
+  { "id": "rel-c4-g2", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR fapte care respectă poruncile?", "variante": ["spui adevărul, îți cinstești părinții, ajuți", "spui adevărul, furi, ajuți", "minți, ajuți, cinstești", "furi, minți, ignori"], "raspunsCorect": 0, "explicatie": "Toate trei respectă poruncile.", "punctaj": 1 },
+  { "id": "rel-c4-g3", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care NU este o faptă de milostenie?", "variante": ["Să te lauzi cu ce ai dat", "Să dai de mâncare", "Să dăruiești haine", "Să alini un trist"], "raspunsCorect": 0, "explicatie": "Lauda strică milostenia; ea se face cu smerenie.", "punctaj": 1 },
+  { "id": "rel-c4-g4", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce au în comun sfinții, deși au trăit în vremuri diferite?", "variante": ["Credința în Dumnezeu și faptele bune", "Aceeași vârstă", "Aceeași țară mereu", "Aceleași jucării"], "raspunsCorect": 0, "explicatie": "Toți s-au remarcat prin credință și fapte bune.", "punctaj": 1 },
+  { "id": "rel-c4-g5", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Găsești un portofel pierdut. Ce poruncă urmezi dacă îl înapoiezi?", "variante": ["„Să nu furi”", "„Să nu minți”", "„Cinstește părinții”", "Niciuna"], "raspunsCorect": 0, "explicatie": "Înapoind ce nu e al tău, respecți „Să nu furi”.", "punctaj": 1 },
+  { "id": "rel-c4-g6", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce este bine să facem milostenie în taină (fără să ne lăudăm)?", "variante": ["Pentru că o facem din iubire, nu pentru laudă", "Ca să primim cadouri", "Ca să fim văzuți", "Fără motiv"], "raspunsCorect": 0, "explicatie": "Milostenia adevărată se face din iubire, cu smerenie.", "punctaj": 1 },
+  { "id": "rel-c4-g7", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un prieten te roagă să minți pentru el. Ce e corect, după porunci?", "variante": ["Să nu mint, ci să spun adevărul cu blândețe", "Să mint, ca să-l ajut", "Să fug", "Să țip la el"], "raspunsCorect": 0, "explicatie": "Porunca „Să nu minți” ne cere adevărul, spus cu blândețe.", "punctaj": 1 },
+  { "id": "rel-c4-g8", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cum putem fi astăzi „mici sfinți” în faptele noastre?", "variante": ["Făcând binele, fiind cinstiți și milostivi", "Lăudându-ne", "Certându-ne", "Ignorând pe ceilalți"], "raspunsCorect": 0, "explicatie": "Urmând exemplul sfinților: bine, cinste, milostenie.", "punctaj": 1 },
+  { "id": "rel-c4-g9", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir descrie corect fapte de milostenie?", "variante": ["a hrăni pe cel flămând, a îmbrăca pe cel gol, a cerceta pe cel bolnav", "a fura, a ajuta, a minți", "a râde, a dărui, a ignora", "a tăcea, a striga, a pleca"], "raspunsCorect": 0, "explicatie": "Acestea sunt fapte clasice de milostenie creștină.", "punctaj": 1 },
+  { "id": "rel-c4-g10", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Respectarea poruncilor ne ajută să trăim în pace cu Dumnezeu și cu oamenii.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Poruncile aduc pace și bună-înțelegere.", "punctaj": 1 },
+  { "id": "rel-c4-g11", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce titlu se potrivește unei povești despre un sfânt care își dăruia averea săracilor?", "variante": ["Inima darnică", "Cursa de mașini", "Numerele mari", "Vacanța de vară"], "raspunsCorect": 0, "explicatie": "„Inima darnică” se potrivește temei milosteniei.", "punctaj": 1 },
+  { "id": "rel-c4-g12", "clasa": "clasa-4", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Milostenia adevărată se face...?", "variante": ["Din iubire, cu bucurie și fără mândrie", "Doar dacă te vede cineva", "Pentru răsplată", "Cu părere de rău"], "raspunsCorect": 0, "explicatie": "Din iubire, cu bucurie și smerenie.", "punctaj": 1 }
 ]

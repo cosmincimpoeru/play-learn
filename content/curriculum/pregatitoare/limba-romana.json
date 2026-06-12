@@ -1,0 +1,41 @@
+{
+  "clasa": "pregatitoare",
+  "materie": "limba-romana",
+  "sursa": "OMEN 3418/19.03.2013 — Comunicare în limba română, Clasa pregătitoare",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale în contexte de comunicare cunoscute",
+    "Exprimarea de mesaje orale în diverse situații de comunicare",
+    "Receptarea unei varietăți de mesaje scrise, în contexte de comunicare cunoscute",
+    "Redactarea de mesaje în diverse situații de comunicare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Identificarea semnificației unui mesaj scurt, pe teme familiare, rostit clar și rar",
+      "obiective": [
+        "Înțelege despre ce este vorba într-un mesaj scurt",
+        "Alege imaginea potrivită pentru un mesaj audiat"
+      ],
+      "continuturi": ["Comunicare orală: ascultare", "Mesaje scurte pe teme familiare"]
+    },
+    {
+      "cod": "1.3",
+      "descriere": "Identificarea sunetului inițial și/sau final dintr-un cuvânt, a silabelor și a cuvintelor din propoziții rostite clar și rar",
+      "obiective": [
+        "Recunoaște sunetul cu care începe un cuvânt",
+        "Numără silabele dintr-un cuvânt",
+        "Numără cuvintele dintr-o propoziție scurtă"
+      ],
+      "continuturi": ["Sunete și silabe", "Cuvântul și propoziția"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea unor cuvinte uzuale, din universul apropiat, scrise cu litere mari și mici de tipar",
+      "obiective": [
+        "Recunoaște litere mari de tipar",
+        "Asociază un cuvânt cu imaginea potrivită"
+      ],
+      "continuturi": ["Litere de tipar", "Cuvinte din universul apropiat"]
+    }
+  ]
+}

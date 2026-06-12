@@ -1,0 +1,44 @@
+[
+  {
+    "id": "lr-preg-l1",
+    "clasa": "pregatitoare",
+    "materie": "limba-romana",
+    "competenta": "1.3",
+    "titlu": "Sunetul de la început",
+    "explicatie": "Fiecare cuvânt începe cu un sunet. Dacă spui rar cuvântul „mama”, auzi la început sunetul „m”. Hai să ascultăm cu ce sunet încep cuvintele!",
+    "exemplu": "Cuvântul „minge” începe cu „m”. Cuvântul „albină” începe cu „a”.",
+    "activitate": "Spune rar cuvântul „casă”. Cu ce sunet începe? Spune-l cu voce tare!",
+    "jocuri": [
+      "Caut un obiect din cameră care începe cu sunetul „a”.",
+      "Bat din palme când aud un cuvânt care începe cu „m”."
+    ]
+  },
+  {
+    "id": "lr-preg-l2",
+    "clasa": "pregatitoare",
+    "materie": "limba-romana",
+    "competenta": "1.3",
+    "titlu": "Câte silabe are cuvântul?",
+    "explicatie": "Silabele sunt bucățile cuvântului. Dacă batem din palme când spunem cuvântul, numărăm silabele. „ma-mă” are două bătăi, deci două silabe!",
+    "exemplu": "„flu-tu-re” are trei silabe. „pom” are o silabă.",
+    "activitate": "Bate din palme la cuvântul „ba-lon”. Câte bătăi ai făcut?",
+    "jocuri": [
+      "Numesc un animal și bat silabele din palme.",
+      "Sar de câte ori are silabe numele meu."
+    ]
+  },
+  {
+    "id": "lr-preg-l3",
+    "clasa": "pregatitoare",
+    "materie": "limba-romana",
+    "competenta": "3.1",
+    "titlu": "Litere mari de tipar",
+    "explicatie": "Literele mari de tipar sunt literele pe care le vedem pe cărți și pe afișe. Fiecare literă are un sunet. Litera „A” are sunetul „a”.",
+    "exemplu": "În cuvântul „MAMA” vedem literele M, A, M, A.",
+    "activitate": "Caută litera „A” în jurul tău: pe o carte, pe o cutie, pe un afiș.",
+    "jocuri": [
+      "Desenez litera „O” în aer cu degetul.",
+      "Găsesc litera cu care începe numele meu."
+    ]
+  }
+]

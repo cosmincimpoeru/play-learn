@@ -1,0 +1,74 @@
+[
+  {
+    "id": "lr-preg-i1", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Cu ce sunet începe cuvântul „mama”?",
+    "variante": ["m", "a", "p", "t"], "raspunsCorect": 0,
+    "explicatie": "Spunem rar „m-a-m-a”. La început auzim sunetul „m”.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i2", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Cu ce sunet începe cuvântul „albină”?",
+    "variante": ["b", "a", "l", "n"], "raspunsCorect": 1,
+    "explicatie": "„a-l-b-i-n-ă” începe cu sunetul „a”.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i3", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Câte silabe are cuvântul „ma-mă”?",
+    "variante": ["1", "2", "3", "4"], "raspunsCorect": 1,
+    "explicatie": "„ma-mă” are două bătăi din palme, deci 2 silabe.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i4", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Câte silabe are cuvântul „flu-tu-re”?",
+    "variante": ["1", "2", "3", "4"], "raspunsCorect": 2,
+    "explicatie": "„flu-tu-re” are trei bucăți: flu / tu / re = 3 silabe.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i5", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Câte silabe are cuvântul „pom”?",
+    "variante": ["1", "2", "3", "4"], "raspunsCorect": 0,
+    "explicatie": "„pom” se spune dintr-o singură bătaie = 1 silabă.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i6", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Cu ce sunet începe cuvântul „casă”?",
+    "variante": ["a", "s", "c", "ă"], "raspunsCorect": 2,
+    "explicatie": "„c-a-s-ă” începe cu sunetul „c”.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i7", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Cuvântul „soare” are legătură cu cerul și lumina.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Soarele este pe cer și ne dă lumină.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i8", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce literă mare de tipar vezi prima în cuvântul „MASĂ”?",
+    "variante": ["A", "M", "S", "Ă"], "raspunsCorect": 1,
+    "explicatie": "Prima literă din „MASĂ” este „M”.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i9", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Care cuvânt începe cu litera „O”?",
+    "variante": ["MERE", "OAIE", "PISICĂ", "CARTE"], "raspunsCorect": 1,
+    "explicatie": "„OAIE” începe cu litera „O”.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i10", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Câte silabe are cuvântul „ba-lon”?",
+    "variante": ["1", "2", "3", "4"], "raspunsCorect": 1,
+    "explicatie": "„ba-lon” are două bucăți: ba / lon = 2 silabe.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i11", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.3", "tip": "alegere",
+    "enunt": "Cu ce sunet începe cuvântul „pisică”?",
+    "variante": ["i", "s", "p", "c"], "raspunsCorect": 2,
+    "explicatie": "„p-i-s-i-c-ă” începe cu sunetul „p”.", "punctaj": 1
+  },
+  {
+    "id": "lr-preg-i12", "clasa": "pregatitoare", "materie": "limba-romana", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Când cineva spune „Bună ziua!”, ne salută.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Bună ziua” este un salut politicos.", "punctaj": 1
+  }
+]

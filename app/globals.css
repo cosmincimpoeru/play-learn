@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-app: "Nunito", "Comic Sans MS", system-ui, sans-serif;
+}
+
+body {
+  @apply bg-amber-50 text-brand-inchis;
+}
+
+/* Regulă Clasa Pregătitoare: text afișat cu MAJUSCULE. */
+.majuscule {
+  text-transform: uppercase;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: white;
+  }
+}

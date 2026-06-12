@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-1",
+  "materie": "limba-engleza",
+  "sursa": "Conținut adaptat vârstei (introducere în limba engleză), Clasa I",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale simple în limba engleză",
+    "Exprimarea orală a unor cuvinte și expresii uzuale",
+    "Recunoașterea unor cuvinte familiare scrise"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "2.1",
+      "descriere": "Numirea membrilor familiei în limba engleză",
+      "obiective": ["Spune mother, father, brother, sister", "Asociază cuvântul cu persoana"],
+      "continuturi": ["Family"]
+    },
+    {
+      "cod": "2.2",
+      "descriere": "Numirea unor animale uzuale în limba engleză",
+      "obiective": ["Numește cat, dog, bird, fish", "Asociază animalul cu sunetul/imaginea"],
+      "continuturi": ["Animals"]
+    },
+    {
+      "cod": "2.3",
+      "descriere": "Numărarea 1-10 în limba engleză",
+      "obiective": ["Numără până la 10 în engleză"],
+      "continuturi": ["Numbers 1-10"]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mat-c1-i1", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.4", "tip": "alegere",
+    "enunt": "Cât face 3 + 2?",
+    "variante": ["4", "5", "6", "3"], "raspunsCorect": 1,
+    "explicatie": "3 + 2 = 5.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i2", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.4", "tip": "alegere",
+    "enunt": "Cât face 4 + 3?",
+    "variante": ["6", "7", "8", "5"], "raspunsCorect": 1,
+    "explicatie": "4 + 3 = 7.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i3", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.4", "tip": "alegere",
+    "enunt": "Cât face 5 − 2?",
+    "variante": ["2", "3", "4", "1"], "raspunsCorect": 1,
+    "explicatie": "5 − 2 = 3.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i4", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.4", "tip": "alegere",
+    "enunt": "Ai 6 baloane și se sparg 2. Câte rămân?",
+    "variante": ["3", "4", "5", "6"], "raspunsCorect": 1,
+    "explicatie": "6 − 2 = 4 baloane rămân.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i5", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce număr vine după 29?",
+    "variante": ["28", "30", "31", "20"], "raspunsCorect": 1,
+    "explicatie": "După 29 vine 30.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i6", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Numărăm din 10 în 10: 10, 20, 30, ...?",
+    "variante": ["31", "40", "35", "50"], "raspunsCorect": 1,
+    "explicatie": "După 30 urmează 40 (din 10 în 10).", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i7", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care număr este cel mai mare?",
+    "variante": ["17", "71", "27", "37"], "raspunsCorect": 1,
+    "explicatie": "71 este cel mai mare dintre toate.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i8", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce zi vine după miercuri?",
+    "variante": ["Marți", "Joi", "Vineri", "Luni"], "raspunsCorect": 1,
+    "explicatie": "După miercuri vine joi.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i9", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Câte zile are o săptămână?",
+    "variante": ["5", "6", "7", "10"], "raspunsCorect": 2,
+    "explicatie": "Săptămâna are 7 zile.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i10", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.4", "tip": "alegere",
+    "enunt": "Cât face 7 + 2?",
+    "variante": ["8", "9", "10", "7"], "raspunsCorect": 1,
+    "explicatie": "7 + 2 = 9.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i11", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Plantele au nevoie de apă și lumină ca să crească.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Plantele cresc cu apă, lumină și aer.", "punctaj": 1
+  },
+  {
+    "id": "mat-c1-i12", "clasa": "clasa-1", "materie": "matematica-stiinte", "competenta": "1.4", "tip": "adevarat-fals",
+    "enunt": "10 − 5 = 5",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! 10 − 5 = 5.", "punctaj": 1
+  }
+]

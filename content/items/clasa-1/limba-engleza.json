@@ -1,0 +1,74 @@
+[
+  {
+    "id": "en-c1-i1", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „mamă” în engleză?",
+    "variante": ["father", "mother", "sister", "brother"], "raspunsCorect": 1,
+    "explicatie": "„Mother” înseamnă mamă.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i2", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce înseamnă „father”?",
+    "variante": ["frate", "tată", "soră", "bunic"], "raspunsCorect": 1,
+    "explicatie": "„Father” înseamnă tată.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i3", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „soră” în engleză?",
+    "variante": ["brother", "mother", "sister", "father"], "raspunsCorect": 2,
+    "explicatie": "„Sister” înseamnă soră.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i4", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „dog”? 🐶",
+    "variante": ["pisică", "câine", "pasăre", "pește"], "raspunsCorect": 1,
+    "explicatie": "„Dog” înseamnă câine.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i5", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „pisică” în engleză? 🐱",
+    "variante": ["cat", "dog", "fish", "bird"], "raspunsCorect": 0,
+    "explicatie": "„Cat” înseamnă pisică.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i6", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce înseamnă „fish”? 🐟",
+    "variante": ["pasăre", "câine", "pește", "pisică"], "raspunsCorect": 2,
+    "explicatie": "„Fish” înseamnă pește.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i7", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce număr este „seven”?",
+    "variante": ["6", "7", "8", "9"], "raspunsCorect": 1,
+    "explicatie": "„Seven” înseamnă 7.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i8", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Cum spui „10” în engleză?",
+    "variante": ["nine", "ten", "eight", "six"], "raspunsCorect": 1,
+    "explicatie": "„Ten” înseamnă 10.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i9", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
+    "enunt": "Ce număr este „eight”?",
+    "variante": ["6", "7", "8", "9"], "raspunsCorect": 2,
+    "explicatie": "„Eight” înseamnă 8.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i10", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „pasăre” în engleză? 🐦",
+    "variante": ["bird", "fish", "cat", "dog"], "raspunsCorect": 0,
+    "explicatie": "„Bird” înseamnă pasăre.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i11", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "„Brother” înseamnă frate.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Brother” înseamnă frate.", "punctaj": 1
+  },
+  {
+    "id": "en-c1-i12", "clasa": "clasa-1", "materie": "limba-engleza", "competenta": "2.3", "tip": "adevarat-fals",
+    "enunt": "„Nine” înseamnă 9.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Nine” înseamnă 9.", "punctaj": 1
+  }
+]

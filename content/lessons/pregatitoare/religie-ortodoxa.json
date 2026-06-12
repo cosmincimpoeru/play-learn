@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rel-preg-l1",
+    "clasa": "pregatitoare",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.1",
+    "titlu": "Rugăciunea — vorbim cu Dumnezeu",
+    "explicatie": "Rugăciunea este o vorbă frumoasă cu Dumnezeu. Putem să Îi mulțumim, să Îl rugăm ceva sau să spunem o vorbă bună. O spunem cu inima curată și liniștiți.",
+    "exemplu": "Seara putem spune: „Doamne, îți mulțumesc pentru ziua de azi și pentru familia mea.”",
+    "activitate": "Gândește-te la un lucru bun din ziua ta și spune „mulțumesc” pentru el.",
+    "jocuri": ["Spun un gând bun pentru cineva drag.", "Desenez ceva pentru care sunt recunoscător."]
+  },
+  {
+    "id": "rel-preg-l2",
+    "clasa": "pregatitoare",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.1",
+    "titlu": "Semnul Sfintei Cruci",
+    "explicatie": "Creștinii își fac semnul Sfintei Cruci. Ducem mâna la frunte, la piept, apoi la umărul drept și la cel stâng. Este un gest de respect și de credință.",
+    "exemplu": "Ne închinăm spunând: „În numele Tatălui și al Fiului și al Sfântului Duh. Amin.”",
+    "activitate": "Arată cu degetul cele patru locuri: frunte, piept, umăr drept, umăr stâng.",
+    "jocuri": ["Învăț ordinea gestului închinării.", "Desenez o cruce."]
+  },
+  {
+    "id": "rel-preg-l3",
+    "clasa": "pregatitoare",
+    "materie": "religie-ortodoxa",
+    "competenta": "2.1",
+    "titlu": "Bunătatea și ajutorul",
+    "explicatie": "Dumnezeu ne învață să fim buni și să îi ajutăm pe ceilalți. Când împărțim, când ajutăm un prieten sau spunem o vorbă blândă, facem o faptă bună.",
+    "exemplu": "Mihai i-a dat mărul lui unui copil flămând — a fost o faptă bună și frumoasă.",
+    "activitate": "Gândește-te cum poți ajuta azi pe cineva din familie.",
+    "jocuri": ["Spun „mulțumesc” și „te rog” toată ziua.", "Ofer o jucărie unui prieten să se joace."]
+  },
+  {
+    "id": "rel-preg-l4",
+    "clasa": "pregatitoare",
+    "materie": "religie-ortodoxa",
+    "competenta": "3.1",
+    "titlu": "Sărbători: Crăciunul și Paștele",
+    "explicatie": "Creștinii au sărbători mari. De Crăciun sărbătorim Nașterea Domnului Iisus Hristos. De Paște sărbătorim Învierea Domnului. Sunt zile de bucurie, iubire și bunătate.",
+    "exemplu": "🎄 De Crăciun cântăm colinde. 🥚 De Paște spunem „Hristos a înviat!”",
+    "activitate": "Ce sărbătoare are brad, colinde și cadouri?",
+    "jocuri": ["Cânt un colind de Crăciun.", "Desenez un ou de Paște colorat."]
+  }
+]

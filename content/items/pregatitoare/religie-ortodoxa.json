@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rel-preg-i1", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce este rugăciunea?",
+    "variante": ["Un joc", "O vorbă frumoasă cu Dumnezeu", "O mâncare", "Un desen"], "raspunsCorect": 1,
+    "explicatie": "Rugăciunea este o vorbă frumoasă, din inimă, cu Dumnezeu.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i2", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Când facem semnul Sfintei Cruci, unde ducem mâna mai întâi?",
+    "variante": ["La frunte", "La picioare", "La spate", "La genunchi"], "raspunsCorect": 0,
+    "explicatie": "Întâi ducem mâna la frunte, apoi la piept și la umeri.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i3", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este o faptă bună?",
+    "variante": ["Să ajuți un prieten", "Să strici o jucărie", "Să țipi", "Să te superi"], "raspunsCorect": 0,
+    "explicatie": "Să ajutăm pe ceilalți este o faptă bună și frumoasă.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i4", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce sărbătorim de Crăciun?",
+    "variante": ["Învierea Domnului", "Nașterea Domnului Iisus", "Ziua mea", "Vacanța"], "raspunsCorect": 1,
+    "explicatie": "De Crăciun sărbătorim Nașterea Domnului Iisus Hristos 🎄.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i5", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce spunem de Paște?",
+    "variante": ["La mulți ani", "Hristos a înviat!", "Noapte bună", "Poftă bună"], "raspunsCorect": 1,
+    "explicatie": "De Paște spunem „Hristos a înviat!”.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i6", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce cântăm de Crăciun?",
+    "variante": ["Colinde", "Tema de matematică", "Alfabetul", "Numerele"], "raspunsCorect": 0,
+    "explicatie": "De Crăciun cântăm colinde frumoase 🎄.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i7", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum vorbim frumos cu ceilalți?",
+    "variante": ["Spunem „te rog” și „mulțumesc”", "Țipăm", "Ne supărăm", "Nu salutăm"], "raspunsCorect": 0,
+    "explicatie": "Vorbim frumos folosind „te rog” și „mulțumesc”.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i8", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Unde merg creștinii să se roage?",
+    "variante": ["La biserică", "La piscină", "La magazin", "La stadion"], "raspunsCorect": 0,
+    "explicatie": "Biserica este locul de rugăciune al creștinilor.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i9", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Prin rugăciune îi putem mulțumi lui Dumnezeu.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Prin rugăciune mulțumim și cerem ajutor.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i10", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Să împărțim cu ceilalți este o faptă bună.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Când împărțim, facem o faptă bună.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i11", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "De Paște sărbătorim Învierea Domnului.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Paștele este sărbătoarea Învierii Domnului.", "punctaj": 1
+  },
+  {
+    "id": "rel-preg-i12", "clasa": "pregatitoare", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce spunem la final de rugăciune?",
+    "variante": ["Gata", "Amin", "Pa", "Stop"], "raspunsCorect": 1,
+    "explicatie": "La finalul rugăciunii spunem „Amin”.", "punctaj": 1
+  }
+]

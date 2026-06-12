@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mat-c1-l1",
+    "clasa": "clasa-1",
+    "materie": "matematica-stiinte",
+    "competenta": "1.1",
+    "titlu": "Numerele până la 100",
+    "explicatie": "După 9 vin numerele cu două cifre: 10, 11, 12... până la 100. Putem număra din 10 în 10: 10, 20, 30, 40...",
+    "exemplu": "După 19 vine 20. După 49 vine 50. Din 10 în 10: 10, 20, 30...",
+    "activitate": "Ce număr vine după 29?",
+    "jocuri": ["Număr din 10 în 10 până la 100.", "Caut numărul lipsă dintr-un șir."]
+  },
+  {
+    "id": "mat-c1-l2",
+    "clasa": "clasa-1",
+    "materie": "matematica-stiinte",
+    "competenta": "1.4",
+    "titlu": "Adunăm și scădem",
+    "explicatie": "Când adunăm, punem împreună (+). Când scădem, luăm din ceva (−). 3 + 2 = 5, iar 5 − 2 = 3.",
+    "exemplu": "🍎🍎 + 🍎 = 3 mere. 4 baloane − 1 balon = 3 baloane.",
+    "activitate": "Cât face 4 + 3?",
+    "jocuri": ["Adun obiecte de pe masă.", "Iau jucării dintr-o grămadă și număr câte rămân."]
+  },
+  {
+    "id": "mat-c1-l3",
+    "clasa": "clasa-1",
+    "materie": "matematica-stiinte",
+    "competenta": "3.1",
+    "titlu": "Zilele săptămânii",
+    "explicatie": "Săptămâna are 7 zile: luni, marți, miercuri, joi, vineri, sâmbătă, duminică. La școală mergem de luni până vineri.",
+    "exemplu": "După luni vine marți. Sâmbăta și duminica sunt zile de odihnă.",
+    "activitate": "Ce zi vine după miercuri?",
+    "jocuri": ["Spun zilele săptămânii în ordine.", "Desenez ce fac în weekend."]
+  }
+]

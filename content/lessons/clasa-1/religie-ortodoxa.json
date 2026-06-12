@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rel-c1-l1",
+    "clasa": "clasa-1",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.1",
+    "titlu": "Rugăciunea „Tatăl nostru”",
+    "explicatie": "„Tatăl nostru” este cea mai cunoscută rugăciune a creștinilor. Domnul Iisus i-a învățat pe oameni să se roage așa. Începe cu: „Tatăl nostru, Care ești în ceruri...”.",
+    "exemplu": "Spunem rugăciunea liniștiți, cu inima curată, dimineața și seara.",
+    "activitate": "Cum se numește rugăciunea pe care ne-a învățat-o Domnul Iisus?",
+    "jocuri": ["Învăț primele cuvinte ale rugăciunii.", "Spun o rugăciune scurtă de mulțumire."]
+  },
+  {
+    "id": "rel-c1-l2",
+    "clasa": "clasa-1",
+    "materie": "religie-ortodoxa",
+    "competenta": "1.2",
+    "titlu": "Biserica — casa lui Dumnezeu",
+    "explicatie": "Biserica este locul unde creștinii se roagă împreună. Are turn cu cruce și clopote. Acolo mergem la slujbă și ne rugăm cu liniște și respect.",
+    "exemplu": "Duminica, mulți creștini merg la biserică să se roage și să asculte slujba.",
+    "activitate": "Cum recunoști o biserică de departe?",
+    "jocuri": ["Desenez o biserică cu turn și cruce.", "Recunosc biserica dintr-un set de imagini."]
+  },
+  {
+    "id": "rel-c1-l3",
+    "clasa": "clasa-1",
+    "materie": "religie-ortodoxa",
+    "competenta": "2.1",
+    "titlu": "Sfinții și faptele bune",
+    "explicatie": "Sfinții au fost oameni buni și credincioși, care au făcut multe fapte bune și i-au iubit pe ceilalți. Și noi putem face fapte bune în fiecare zi.",
+    "exemplu": "Sfântul Nicolae îi ajuta pe cei săraci și pe copii. De aceea îl sărbătorim pe 6 decembrie.",
+    "activitate": "Spune o faptă bună pe care o poți face azi.",
+    "jocuri": ["Fac o faptă bună acasă.", "Spun „te iert” când cineva îmi cere iertare."]
+  }
+]

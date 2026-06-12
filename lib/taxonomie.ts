@@ -19,6 +19,7 @@ export const MATERII: { id: MaterieId; titlu: string; emoji: string; culoare: st
   { id: "limba-romana", titlu: "Comunicare în Limba Română", emoji: "📖", culoare: "bg-brand-rosu" },
   { id: "limba-engleza", titlu: "Comunicare în Limba Engleză", emoji: "🇬🇧", culoare: "bg-brand-albastru" },
   { id: "matematica-stiinte", titlu: "Matematică și Științe ale Naturii", emoji: "🔢", culoare: "bg-brand-verde" },
+  { id: "religie-ortodoxa", titlu: "Religie Ortodoxă", emoji: "✝️", culoare: "bg-violet-500" },
   { id: "ai-roboti", titlu: "AI și Roboți", emoji: "🤖", culoare: "bg-brand-galben" },
 ];
 

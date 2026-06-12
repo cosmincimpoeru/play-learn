@@ -1,0 +1,35 @@
+[
+  {
+    "id": "en-c1-l1",
+    "clasa": "clasa-1",
+    "materie": "limba-engleza",
+    "competenta": "2.1",
+    "titlu": "My family — Familia mea",
+    "explicatie": "În engleză, familia are nume frumoase: mother = mamă, father = tată, brother = frate, sister = soră.",
+    "exemplu": "👩 mother · 👨 father · 👦 brother · 👧 sister",
+    "activitate": "Cum spui „mamă” în engleză?",
+    "jocuri": ["Arăt o poză de familie și spun în engleză.", "Desenez familia și scriu „mother”, „father”."]
+  },
+  {
+    "id": "en-c1-l2",
+    "clasa": "clasa-1",
+    "materie": "limba-engleza",
+    "competenta": "2.2",
+    "titlu": "Animals — Animale",
+    "explicatie": "Animalele au nume și în engleză: cat = pisică, dog = câine, bird = pasăre, fish = pește.",
+    "exemplu": "🐱 cat · 🐶 dog · 🐦 bird · 🐟 fish",
+    "activitate": "Cum spui „câine” în engleză?",
+    "jocuri": ["Imit sunetul unui animal și spun numele în engleză.", "Asociez imaginea cu cuvântul englezesc."]
+  },
+  {
+    "id": "en-c1-l3",
+    "clasa": "clasa-1",
+    "materie": "limba-engleza",
+    "competenta": "2.3",
+    "titlu": "Numbers 1-10",
+    "explicatie": "Numărăm până la 10 în engleză: one, two, three, four, five, six, seven, eight, nine, ten.",
+    "exemplu": "6 = six · 7 = seven · 8 = eight · 9 = nine · 10 = ten",
+    "activitate": "Cum spui „10” în engleză?",
+    "jocuri": ["Număr obiectele din cameră în engleză.", "Sar de „eight” ori."]
+  }
+]

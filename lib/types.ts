@@ -15,6 +15,7 @@ export type MaterieId =
   | "limba-romana"
   | "limba-engleza"
   | "matematica-stiinte"
+  | "religie-ortodoxa"
   | "ai-roboti";
 
 // ─── Programă școlară (parsată din PDF, o singură dată) ───────────────────

@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-1",
+  "materie": "ai-roboti",
+  "sursa": "Conținut custom, adaptat vârstei (7-8 ani) — introducere în calculatoare, algoritmi și gândire logică",
+  "competenteGenerale": [
+    "Înțelegerea ideii de calculator și a unor dispozitive care folosesc tehnologia",
+    "Înțelegerea ideii de algoritm — o listă de pași în ordine",
+    "Gândire logică: secvențe, repetiție și reguli simple"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea unor dispozitive care folosesc tehnologia",
+      "obiective": ["Dă exemple de calculatoare/dispozitive", "Înțelege la ce ne ajută"],
+      "continuturi": ["Calculatorul și dispozitivele inteligente"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Construirea unui algoritm simplu (pași în ordine)",
+      "obiective": ["Pune pașii în ordinea corectă", "Înțelege că ordinea contează"],
+      "continuturi": ["Algoritmi — liste de pași"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Gândire logică: repetiție și reguli",
+      "obiective": ["Recunoaște un pas care se repetă", "Continuă un șir după o regulă"],
+      "continuturi": ["Repetiția (bucle simple)", "Reguli și șiruri"]
+    }
+  ]
+}

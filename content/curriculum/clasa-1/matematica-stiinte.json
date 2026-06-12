@@ -1,0 +1,31 @@
+{
+  "clasa": "clasa-1",
+  "materie": "matematica-stiinte",
+  "sursa": "OMEN 3418/19.03.2013 — Matematică și explorarea mediului, Clasa I",
+  "competenteGenerale": [
+    "Utilizarea numerelor în calcule elementare",
+    "Evidențierea caracteristicilor geometrice ale unor obiecte din spațiul înconjurător",
+    "Identificarea unor fenomene/relații/regularități din mediul apropiat",
+    "Generarea unor explicații simple prin folosirea unor elemente de logică"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Scrierea, citirea și formarea numerelor până la 100",
+      "obiective": ["Citește și scrie numere până la 100", "Numără din 1 în 1 și din 10 în 10"],
+      "continuturi": ["Numere naturale 0-100"]
+    },
+    {
+      "cod": "1.4",
+      "descriere": "Efectuarea de adunări și scăderi în concentrul 0-31, fără trecere peste ordin",
+      "obiective": ["Adună numere mici", "Scade numere mici"],
+      "continuturi": ["Adunarea și scăderea 0-31"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Identificarea unor fenomene/relații din mediul apropiat",
+      "obiective": ["Recunoaște zilele săptămânii", "Identifică părți ale plantei"],
+      "continuturi": ["Timp: zilele săptămânii", "Științele vieții: plante"]
+    }
+  ]
+}

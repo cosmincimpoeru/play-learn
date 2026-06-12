@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ai-c1-l1",
+    "clasa": "clasa-1",
+    "materie": "ai-roboti",
+    "competenta": "1.1",
+    "titlu": "Ce este un calculator? 💻",
+    "explicatie": "Calculatorul este o mașină inteligentă care ne ajută să scriem, să desenăm, să ne jucăm și să învățăm. Telefonul și tableta sunt și ele un fel de calculatoare mici.",
+    "exemplu": "Pe calculator scriem povești, pe tabletă ne jucăm jocuri educative, telefonul ne ajută să vorbim cu bunicii.",
+    "activitate": "Numește un dispozitiv din casă care ne ajută să vorbim de la distanță.",
+    "jocuri": ["Caut în casă dispozitive inteligente.", "Spun la ce folosesc o tabletă."]
+  },
+  {
+    "id": "ai-c1-l2",
+    "clasa": "clasa-1",
+    "materie": "ai-roboti",
+    "competenta": "2.1",
+    "titlu": "Algoritmul — o listă de pași",
+    "explicatie": "Un algoritm este o listă de pași, în ordine, pentru a face ceva. Calculatorul urmează pașii unul câte unul. Dacă ordinea e greșită, nu iese bine!",
+    "exemplu": "Ca să te speli pe dinți: 1) iei periuța, 2) pui pasta, 3) te speli, 4) clătești. Aceasta este o listă de pași — un algoritm.",
+    "activitate": "Pune în ordine pașii pentru a desena o casă: acoperiș, pereți, ușă. Cu ce începi?",
+    "jocuri": ["Scriu pașii pentru a face un sandviș.", "Dau comenzi unui robot-prieten, pas cu pas."]
+  },
+  {
+    "id": "ai-c1-l3",
+    "clasa": "clasa-1",
+    "materie": "ai-roboti",
+    "competenta": "3.1",
+    "titlu": "Repetiția — facem din nou",
+    "explicatie": "Uneori repetăm același pas de mai multe ori. În loc să spunem „pas, pas, pas, pas”, putem spune „repetă pasul de 4 ori”. Așa lucrează și calculatoarele — repetă pași.",
+    "exemplu": "Ca să urci 3 trepte: „repetă de 3 ori: ridică piciorul și pășește”.",
+    "activitate": "Dacă spui „bate din palme de 5 ori”, de câte ori bați?",
+    "jocuri": ["Repet o mișcare de câte ori spun.", "Continui un șir: 🔺🔺🔵🔺🔺🔵..."]
+  }
+]

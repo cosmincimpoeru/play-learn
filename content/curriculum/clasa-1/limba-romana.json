@@ -1,0 +1,31 @@
+{
+  "clasa": "clasa-1",
+  "materie": "limba-romana",
+  "sursa": "OMEN 3418/19.03.2013 — Comunicare în limba română, Clasa I",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale în contexte de comunicare cunoscute",
+    "Exprimarea de mesaje orale în diverse situații de comunicare",
+    "Receptarea unei varietăți de mesaje scrise, în contexte de comunicare cunoscute",
+    "Redactarea de mesaje în diverse situații de comunicare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.2",
+      "descriere": "Identificarea unor informații variate dintr-un mesaj rostit cu claritate",
+      "obiective": ["Identifică personajele dintr-un text audiat", "Răspunde la întrebări „Cine? Ce? Unde?”"],
+      "continuturi": ["Comunicare orală", "Înțelegerea textului audiat"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Citirea unor cuvinte și propoziții scurte, scrise cu litere de tipar sau de mână",
+      "obiective": ["Citește cuvinte simple", "Citește o propoziție scurtă"],
+      "continuturi": ["Literele alfabetului", "Citirea cuvintelor și propozițiilor"]
+    },
+    {
+      "cod": "4.1",
+      "descriere": "Scrierea unor litere, silabe și cuvinte",
+      "obiective": ["Recunoaște litera potrivită pentru un sunet", "Formează cuvinte din silabe"],
+      "continuturi": ["Scrierea literelor", "Silabe și cuvinte"]
+    }
+  ]
+}

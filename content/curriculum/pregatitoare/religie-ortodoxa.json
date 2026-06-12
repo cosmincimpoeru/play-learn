@@ -1,0 +1,30 @@
+{
+  "clasa": "pregatitoare",
+  "materie": "religie-ortodoxa",
+  "sursa": "OMEN 3418/19.03.2013 — Religie, Cultul ortodox, Clasa pregătitoare (temă: „Dumnezeu este cu noi prin descoperire și iubire”)",
+  "competenteGenerale": [
+    "Aplicarea unor norme de comportament specific moralei religioase, în diferite contexte de viață",
+    "Colaborarea cu copiii și cu adulții din mediul familiar, în acord cu valorile religioase",
+    "Explorarea activă a unor elemente din viața de zi cu zi, din perspectiva propriei credințe"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea unor elemente de bază ale credinței religioase",
+      "obiective": ["Înțelege ce este rugăciunea", "Cunoaște gestul închinării (semnul Sfintei Cruci)"],
+      "continuturi": ["Rugăciunea", "Semnul Sfintei Cruci", "Iubirea lui Dumnezeu"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Manifestarea unui comportament de bunătate și ajutor față de semeni",
+      "obiective": ["Înțelege importanța bunătății și a ajutorării celorlalți", "Spune mulțumesc și iartă"],
+      "continuturi": ["Viața creștinului împreună cu semenii", "Bunătatea și darul"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea marilor sărbători creștine",
+      "obiective": ["Cunoaște Crăciunul (Nașterea Domnului)", "Cunoaște Paștele (Învierea Domnului)"],
+      "continuturi": ["Mari sărbători creștine: Crăciunul, Paștele"]
+    }
+  ]
+}

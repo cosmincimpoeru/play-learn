@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ai-c1-i1", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce este un calculator?",
+    "variante": ["O mașină inteligentă care ne ajută", "O floare", "Un animal", "O carte"], "raspunsCorect": 0,
+    "explicatie": "Calculatorul este o mașină inteligentă care ne ajută la multe lucruri.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i2", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care dintre acestea este un fel de calculator?",
+    "variante": ["Tableta", "Lingura", "Mărul", "Perna"], "raspunsCorect": 0,
+    "explicatie": "Tableta este un calculator mic.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i3", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce este un algoritm?",
+    "variante": ["O listă de pași în ordine", "Un joc cu mingea", "O culoare", "Un animal"], "raspunsCorect": 0,
+    "explicatie": "Un algoritm este o listă de pași, în ordine, pentru a face ceva.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i4", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este PRIMUL pas când te speli pe dinți?",
+    "variante": ["Iei periuța", "Te culci", "Mănânci", "Clătești înainte să pui pasta"], "raspunsCorect": 0,
+    "explicatie": "Întâi iei periuța, apoi pui pasta.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i5", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Dacă spui „bate din palme de 5 ori”, de câte ori bați?",
+    "variante": ["3", "4", "5", "6"], "raspunsCorect": 2,
+    "explicatie": "„De 5 ori” înseamnă că repeți de 5 ori.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i6", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Continuă șirul: 🔺🔺🔵🔺🔺🔵🔺🔺 ...?",
+    "variante": ["🔺", "🔵", "🟢", "⬛"], "raspunsCorect": 1,
+    "explicatie": "Regula este „două triunghiuri, apoi un cerc” → urmează 🔵.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i7", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "De ce contează ordinea pașilor pentru un calculator?",
+    "variante": ["Ca lucrul să iasă corect", "Nu contează", "Ca să fie mai mulți pași", "Ca să dureze mai mult"], "raspunsCorect": 0,
+    "explicatie": "Ordinea corectă face ca rezultatul să iasă bine.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i8", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "La ce ne ajută un telefon?",
+    "variante": ["Să vorbim de la distanță", "Să gătim ciorbă", "Să măturăm", "Să udăm florile"], "raspunsCorect": 0,
+    "explicatie": "Telefonul ne ajută să vorbim cu cei dragi de la distanță.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i9", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "„Repetă de 3 ori: sari” — câte sărituri faci?",
+    "variante": ["1", "2", "3", "4"], "raspunsCorect": 2,
+    "explicatie": "„De 3 ori” înseamnă 3 sărituri.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i10", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Un algoritm este o listă de pași în ordine.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Un algoritm este o listă de pași, în ordine.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i11", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "În loc să repetăm un pas de multe ori, putem spune „repetă de N ori”.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Așa scurtăm pașii care se repetă.", "punctaj": 1
+  },
+  {
+    "id": "ai-c1-i12", "clasa": "clasa-1", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Tableta și telefonul sunt un fel de calculatoare.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Sunt calculatoare mici care ne ajută.", "punctaj": 1
+  }
+]

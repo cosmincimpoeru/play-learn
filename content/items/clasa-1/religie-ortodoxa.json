@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rel-c1-i1", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum se numește rugăciunea pe care ne-a învățat-o Domnul Iisus?",
+    "variante": ["Tatăl nostru", "Colindul", "Alfabetul", "Numărătoarea"], "raspunsCorect": 0,
+    "explicatie": "„Tatăl nostru” este rugăciunea învățată de Domnul Iisus.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i2", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum spunem rugăciunea?",
+    "variante": ["Cu liniște și inima curată", "Alergând", "Țipând", "Râzând"], "raspunsCorect": 0,
+    "explicatie": "Rugăciunea o spunem liniștiți, cu inima curată.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i3", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.2", "tip": "alegere",
+    "enunt": "Ce este biserica?",
+    "variante": ["Locul de rugăciune al creștinilor", "Un magazin", "O școală de dans", "Un parc"], "raspunsCorect": 0,
+    "explicatie": "Biserica este locul unde creștinii se roagă împreună.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i4", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.2", "tip": "alegere",
+    "enunt": "Ce are o biserică deasupra turnului?",
+    "variante": ["O cruce", "Un steag", "Un balon", "O roată"], "raspunsCorect": 0,
+    "explicatie": "Biserica are o cruce pe turn.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i5", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cine au fost sfinții?",
+    "variante": ["Oameni buni și credincioși", "Roboți", "Animale", "Mașini"], "raspunsCorect": 0,
+    "explicatie": "Sfinții au fost oameni buni, credincioși, cu multe fapte bune.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i6", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Pe cine ajuta Sfântul Nicolae?",
+    "variante": ["Pe cei săraci și pe copii", "Pe nimeni", "Doar pe el", "Pe roboți"], "raspunsCorect": 0,
+    "explicatie": "Sfântul Nicolae îi ajuta pe cei săraci și pe copii.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i7", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este o faptă bună?",
+    "variante": ["Să ierți și să ajuți", "Să te superi", "Să strici", "Să țipi"], "raspunsCorect": 0,
+    "explicatie": "Să ierți și să ajuți sunt fapte bune.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i8", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.2", "tip": "alegere",
+    "enunt": "Când merg mulți creștini la biserică?",
+    "variante": ["Duminica", "Niciodată", "Noaptea", "La miezul nopții"], "raspunsCorect": 0,
+    "explicatie": "Duminica mulți creștini merg la slujbă.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i9", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Ne putem ruga dimineața și seara.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Ne rugăm dimineața și seara.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i10", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Sfinții ne sunt modele de bunătate.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Sfinții ne sunt modele de bunătate și credință.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i11", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
+    "enunt": "În ce zi îl sărbătorim pe Sfântul Nicolae?",
+    "variante": ["6 decembrie", "1 martie", "15 august", "25 mai"], "raspunsCorect": 0,
+    "explicatie": "Sfântul Nicolae este sărbătorit pe 6 decembrie.", "punctaj": 1
+  },
+  {
+    "id": "rel-c1-i12", "clasa": "clasa-1", "materie": "religie-ortodoxa", "competenta": "1.2", "tip": "adevarat-fals",
+    "enunt": "La biserică stăm cu liniște și respect.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! La biserică stăm liniștiți și cu respect.", "punctaj": 1
+  }
+]

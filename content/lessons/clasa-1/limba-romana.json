@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lr-c1-l1",
+    "clasa": "clasa-1",
+    "materie": "limba-romana",
+    "competenta": "3.1",
+    "titlu": "De la litere la cuvinte",
+    "explicatie": "Fiecare sunet are o literă. Când punem literele una lângă alta, formăm cuvinte. „m” + „a” + „r” = „mar”... iar „mar” + „e” = „mare”!",
+    "exemplu": "c-a-s-ă → casă. p-o-m → pom. m-a-s-ă → masă.",
+    "activitate": "Citește pe litere: „l-u-n-ă”. Ce cuvânt ai format?",
+    "jocuri": ["Formez cuvinte din litere magnetice.", "Citesc numele meu literă cu literă."]
+  },
+  {
+    "id": "lr-c1-l2",
+    "clasa": "clasa-1",
+    "materie": "limba-romana",
+    "competenta": "4.1",
+    "titlu": "Silabele formează cuvinte",
+    "explicatie": "Cuvintele sunt făcute din silabe. Dacă unim silabele, obținem cuvântul. „ma” + „să” = „masă”.",
+    "exemplu": "ca-să → casă. flu-ture → fluture. pi-si-că → pisică.",
+    "activitate": "Unește silabele: „so” + „re”. Ce cuvânt iese?",
+    "jocuri": ["Bat silabele și apoi spun cuvântul întreg.", "Caut cuvinte cu două silabe."]
+  },
+  {
+    "id": "lr-c1-l3",
+    "clasa": "clasa-1",
+    "materie": "limba-romana",
+    "competenta": "1.2",
+    "titlu": "Cine? Ce? Unde?",
+    "explicatie": "Când ascultăm o poveste, putem afla cine sunt personajele, ce fac și unde se întâmplă. Așa înțelegem mai bine textul.",
+    "exemplu": "„Maria se joacă în parc.” Cine? Maria. Ce face? Se joacă. Unde? În parc.",
+    "activitate": "În propoziția „Bunicul citește în fotoliu”, cine citește?",
+    "jocuri": ["Răspund la întrebări despre o poveste citită.", "Inventez o propoziție cu cine, ce, unde."]
+  }
+]

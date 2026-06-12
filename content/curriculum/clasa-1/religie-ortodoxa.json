@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-1",
+  "materie": "religie-ortodoxa",
+  "sursa": "OMEN 3418/19.03.2013 — Religie, Cultul ortodox, Clasa I (temă: „Omul este cu Dumnezeu prin credință și rugăciune”)",
+  "competenteGenerale": [
+    "Aplicarea unor norme de comportament specific moralei religioase, în diferite contexte de viață",
+    "Colaborarea cu copiii și cu adulții din mediul familiar, în acord cu valorile religioase",
+    "Explorarea activă a unor elemente din viața de zi cu zi, din perspectiva propriei credințe"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Descrierea unor aspecte de bază ale credinței religioase, prin apelul la experiența proprie",
+      "obiective": ["Înțelege rolul credinței și al rugăciunii", "Recunoaște rugăciunea „Tatăl nostru”"],
+      "continuturi": ["Credința și rugăciunea", "Rugăciunea Tatăl nostru"]
+    },
+    {
+      "cod": "1.2",
+      "descriere": "Identificarea bisericii ca loc de rugăciune al creștinilor",
+      "obiective": ["Recunoaște biserica", "Înțelege ce facem la biserică"],
+      "continuturi": ["Biserica — locul de rugăciune"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Recunoașterea unor persoane și sfinți din viața creștină",
+      "obiective": ["Cunoaște că sfinții sunt oameni buni și credincioși", "Dă exemple de fapte bune"],
+      "continuturi": ["Sfinții — modele de bunătate", "Faptele bune"]
+    }
+  ]
+}

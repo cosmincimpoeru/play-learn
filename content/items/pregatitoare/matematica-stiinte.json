@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mat-preg-i1", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Câte mere sunt? 🍎🍎🍎",
+    "variante": ["2", "3", "4", "5"], "raspunsCorect": 1,
+    "explicatie": "Numărăm: unu, doi, trei. Sunt 3 mere.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i2", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Câte stele sunt? ⭐⭐⭐⭐⭐",
+    "variante": ["3", "4", "5", "6"], "raspunsCorect": 2,
+    "explicatie": "Numărăm până la 5. Sunt 5 stele.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i3", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce număr vine după 6?",
+    "variante": ["5", "7", "8", "6"], "raspunsCorect": 1,
+    "explicatie": "După 6 urmează 7.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i4", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.2", "tip": "alegere",
+    "enunt": "Care grup are MAI MULTE? 🐟🐟🐟🐟 sau 🐟🐟",
+    "variante": ["🐟🐟🐟🐟 (patru)", "🐟🐟 (doi)", "Sunt la fel", "Niciunul"], "raspunsCorect": 0,
+    "explicatie": "Patru pești sunt mai mulți decât doi pești.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i5", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.2", "tip": "alegere",
+    "enunt": "Ce număr este MAI MIC?",
+    "variante": ["8", "3", "9", "7"], "raspunsCorect": 1,
+    "explicatie": "Dintre toate, 3 este cel mai mic.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i6", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce formă are o roată?",
+    "variante": ["Pătrat", "Triunghi", "Cerc", "Dreptunghi"], "raspunsCorect": 2,
+    "explicatie": "Roata este rotundă, deci are formă de cerc ⭕.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i7", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Câte colțuri are un triunghi? 🔺",
+    "variante": ["2", "3", "4", "5"], "raspunsCorect": 1,
+    "explicatie": "Triunghiul are 3 colțuri.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i8", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere",
+    "enunt": "În ce anotimp ninge?",
+    "variante": ["Vara", "Primăvara", "Iarna", "Toamna"], "raspunsCorect": 2,
+    "explicatie": "Iarna ninge și este frig ❄️.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i9", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere",
+    "enunt": "În ce anotimp cad frunzele din copaci?",
+    "variante": ["Toamna", "Vara", "Iarna", "Primăvara"], "raspunsCorect": 0,
+    "explicatie": "Toamna frunzele se îngălbenesc și cad 🍂.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i10", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Câte degete are o mână?",
+    "variante": ["4", "5", "6", "10"], "raspunsCorect": 1,
+    "explicatie": "O mână are 5 degete.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i11", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Pătratul are 4 laturi.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Pătratul are 4 laturi egale ⬛.", "punctaj": 1
+  },
+  {
+    "id": "mat-preg-i12", "clasa": "pregatitoare", "materie": "matematica-stiinte", "competenta": "1.2", "tip": "adevarat-fals",
+    "enunt": "Numărul 9 este mai mare decât 5.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! 9 vine după 5, deci este mai mare.", "punctaj": 1
+  }
+]

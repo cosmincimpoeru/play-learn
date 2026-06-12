@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ai-preg-l1",
+    "clasa": "pregatitoare",
+    "materie": "ai-roboti",
+    "competenta": "1.1",
+    "titlu": "Ce este un robot? 🤖",
+    "explicatie": "Un robot este o mașină care poate face singură anumite lucruri, dacă îi spunem cum. Unii roboți curăță, alții ne ajută să jucăm sau să învățăm.",
+    "exemplu": "Aspiratorul-robot curăță podeaua singur. Mașina de spălat spală hainele după ce apăsăm butonul.",
+    "activitate": "Gândește-te la o mașină din casă care ne ajută. Ce face ea?",
+    "jocuri": ["Mă prefac că sunt robot și merg drept când spun „înainte!”", "Caut în casă aparate care ne ajută."]
+  },
+  {
+    "id": "ai-preg-l2",
+    "clasa": "pregatitoare",
+    "materie": "ai-roboti",
+    "competenta": "2.1",
+    "titlu": "Roboții urmează pași",
+    "explicatie": "Un robot nu gândește ca noi — el face exact ce îi spunem, pas cu pas. Dacă pașii sunt în ordine greșită, robotul greșește. De aceea instrucțiunile trebuie să fie clare!",
+    "exemplu": "Ca să faci un sandviș: 1) iei pâinea, 2) pui brânza, 3) închizi sandvișul. Dacă schimbi ordinea, nu iese bine.",
+    "activitate": "Spune pașii ca să te încalți: ce faci întâi, ce faci apoi?",
+    "jocuri": ["Dau comenzi unui „robot” (prietenul meu): „un pas înainte!”", "Pun în ordine pașii pentru a mă spăla pe mâini."]
+  },
+  {
+    "id": "ai-preg-l3",
+    "clasa": "pregatitoare",
+    "materie": "ai-roboti",
+    "competenta": "3.1",
+    "titlu": "Gândim ca un calculator: dacă... atunci...",
+    "explicatie": "Calculatoarele și roboții iau decizii simple: „DACĂ se aprinde roșu, ATUNCI ne oprim”. Și noi gândim așa în multe jocuri!",
+    "exemplu": "DACĂ plouă, ATUNCI iau umbrela. DACĂ semaforul e verde, ATUNCI pot trece.",
+    "activitate": "Completează: DACĂ ți-e somn, ATUNCI... ce faci?",
+    "jocuri": ["Joc „Statuie”: DACĂ se oprește muzica, ATUNCI stau nemișcat.", "Continui șirul: 🔴🔵🔴🔵🔴...?"]
+  }
+]

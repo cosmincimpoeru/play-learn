@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mat-preg-l1",
+    "clasa": "pregatitoare",
+    "materie": "matematica-stiinte",
+    "competenta": "1.1",
+    "titlu": "Numărăm până la 10",
+    "explicatie": "Numerele ne spun câte lucruri avem. Când numărăm, atingem fiecare obiect și spunem: unu, doi, trei... Hai să numărăm jucăriile!",
+    "exemplu": "🍎🍎🍎 — sunt 3 mere. ⭐⭐⭐⭐⭐ — sunt 5 stele.",
+    "activitate": "Numără degetele de la o mână. Câte sunt?",
+    "jocuri": ["Numesc câte scaune sunt în cameră.", "Sar de 4 ori și număr fiecare săritură."]
+  },
+  {
+    "id": "mat-preg-l2",
+    "clasa": "pregatitoare",
+    "materie": "matematica-stiinte",
+    "competenta": "1.2",
+    "titlu": "Mai mult sau mai puțin?",
+    "explicatie": "Putem compara două grupuri. Grupul cu mai multe obiecte este „mai mult”. Grupul cu mai puține este „mai puțin”.",
+    "exemplu": "🐟🐟🐟🐟 are mai mulți pești decât 🐟🐟. Patru este mai mult decât doi.",
+    "activitate": "Cine are mai multe: 5 baloane sau 3 baloane?",
+    "jocuri": ["Compar câte mere și câte pere sunt pe masă.", "Aleg grămada cu mai multe bile."]
+  },
+  {
+    "id": "mat-preg-l3",
+    "clasa": "pregatitoare",
+    "materie": "matematica-stiinte",
+    "competenta": "2.1",
+    "titlu": "Forme geometrice",
+    "explicatie": "În jurul nostru sunt forme: cercul e rotund ca o roată, pătratul are 4 laturi egale, triunghiul are 3 colțuri.",
+    "exemplu": "Roata e cerc ⭕. Fereastra e pătrat ⬛. Acoperișul e triunghi 🔺.",
+    "activitate": "Caută în cameră un obiect rotund (cerc).",
+    "jocuri": ["Desenez un triunghi în aer.", "Găsesc 3 lucruri pătrate în casă."]
+  },
+  {
+    "id": "mat-preg-l4",
+    "clasa": "pregatitoare",
+    "materie": "matematica-stiinte",
+    "competenta": "3.1",
+    "titlu": "Cele patru anotimpuri",
+    "explicatie": "Anul are 4 anotimpuri: primăvara înfloresc florile, vara e cald, toamna cad frunzele, iarna ninge.",
+    "exemplu": "🌸 primăvara, ☀️ vara, 🍂 toamna, ❄️ iarna.",
+    "activitate": "Ce anotimp este când ninge și facem oameni de zăpadă?",
+    "jocuri": ["Spun ce haine port iarna.", "Desenez un copac toamna."]
+  }
+]

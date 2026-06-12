@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ai-preg-i1", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce este un robot?",
+    "variante": ["Un animal", "O mașină care ne ajută", "O floare", "O carte"], "raspunsCorect": 1,
+    "explicatie": "Un robot este o mașină care poate face anumite lucruri ca să ne ajute.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i2", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care dintre acestea este un robot care ne ajută?",
+    "variante": ["Aspiratorul-robot", "Un măr", "Un nor", "O pernă"], "raspunsCorect": 0,
+    "explicatie": "Aspiratorul-robot curăță podeaua singur — este un robot.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i3", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum face un robot ceea ce îi cerem?",
+    "variante": ["Ghicește singur", "Urmează pașii pe care îi spunem", "Doarme", "Aleargă"], "raspunsCorect": 1,
+    "explicatie": "Robotul urmează pașii (instrucțiunile) pe care i le dăm.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i4", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este PRIMUL pas ca să faci un sandviș?",
+    "variante": ["Pui brânza", "Iei pâinea", "Mănânci", "Speli vasele"], "raspunsCorect": 1,
+    "explicatie": "Întâi iei pâinea, apoi pui brânza.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i5", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Completează șirul: 🔴🔵🔴🔵🔴 ...?",
+    "variante": ["🔴", "🔵", "🟢", "🟡"], "raspunsCorect": 1,
+    "explicatie": "Șirul alternează roșu-albastru, deci urmează 🔵.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i6", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "DACĂ semaforul este verde, ATUNCI ...?",
+    "variante": ["Mă opresc", "Pot să trec", "Dorm", "Alerg înapoi"], "raspunsCorect": 1,
+    "explicatie": "Dacă e verde, atunci putem trece în siguranță.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i7", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce NU se potrivește cu celelalte?",
+    "variante": ["Robot", "Calculator", "Telefon", "Banană"], "raspunsCorect": 3,
+    "explicatie": "Banana nu este o mașină — celelalte sunt aparate.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i8", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "DACĂ plouă, ATUNCI ce iei cu tine?",
+    "variante": ["Umbrela", "Înghețata", "Mingea", "Săniuța"], "raspunsCorect": 0,
+    "explicatie": "Dacă plouă, luăm umbrela ca să nu ne udăm.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i9", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Un robot face exact ce îi spunem, pas cu pas.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Robotul urmează exact pașii primiți.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i10", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Roboții ne pot ajuta la treburi în casă.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! De exemplu, aspiratorul-robot curăță singur.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i11", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Completează șirul: ⬛🔺⬛🔺⬛ ...?",
+    "variante": ["⬛", "🔺", "⭕", "🔵"], "raspunsCorect": 1,
+    "explicatie": "Șirul alternează pătrat-triunghi, deci urmează 🔺.", "punctaj": 1
+  },
+  {
+    "id": "ai-preg-i12", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Dacă dăm pașii în ordine greșită, robotul poate greși.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! De aceea instrucțiunile trebuie să fie în ordine și clare.", "punctaj": 1
+  }
+]

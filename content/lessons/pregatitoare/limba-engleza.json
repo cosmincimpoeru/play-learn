@@ -1,0 +1,35 @@
+[
+  {
+    "id": "en-preg-l1",
+    "clasa": "pregatitoare",
+    "materie": "limba-engleza",
+    "competenta": "1.1",
+    "titlu": "Hello! — Salutăm în engleză",
+    "explicatie": "În engleză, „Bună!” se spune „Hello!” (se citește „helou”). Când plecăm, spunem „Goodbye!” (se citește „gudbai”).",
+    "exemplu": "Hello! = Bună! · Goodbye! = La revedere! · Thank you! = Mulțumesc!",
+    "activitate": "Salută-ți prietenul în engleză: spune „Hello!”",
+    "jocuri": ["Mă salut cu fiecare jucărie: „Hello, teddy!”", "Spun „Goodbye!” când termin jocul."]
+  },
+  {
+    "id": "en-preg-l2",
+    "clasa": "pregatitoare",
+    "materie": "limba-engleza",
+    "competenta": "2.1",
+    "titlu": "Colors — Culorile",
+    "explicatie": "Culorile au nume și în engleză: red = roșu, blue = albastru, yellow = galben, green = verde.",
+    "exemplu": "🔴 red · 🔵 blue · 🟡 yellow · 🟢 green",
+    "activitate": "Găsește un obiect roșu și spune „red!”",
+    "jocuri": ["Arăt o jucărie și spun culoarea în engleză.", "Colorez un cerc cu „blue”."]
+  },
+  {
+    "id": "en-preg-l3",
+    "clasa": "pregatitoare",
+    "materie": "limba-engleza",
+    "competenta": "2.2",
+    "titlu": "Numbers 1-5 — Numerele",
+    "explicatie": "Numărăm în engleză: one (1), two (2), three (3), four (4), five (5).",
+    "exemplu": "1 = one · 2 = two · 3 = three · 4 = four · 5 = five",
+    "activitate": "Numără degetele de la o mână în engleză: one, two, three, four, five!",
+    "jocuri": ["Sar de „three” ori.", "Arăt cu degetele „two” și spun în engleză."]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "en-preg-i1", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum spui „Bună!” în engleză?",
+    "variante": ["Goodbye", "Hello", "Thank you", "Please"], "raspunsCorect": 1,
+    "explicatie": "„Hello!” înseamnă „Bună!”.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i2", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce înseamnă „Thank you”?",
+    "variante": ["La revedere", "Bună", "Mulțumesc", "Te rog"], "raspunsCorect": 2,
+    "explicatie": "„Thank you” înseamnă „Mulțumesc”.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i3", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce culoare este „red”? 🔴",
+    "variante": ["Albastru", "Roșu", "Verde", "Galben"], "raspunsCorect": 1,
+    "explicatie": "„Red” înseamnă roșu.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i4", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce culoare este „blue”? 🔵",
+    "variante": ["Albastru", "Roșu", "Galben", "Verde"], "raspunsCorect": 0,
+    "explicatie": "„Blue” înseamnă albastru.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i5", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum spui „galben” în engleză? 🟡",
+    "variante": ["Green", "Blue", "Yellow", "Red"], "raspunsCorect": 2,
+    "explicatie": "„Yellow” înseamnă galben.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i6", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce număr este „three”?",
+    "variante": ["2", "3", "4", "5"], "raspunsCorect": 1,
+    "explicatie": "„Three” înseamnă 3.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i7", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Cum spui „5” în engleză?",
+    "variante": ["Four", "Five", "Three", "Two"], "raspunsCorect": 1,
+    "explicatie": "„Five” înseamnă 5.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i8", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
+    "enunt": "Ce număr este „one”?",
+    "variante": ["1", "2", "3", "4"], "raspunsCorect": 0,
+    "explicatie": "„One” înseamnă 1.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i9", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Cum spui „La revedere!” în engleză?",
+    "variante": ["Hello", "Please", "Goodbye", "Yes"], "raspunsCorect": 2,
+    "explicatie": "„Goodbye!” înseamnă „La revedere!”.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i10", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Ce culoare este „green”? 🟢",
+    "variante": ["Verde", "Roșu", "Albastru", "Galben"], "raspunsCorect": 0,
+    "explicatie": "„Green” înseamnă verde.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i11", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "2.2", "tip": "adevarat-fals",
+    "enunt": "„Two” înseamnă 2.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! „Two” înseamnă 2.", "punctaj": 1
+  },
+  {
+    "id": "en-preg-i12", "clasa": "pregatitoare", "materie": "limba-engleza", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "„Hello” se folosește când saluți pe cineva.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Spunem „Hello” când salutăm.", "punctaj": 1
+  }
+]

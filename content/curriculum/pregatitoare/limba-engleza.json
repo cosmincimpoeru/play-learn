@@ -1,0 +1,30 @@
+{
+  "clasa": "pregatitoare",
+  "materie": "limba-engleza",
+  "sursa": "Conținut adaptat vârstei (introducere în limba engleză), aliniat cadrului comunicativ pentru ciclul primar",
+  "competenteGenerale": [
+    "Receptarea de mesaje orale simple în limba engleză",
+    "Exprimarea orală a unor cuvinte și expresii uzuale",
+    "Recunoașterea unor cuvinte familiare scrise"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Salutul și formule de politețe simple (Hello, Goodbye, Thank you)",
+      "obiective": ["Salută în engleză", "Folosește „thank you”"],
+      "continuturi": ["Greetings"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Numirea culorilor în limba engleză",
+      "obiective": ["Recunoaște culorile de bază", "Asociază culoarea cu obiectul"],
+      "continuturi": ["Colors"]
+    },
+    {
+      "cod": "2.2",
+      "descriere": "Numirea numerelor 1-5 și a unor animale uzuale",
+      "obiective": ["Numără 1-5 în engleză", "Numește animale simple"],
+      "continuturi": ["Numbers", "Animals"]
+    }
+  ]
+}

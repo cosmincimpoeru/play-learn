@@ -1,0 +1,37 @@
+{
+  "clasa": "pregatitoare",
+  "materie": "matematica-stiinte",
+  "sursa": "OMEN 3418/19.03.2013 — Matematică și explorarea mediului, Clasa pregătitoare",
+  "competenteGenerale": [
+    "Utilizarea numerelor în calcule elementare",
+    "Evidențierea caracteristicilor geometrice ale unor obiecte din spațiul înconjurător",
+    "Identificarea unor fenomene/relații/regularități din mediul apropiat",
+    "Generarea unor explicații simple prin folosirea unor elemente de logică"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea și scrierea numerelor în concentrul 0-31",
+      "obiective": ["Numără obiecte până la 31", "Recunoaște cifrele 0-9"],
+      "continuturi": ["Numere naturale 0-31", "Numărare"]
+    },
+    {
+      "cod": "1.2",
+      "descriere": "Compararea numerelor în concentrul 0-31",
+      "obiective": ["Compară două grupuri (mai multe / mai puține)", "Folosește „mai mare” și „mai mic”"],
+      "continuturi": ["Compararea numerelor"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Orientarea și mișcarea în spațiu și recunoașterea figurilor geometrice",
+      "obiective": ["Recunoaște cercul, pătratul, triunghiul", "Folosește „sus/jos”, „stânga/dreapta”"],
+      "continuturi": ["Figuri geometrice", "Poziții spațiale"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Identificarea unor fenomene/relații din mediul apropiat",
+      "obiective": ["Recunoaște anotimpurile", "Identifică părți ale corpului / plantelor"],
+      "continuturi": ["Anotimpuri", "Științele vieții"]
+    }
+  ]
+}

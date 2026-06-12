@@ -1,0 +1,30 @@
+{
+  "clasa": "pregatitoare",
+  "materie": "ai-roboti",
+  "sursa": "Conținut custom, adaptat vârstei (6-7 ani) — introducere prietenoasă în AI și roboți",
+  "competenteGenerale": [
+    "Înțelegerea ideii de robot și a unor exemple din viața de zi cu zi",
+    "Înțelegerea ideii că un calculator urmează instrucțiuni (pași)",
+    "Gândire logică simplă: secvențe, ordine, „dacă... atunci...”"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea unor roboți și mașini care ne ajută",
+      "obiective": ["Dă exemple de roboți", "Înțelege că roboții ne ajută la treburi"],
+      "continuturi": ["Ce este un robot"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Înțelegerea ideii de instrucțiuni / pași în ordine",
+      "obiective": ["Pune pași în ordinea corectă", "Înțelege că o comandă trebuie să fie clară"],
+      "continuturi": ["Instrucțiuni și secvențe"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Gândire logică: alegeri „dacă... atunci...” și ce nu se potrivește",
+      "obiective": ["Completează un șir simplu", "Recunoaște ce nu se potrivește"],
+      "continuturi": ["Logică simplă"]
+    }
+  ]
+}

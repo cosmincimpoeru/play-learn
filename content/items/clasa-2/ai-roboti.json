@@ -1,74 +1,40 @@
 [
-  {
-    "id": "ai-c2-i1", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "DACĂ afară plouă, ATUNCI ce iei?",
-    "variante": ["Umbrela", "Ochelarii de soare", "Săniuța", "Mingea"], "raspunsCorect": 0,
-    "explicatie": "Dacă plouă, atunci iei umbrela.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i2", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "DACĂ semaforul e roșu, ATUNCI...?",
-    "variante": ["Mă opresc", "Trec repede", "Alerg", "Închid ochii"], "raspunsCorect": 0,
-    "explicatie": "La roșu ne oprim.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i3", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "DACĂ e cald afară, ATUNCI ce porți? ALTFEL porți haina groasă.",
-    "variante": ["Tricou", "Fular gros", "Mănuși", "Căciulă"], "raspunsCorect": 0,
-    "explicatie": "Dacă e cald, porți tricou; altfel, haină groasă.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i4", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Pași: 1) te încalți, 2) pui șosetele. Ce e greșit?",
-    "variante": ["Ordinea — întâi șosetele, apoi pantofii", "Nimic", "Lipsește mâncarea", "Sunt prea mulți pași"], "raspunsCorect": 0,
-    "explicatie": "Întâi pui șosetele, apoi te încalți.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i5", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum se numește căutarea și repararea unei greșeli într-un algoritm?",
-    "variante": ["Depanare", "Numărare", "Colorare", "Desenare"], "raspunsCorect": 0,
-    "explicatie": "Se numește depanare (debugging).", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i6", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Pași pentru ceai: 1) bei, 2) pui apa, 3) fierbi. Care e primul pas CORECT?",
-    "variante": ["Fierbi apa", "Bei", "Pui zahăr", "Dormi"], "raspunsCorect": 0,
-    "explicatie": "Corect: întâi fierbi apa, apoi o pui, apoi bei.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i7", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cum învață un program de inteligență artificială (AI)?",
-    "variante": ["Din multe exemple", "Dormind", "Mâncând", "Niciodată"], "raspunsCorect": 0,
-    "explicatie": "AI învață din multe exemple pe care le vede.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i8", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ca să recunoască o pisică, un AI are nevoie de...?",
-    "variante": ["Multe poze cu pisici", "O singură poză", "Nimic", "O carte de povești"], "raspunsCorect": 0,
-    "explicatie": "AI învață văzând multe poze cu pisici.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i9", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "DACĂ ți-e foame, ATUNCI...?",
-    "variante": ["Mănânci", "Dormi toată ziua", "Alergi la nesfârșit", "Nu faci nimic"], "raspunsCorect": 0,
-    "explicatie": "Dacă ți-e foame, atunci mănânci.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i10", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Un asistent vocal (ca cel din telefon) folosește inteligența artificială.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Asistenții vocali folosesc AI ca să ne înțeleagă.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i11", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Depanarea înseamnă să găsești și să repari greșeala din pași.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Asta înseamnă depanare.", "punctaj": 1
-  },
-  {
-    "id": "ai-c2-i12", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "O regulă „dacă/altfel” ajută calculatorul să aleagă ce să facă.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Așa ia calculatorul decizii.", "punctaj": 1
-  }
+  { "id": "ai-c2-u1", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ afară plouă, ATUNCI ce iei?", "variante": ["Umbrela", "Ochelarii de soare", "Săniuța", "Mingea"], "raspunsCorect": 0, "explicatie": "Dacă plouă → umbrela.", "punctaj": 1 },
+  { "id": "ai-c2-u2", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ semaforul e roșu, ATUNCI ...?", "variante": ["Mă opresc", "Trec repede", "Alerg", "Închid ochii"], "raspunsCorect": 0, "explicatie": "La roșu ne oprim.", "punctaj": 1 },
+  { "id": "ai-c2-u3", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum se numește căutarea și repararea unei greșeli într-un algoritm?", "variante": ["Depanare", "Numărare", "Colorare", "Desenare"], "raspunsCorect": 0, "explicatie": "Se numește depanare (debugging).", "punctaj": 1 },
+  { "id": "ai-c2-u4", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum învață un program de inteligență artificială (AI)?", "variante": ["Din multe exemple", "Dormind", "Mâncând", "Niciodată"], "raspunsCorect": 0, "explicatie": "AI învață din multe exemple.", "punctaj": 1 },
+  { "id": "ai-c2-u5", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ ți-e foame, ATUNCI ...?", "variante": ["Mănânci", "Dormi toată ziua", "Alergi la nesfârșit", "Nu faci nimic"], "raspunsCorect": 0, "explicatie": "Dacă ți-e foame, mănânci.", "punctaj": 1 },
+  { "id": "ai-c2-u6", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ca să recunoască o pisică, un AI are nevoie de...?", "variante": ["Multe poze cu pisici", "O singură poză", "Nimic", "O carte de povești"], "raspunsCorect": 0, "explicatie": "AI învață văzând multe poze cu pisici.", "punctaj": 1 },
+  { "id": "ai-c2-u7", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ e întuneric, ATUNCI ...?", "variante": ["Aprind lumina", "Închid ochii", "Alerg", "Dorm pe loc"], "raspunsCorect": 0, "explicatie": "Dacă e întuneric, aprindem lumina.", "punctaj": 1 },
+  { "id": "ai-c2-u8", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Un asistent vocal (din telefon) folosește...?", "variante": ["Inteligența artificială", "O baghetă magică", "Un creion", "O hartă"], "raspunsCorect": 0, "explicatie": "Asistenții vocali folosesc AI.", "punctaj": 1 },
+  { "id": "ai-c2-u9", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Depanarea înseamnă să găsești și să repari greșeala din pași.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Asta înseamnă depanare.", "punctaj": 1 },
+  { "id": "ai-c2-u10", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "O regulă „dacă/altfel” ajută calculatorul să aleagă ce să facă.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Așa ia calculatorul decizii.", "punctaj": 1 },
+  { "id": "ai-c2-u11", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ ți-e sete, ATUNCI ...?", "variante": ["Bei apă", "Dormi", "Alergi", "Cânți"], "raspunsCorect": 0, "explicatie": "Dacă ți-e sete, bei apă.", "punctaj": 1 },
+  { "id": "ai-c2-u12", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "AI poate greși uneori.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! De aceea verificăm.", "punctaj": 1 },
+
+  { "id": "ai-c2-m1", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "DACĂ e cald afară, ATUNCI ce porți? ALTFEL porți haina groasă.", "variante": ["Tricou", "Fular gros", "Mănuși", "Căciulă"], "raspunsCorect": 0, "explicatie": "E cald → tricou; altfel, haină groasă.", "punctaj": 1 },
+  { "id": "ai-c2-m2", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Pași: 1) te încalți, 2) pui șosetele. Ce e greșit?", "variante": ["Ordinea — întâi șosetele", "Nimic", "Lipsește mâncarea", "Prea mulți pași"], "raspunsCorect": 0, "explicatie": "Întâi pui șosetele, apoi te încalți.", "punctaj": 1 },
+  { "id": "ai-c2-m3", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Pași pentru ceai: 1) bei, 2) pui apa, 3) fierbi. Care e primul pas CORECT?", "variante": ["Fierbi apa", "Bei", "Pui zahăr", "Dormi"], "raspunsCorect": 0, "explicatie": "Întâi fierbi apa.", "punctaj": 1 },
+  { "id": "ai-c2-m4", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum recunoaște un AI dacă într-o poză e câine sau pisică?", "variante": ["A învățat din multe poze", "Ghicește", "Întreabă un copil", "Nu poate"], "raspunsCorect": 0, "explicatie": "A învățat tiparele din multe exemple.", "punctaj": 1 },
+  { "id": "ai-c2-m5", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "DACĂ e weekend ATUNCI mă joc mult, ALTFEL merg la școală. Azi e luni. Ce faci?", "variante": ["Merg la școală", "Mă joc toată ziua", "Dorm tot timpul", "Plec în vacanță"], "raspunsCorect": 0, "explicatie": "Luni nu e weekend → merg la școală.", "punctaj": 1 },
+  { "id": "ai-c2-m6", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Pași pentru spălat pe mâini: 1) deschizi robinetul, 2) pui săpun, 3) ... ?", "variante": ["Freci mâinile și clătești", "Te culci", "Mănânci", "Pleci ud"], "raspunsCorect": 0, "explicatie": "După săpun, freci mâinile și clătești.", "punctaj": 1 },
+  { "id": "ai-c2-m7", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce are nevoie AI de exemple BUNE?", "variante": ["Ca să învețe corect", "Ca să doarmă", "Ca să fie lent", "Nu are nevoie"], "raspunsCorect": 0, "explicatie": "Exemplele bune ajută AI să învețe corect.", "punctaj": 1 },
+  { "id": "ai-c2-m8", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "DACĂ ușa e încuiată ATUNCI o descui, ALTFEL intri. Ușa e deschisă. Ce faci?", "variante": ["Intru", "O descui", "Plec", "O sparg"], "raspunsCorect": 0, "explicatie": "Ușa e deschisă → intri direct.", "punctaj": 1 },
+  { "id": "ai-c2-m9", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Un robot trebuie să facă un sandviș, dar pune brânza ÎNAINTE de pâine. Ce faci?", "variante": ["Depanez: schimb ordinea pașilor", "Las așa", "Adaug mai multă brânză", "Opresc robotul pe veci"], "raspunsCorect": 0, "explicatie": "Depanăm: corectăm ordinea pașilor.", "punctaj": 1 },
+  { "id": "ai-c2-m10", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce poate face un AI după ce a învățat din poze?", "variante": ["Recunoaște o poză nouă", "Uită tot", "Se închide", "Cântă"], "raspunsCorect": 0, "explicatie": "Poate recunoaște imagini noi.", "punctaj": 1 },
+  { "id": "ai-c2-m11", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "O regulă „dacă... altfel...” are două variante de acțiune.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Una pentru „dacă”, alta pentru „altfel”.", "punctaj": 1 },
+  { "id": "ai-c2-m12", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Algoritmul tău nu funcționează. Ce faci primul?", "variante": ["Citesc pașii cu atenție și caut greșeala", "Renunț imediat", "Șterg tot", "Adaug pași la întâmplare"], "raspunsCorect": 0, "explicatie": "Depanăm: citim pașii și găsim greșeala.", "punctaj": 1 },
+
+  { "id": "ai-c2-g1", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "DACĂ plouă ATUNCI iau umbrela, ALTFEL DACĂ ninge ATUNCI iau căciula, ALTFEL iau ochelarii de soare. Afară ninge. Ce iei?", "variante": ["Căciula", "Umbrela", "Ochelarii de soare", "Nimic"], "raspunsCorect": 0, "explicatie": "Ninge → iei căciula.", "punctaj": 1 },
+  { "id": "ai-c2-g2", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pași pentru ceai: 1) bei, 2) torni apa în cană, 3) fierbi apa. Care e ordinea CORECTĂ?", "variante": ["3, 2, 1", "1, 2, 3", "2, 3, 1", "3, 1, 2"], "raspunsCorect": 0, "explicatie": "Întâi fierbi (3), torni (2), apoi bei (1).", "punctaj": 1 },
+  { "id": "ai-c2-g3", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un AI a văzut doar poze cu pisici albe. Ce s-ar putea întâmpla cu o pisică neagră?", "variante": ["Ar putea să n-o recunoască bine", "Sigur o recunoaște perfect", "Devine alb", "Se oprește"], "raspunsCorect": 0, "explicatie": "Dacă exemplele sunt puține/asemănătoare, AI poate greși la ceva nou.", "punctaj": 1 },
+  { "id": "ai-c2-g4", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "DACĂ ai temele gata ATUNCI te joci, ALTFEL le faci. Ai terminat temele. Ce faci?", "variante": ["Mă joc", "Le fac din nou", "Plec fără să termin", "Dorm"], "raspunsCorect": 0, "explicatie": "Temele sunt gata → te joci.", "punctaj": 1 },
+  { "id": "ai-c2-g5", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un algoritm de îmbrăcat de iarnă pune geaca ÎNAINTE de pulover. Care e corectarea?", "variante": ["Întâi puloverul, apoi geaca", "Nimic de corectat", "Scoatem puloverul", "Adăugăm două gaci"], "raspunsCorect": 0, "explicatie": "Corect: întâi puloverul, apoi geaca deasupra.", "punctaj": 1 },
+  { "id": "ai-c2-g6", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cum facem un AI să recunoască mai bine TOATE pisicile?", "variante": ["Îi arătăm multe poze diferite cu pisici", "O singură poză", "Doar pisici albe", "Nicio poză"], "raspunsCorect": 0, "explicatie": "Cu exemple multe și variate învață mai bine.", "punctaj": 1 },
+  { "id": "ai-c2-g7", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "DACĂ numărul e par ATUNCI bate o dată, ALTFEL bate de două ori. Numărul e 7. Câte bătăi?", "variante": ["1", "2", "3", "0"], "raspunsCorect": 1, "explicatie": "7 este impar → 2 bătăi.", "punctaj": 1 },
+  { "id": "ai-c2-g8", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Robotul desenează o casă: 1) acoperișul, 2) pereții, 3) ușa. De ce nu iese bine?", "variante": ["Acoperișul nu poate sta fără pereți — ordinea e greșită", "Lipsește culoarea", "Sunt prea mulți pași", "Nimic nu e greșit"], "raspunsCorect": 0, "explicatie": "Întâi pereții, apoi acoperișul — ordinea era greșită.", "punctaj": 1 },
+  { "id": "ai-c2-g9", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție despre AI este ADEVĂRATĂ?", "variante": ["AI învață din date și poate uneori greși", "AI știe totul fără să învețe", "AI nu greșește niciodată", "AI gândește exact ca un om"], "raspunsCorect": 0, "explicatie": "AI învață din date (exemple) și poate greși.", "punctaj": 1 },
+  { "id": "ai-c2-g10", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "DACĂ afară e cald (peste 25°C) ATUNCI port tricou, ALTFEL port jachetă. Sunt 18°C. Ce port?", "variante": ["Jachetă", "Tricou", "Costum de baie", "Mănuși groase"], "raspunsCorect": 0, "explicatie": "18°C nu e peste 25°C → port jachetă.", "punctaj": 1 },
+  { "id": "ai-c2-g11", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Găsește pasul în plus (greșit): 1) iei pâinea, 2) dormi, 3) pui brânza, 4) închizi sandvișul.", "variante": ["Pasul 2 (dormi)", "Pasul 1", "Pasul 3", "Pasul 4"], "raspunsCorect": 0, "explicatie": "„dormi” nu are ce căuta în rețeta sandvișului.", "punctaj": 1 },
+  { "id": "ai-c2-g12", "clasa": "clasa-2", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Cu cât are mai multe exemple bune, cu atât un AI învață mai bine.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Exemplele multe și bune ajută AI să învețe.", "punctaj": 1 }
 ]

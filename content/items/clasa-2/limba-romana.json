@@ -1,74 +1,40 @@
 [
-  {
-    "id": "lr-c2-i1", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere",
-    "enunt": "„Ana are o pisică pe nume Mura.” Cum se numește pisica?",
-    "variante": ["Ana", "Mura", "Dan", "Tudor"], "raspunsCorect": 1,
-    "explicatie": "Pisica se numește Mura.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i2", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere",
-    "enunt": "„Dan udă florile în grădină.” Cine udă florile?",
-    "variante": ["Mura", "Ana", "Dan", "Bunica"], "raspunsCorect": 2,
-    "explicatie": "Dan udă florile.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i3", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
-    "enunt": "Ce semn pui la final: „Afară plouă___”",
-    "variante": ["Punct (.)", "Semn de întrebare (?)", "Virgulă (,)", "Niciunul"], "raspunsCorect": 0,
-    "explicatie": "Spunem ceva, deci punem punct (.).", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i4", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
-    "enunt": "Ce semn pui la final: „Cum te numești___”",
-    "variante": ["Punct (.)", "Semn de întrebare (?)", "Virgulă (,)", "Niciunul"], "raspunsCorect": 1,
-    "explicatie": "Întrebăm ceva, deci punem semnul întrebării (?).", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i5", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere",
-    "enunt": "„Vara, bunica face dulceață de căpșuni.” Când face dulceața?",
-    "variante": ["Iarna", "Vara", "Toamna", "Noaptea"], "raspunsCorect": 1,
-    "explicatie": "Bunica face dulceața vara.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i6", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere",
-    "enunt": "„Dimineața, Tudor merge la școală cu autobuzul.” Cu ce merge Tudor?",
-    "variante": ["Cu bicicleta", "Cu autobuzul", "Pe jos", "Cu trenul"], "raspunsCorect": 1,
-    "explicatie": "Tudor merge cu autobuzul.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i7", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
-    "enunt": "Cu ce literă scriem începutul unei propoziții?",
-    "variante": ["Literă mică", "Literă mare", "Cifră", "Nu contează"], "raspunsCorect": 1,
-    "explicatie": "Propoziția începe cu literă mare.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i8", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "„Mura doarme pe pernă.” Ce face Mura?",
-    "variante": ["Mănâncă", "Doarme", "Aleargă", "Cântă"], "raspunsCorect": 1,
-    "explicatie": "Mura doarme.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i9", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
-    "enunt": "Care propoziție este o întrebare?",
-    "variante": ["Plouă afară.", "Unde este mingea?", "Mihai citește.", "Soarele strălucește."], "raspunsCorect": 1,
-    "explicatie": "„Unde este mingea?” este o întrebare.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i10", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Când citim un text cu atenție, înțelegem mai bine întâmplarea.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Citirea atentă ne ajută să înțelegem.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i11", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "adevarat-fals",
-    "enunt": "La sfârșitul unei întrebări punem semnul întrebării (?).",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Întrebările se termină cu „?”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c2-i12", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere",
-    "enunt": "„Copiii se joacă în curte.” Unde se joacă copiii?",
-    "variante": ["În casă", "În curte", "La școală", "În parc"], "raspunsCorect": 1,
-    "explicatie": "Copiii se joacă în curte.", "punctaj": 1
-  }
+  { "id": "lr-c2-u1", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "usor", "enunt": "„Ana are o pisică pe nume Mura.” Cum se numește pisica?", "variante": ["Ana", "Mura", "Dan", "Tudor"], "raspunsCorect": 1, "explicatie": "Pisica se numește Mura.", "punctaj": 1 },
+  { "id": "lr-c2-u2", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "usor", "enunt": "„Dan udă florile.” Cine udă florile?", "variante": ["Mura", "Ana", "Dan", "Bunica"], "raspunsCorect": 2, "explicatie": "Dan udă florile.", "punctaj": 1 },
+  { "id": "lr-c2-u3", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "usor", "enunt": "Ce semn pui: „Afară plouă___”", "variante": ["Punct (.)", "Semnul întrebării (?)", "Virgulă (,)", "Niciunul"], "raspunsCorect": 0, "explicatie": "Spunem ceva → punct (.).", "punctaj": 1 },
+  { "id": "lr-c2-u4", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "usor", "enunt": "Ce semn pui: „Cum te numești___”", "variante": ["Punct (.)", "Semnul întrebării (?)", "Virgulă (,)", "Niciunul"], "raspunsCorect": 1, "explicatie": "Întrebăm → semnul întrebării (?).", "punctaj": 1 },
+  { "id": "lr-c2-u5", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Mura doarme pe pernă.” Ce face Mura?", "variante": ["Mănâncă", "Doarme", "Aleargă", "Cântă"], "raspunsCorect": 1, "explicatie": "Mura doarme.", "punctaj": 1 },
+  { "id": "lr-c2-u6", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "usor", "enunt": "Cu ce literă scriem începutul unei propoziții?", "variante": ["Literă mică", "Literă mare", "Cifră", "Nu contează"], "raspunsCorect": 1, "explicatie": "Propoziția începe cu literă mare.", "punctaj": 1 },
+  { "id": "lr-c2-u7", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "usor", "enunt": "„Copiii se joacă în curte.” Unde se joacă?", "variante": ["În casă", "În curte", "La școală", "În parc"], "raspunsCorect": 1, "explicatie": "Se joacă în curte.", "punctaj": 1 },
+  { "id": "lr-c2-u8", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "usor", "enunt": "Care propoziție este o întrebare?", "variante": ["Plouă afară.", "Unde este mingea?", "Mihai citește.", "Soarele strălucește."], "raspunsCorect": 1, "explicatie": "„Unde este mingea?” este o întrebare.", "punctaj": 1 },
+  { "id": "lr-c2-u9", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Citirea atentă ne ajută să înțelegem textul.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Citirea atentă ajută înțelegerea.", "punctaj": 1 },
+  { "id": "lr-c2-u10", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "La sfârșitul unei întrebări punem semnul întrebării (?).", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Întrebările se termină cu „?”.", "punctaj": 1 },
+  { "id": "lr-c2-u11", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "usor", "enunt": "„Bunica face plăcinte.” Cine face plăcinte?", "variante": ["Bunica", "Mama", "Dan", "Ana"], "raspunsCorect": 0, "explicatie": "Bunica face plăcinte.", "punctaj": 1 },
+  { "id": "lr-c2-u12", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Pasărea zboară pe cer.” Ce face pasărea?", "variante": ["Înoată", "Zboară", "Doarme", "Aleargă"], "raspunsCorect": 1, "explicatie": "Pasărea zboară.", "punctaj": 1 },
+
+  { "id": "lr-c2-m1", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Vara, bunica face dulceață de căpșuni.” Când face dulceața?", "variante": ["Iarna", "Vara", "Toamna", "Noaptea"], "raspunsCorect": 1, "explicatie": "O face vara.", "punctaj": 1 },
+  { "id": "lr-c2-m2", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Dimineața, Tudor merge la școală cu autobuzul.” Cu ce merge?", "variante": ["Cu bicicleta", "Cu autobuzul", "Pe jos", "Cu trenul"], "raspunsCorect": 1, "explicatie": "Cu autobuzul.", "punctaj": 1 },
+  { "id": "lr-c2-m3", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce semn pui: „Ce frumos este afară___” (exclamație de bucurie)", "variante": ["Semnul exclamării (!)", "Punct (.)", "Virgulă (,)", "Niciunul"], "raspunsCorect": 0, "explicatie": "O exclamație se termină cu „!”.", "punctaj": 1 },
+  { "id": "lr-c2-m4", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "„Mihai a primit o carte de la bunici și s-a bucurat.” Ce a primit Mihai?", "variante": ["O minge", "O carte", "Un balon", "Un tren"], "raspunsCorect": 1, "explicatie": "A primit o carte.", "punctaj": 1 },
+  { "id": "lr-c2-m5", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Care propoziție este scrisă corect?", "variante": ["ana citește.", "Ana citește.", "Ana citește", "ANA Citește."], "raspunsCorect": 1, "explicatie": "Începe cu literă mare și se termină cu punct.", "punctaj": 1 },
+  { "id": "lr-c2-m6", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Pisica Mura a prins un ghem de lână.” Ce a prins Mura?", "variante": ["Un șoarece", "Un ghem de lână", "O minge", "Un pește"], "raspunsCorect": 1, "explicatie": "A prins un ghem de lână.", "punctaj": 1 },
+  { "id": "lr-c2-m7", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Care propoziție este o întrebare?", "variante": ["Afară ninge.", "Vrei să te joci cu mine?", "Eu citesc o carte.", "Soarele strălucește."], "raspunsCorect": 1, "explicatie": "„Vrei să te joci cu mine?” este o întrebare.", "punctaj": 1 },
+  { "id": "lr-c2-m8", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "„Toamna, frunzele se îngălbenesc și cad.” Ce se întâmplă cu frunzele?", "variante": ["Înverzesc", "Se îngălbenesc și cad", "Cresc", "Înfloresc"], "raspunsCorect": 1, "explicatie": "Se îngălbenesc și cad.", "punctaj": 1 },
+  { "id": "lr-c2-m9", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Sâmbătă, familia merge la bunici la țară.” Unde merge familia?", "variante": ["La mare", "La bunici la țară", "La munte", "La școală"], "raspunsCorect": 1, "explicatie": "Merge la bunici la țară.", "punctaj": 1 },
+  { "id": "lr-c2-m10", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce semn pui la o poruncă scurtă cu bucurie: „Hai la joacă___”", "variante": ["Semnul exclamării (!)", "Semnul întrebării (?)", "Virgulă (,)", "Niciunul"], "raspunsCorect": 0, "explicatie": "O exclamație/poruncă entuziastă → „!”.", "punctaj": 1 },
+  { "id": "lr-c2-m11", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Recitirea textului ne ajută să găsim informația cerută.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Recitim ca să fim siguri.", "punctaj": 1 },
+  { "id": "lr-c2-m12", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Iarna, copiii fac un om de zăpadă în curte.” Ce fac copiii?", "variante": ["Un castel de nisip", "Un om de zăpadă", "Un zmeu", "O barcă"], "raspunsCorect": 1, "explicatie": "Fac un om de zăpadă.", "punctaj": 1 },
+
+  { "id": "lr-c2-g1", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Dimineața, Maria a hrănit pisica, apoi a plecat la școală cu Dan.” Ce a făcut Maria ÎNTÂI?", "variante": ["A plecat la școală", "A hrănit pisica", "S-a jucat cu Dan", "A citit"], "raspunsCorect": 1, "explicatie": "Întâi a hrănit pisica, apoi a plecat.", "punctaj": 1 },
+  { "id": "lr-c2-g2", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție folosește GREȘIT semnul de la final?", "variante": ["Unde este cartea.", "Plouă afară.", "Mihai citește.", "Soarele strălucește."], "raspunsCorect": 0, "explicatie": "„Unde este cartea” e întrebare → trebuie „?”, nu „.”.", "punctaj": 1 },
+  { "id": "lr-c2-g3", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Bunica a copt pâine, iar mirosul cald a umplut casa. Toți s-au strâns la masă.” De ce s-au strâns toți la masă?", "variante": ["Pentru pâinea caldă", "Ca să doarmă", "Ca să plece", "Ca să se joace"], "raspunsCorect": 0, "explicatie": "S-au strâns pentru pâinea proaspătă și caldă.", "punctaj": 1 },
+  { "id": "lr-c2-g4", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "greu", "enunt": "Câte propoziții sunt: „A plouat. Apoi a ieșit soarele.”?", "variante": ["1", "2", "3", "4"], "raspunsCorect": 1, "explicatie": "Două propoziții, despărțite de puncte.", "punctaj": 1 },
+  { "id": "lr-c2-g5", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Tudor a uitat umbrela acasă, așa că s-a udat în drum spre școală.” De ce s-a udat Tudor?", "variante": ["A uitat umbrela", "A alergat prea repede", "A căzut în apă", "Era cald"], "raspunsCorect": 0, "explicatie": "S-a udat pentru că a uitat umbrela.", "punctaj": 1 },
+  { "id": "lr-c2-g6", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "greu", "enunt": "Ce semne lipsesc: „Ce zi frumoasă___ Mergem la parc___” (bucurie, apoi o constatare)", "variante": ["! și .", ". și ?", "? și !", ", și ,"], "raspunsCorect": 0, "explicatie": "„Ce zi frumoasă!” (exclamație) și „Mergem la parc.” (constatare).", "punctaj": 1 },
+  { "id": "lr-c2-g7", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Mihai a ajutat-o pe bunica să ducă sacoșa grea.” Ce fel de băiat este Mihai?", "variante": ["Săritor și bun", "Leneș", "Răutăcios", "Neatent"], "raspunsCorect": 0, "explicatie": "Mihai e săritor și bun, fiindcă a ajutat.", "punctaj": 1 },
+  { "id": "lr-c2-g8", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Ana a desenat marea, apoi a colorat-o cu albastru.” Ce a făcut Ana DUPĂ ce a desenat?", "variante": ["A colorat marea", "A șters tot", "A plecat", "A scris o poveste"], "raspunsCorect": 0, "explicatie": "După ce a desenat, a colorat marea.", "punctaj": 1 },
+  { "id": "lr-c2-g9", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție este corectă din toate punctele de vedere?", "variante": ["maria merge la scoala", "Maria merge la școală.", "Maria merge la școală", "maria Merge la Școală."], "raspunsCorect": 1, "explicatie": "Literă mare la început, diacritice și punct la final.", "punctaj": 1 },
+  { "id": "lr-c2-g10", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Pisica a fugit după minge, dar a căzut de pe scaun.” De ce a căzut pisica?", "variante": ["A fugit după minge", "Dormea", "Mânca", "Era pe podea"], "raspunsCorect": 0, "explicatie": "A căzut fiindcă fugea după minge.", "punctaj": 1 },
+  { "id": "lr-c2-g11", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care titlu se potrivește unui text despre un copil care își ajută bunica?", "variante": ["Băiatul cel bun", "Furtuna de pe mare", "Mașina roșie", "Numerele mari"], "raspunsCorect": 0, "explicatie": "„Băiatul cel bun” se potrivește temei despre ajutor și bunătate.", "punctaj": 1 },
+  { "id": "lr-c2-g12", "clasa": "clasa-2", "materie": "limba-romana", "competenta": "4.2", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "O propoziție care exprimă bucurie puternică se poate termina cu semnul exclamării (!).", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Exclamațiile se termină cu „!”.", "punctaj": 1 }
 ]

@@ -1,74 +1,40 @@
 [
-  {
-    "id": "rel-c2-i1", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Cine a creat lumea?",
-    "variante": ["Dumnezeu", "Oamenii", "Roboții", "Nimeni"], "raspunsCorect": 0,
-    "explicatie": "Dumnezeu a creat lumea din iubire.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i2", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care este un dar al naturii?",
-    "variante": ["Soarele", "Telefonul", "Mașina", "Calculatorul"], "raspunsCorect": 0,
-    "explicatie": "Soarele este un dar din natura creată de Dumnezeu.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i3", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Ce facem când un prieten ne cere iertare?",
-    "variante": ["Îl iertăm", "Ne supărăm mai tare", "Plecăm", "Țipăm"], "raspunsCorect": 0,
-    "explicatie": "Îl iertăm, cu inima bună — așa arătăm iubire.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i4", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum ne învață Dumnezeu să fim cu aproapele?",
-    "variante": ["Să-l iubim și să-l ajutăm", "Să-l ignorăm", "Să ne certăm", "Să fugim"], "raspunsCorect": 0,
-    "explicatie": "Dumnezeu ne învață să iubim și să ajutăm aproapele.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i5", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "În pilda bunului samarinean, cine l-a ajutat pe omul rănit?",
-    "variante": ["Samarineanul", "Nimeni", "Un rege", "Un copil"], "raspunsCorect": 0,
-    "explicatie": "Samarineanul cel bun l-a ajutat și l-a îngrijit.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i6", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Care este învățătura din pilda bunului samarinean?",
-    "variante": ["Să-i ajutăm pe cei în nevoie", "Să trecem mai departe", "Să ne grăbim", "Să nu privim"], "raspunsCorect": 0,
-    "explicatie": "Învățătura este să fim milostivi și să ajutăm.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i7", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Cum trebuie să ne purtăm cu natura, darul lui Dumnezeu?",
-    "variante": ["Să o îngrijim", "Să o stricăm", "Să o murdărim", "Să o ignorăm"], "raspunsCorect": 0,
-    "explicatie": "Natura este un dar — o îngrijim și o păstrăm curată.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i8", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "„Dumnezeu este ___”. Completează:",
-    "variante": ["iubire", "departe", "supărat", "obosit"], "raspunsCorect": 0,
-    "explicatie": "„Dumnezeu este iubire” — este tema acestui an.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i9", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Lumea și natura sunt daruri ale lui Dumnezeu.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Sunt daruri făcute din iubire.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i10", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Iertarea este un semn de iubire.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Când iertăm, arătăm iubire.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i11", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Domnul Iisus ne-a învățat prin pilde (povești cu tâlc).",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Pildele sunt povești scurte cu o învățătură.", "punctaj": 1
-  },
-  {
-    "id": "rel-c2-i12", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cine este „aproapele” nostru?",
-    "variante": ["Familia, prietenii, vecinii", "Doar eu", "Roboții", "Nimeni"], "raspunsCorect": 0,
-    "explicatie": "Aproapele înseamnă cei din jurul nostru: familie, prieteni, vecini.", "punctaj": 1
-  }
+  { "id": "rel-c2-u1", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cine a creat lumea?", "variante": ["Dumnezeu", "Oamenii", "Roboții", "Nimeni"], "raspunsCorect": 0, "explicatie": "Dumnezeu a creat lumea din iubire.", "punctaj": 1 },
+  { "id": "rel-c2-u2", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este un dar al naturii?", "variante": ["Soarele", "Telefonul", "Mașina", "Calculatorul"], "raspunsCorect": 0, "explicatie": "Soarele este un dar din natura creată.", "punctaj": 1 },
+  { "id": "rel-c2-u3", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce facem când un prieten ne cere iertare?", "variante": ["Îl iertăm", "Ne supărăm mai tare", "Plecăm", "Țipăm"], "raspunsCorect": 0, "explicatie": "Îl iertăm, cu inima bună.", "punctaj": 1 },
+  { "id": "rel-c2-u4", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "În pilda bunului samarinean, cine l-a ajutat pe omul rănit?", "variante": ["Samarineanul", "Nimeni", "Un rege", "Un copil"], "raspunsCorect": 0, "explicatie": "Samarineanul cel bun l-a ajutat.", "punctaj": 1 },
+  { "id": "rel-c2-u5", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Dumnezeu este ___”. Completează:", "variante": ["iubire", "departe", "supărat", "obosit"], "raspunsCorect": 0, "explicatie": "„Dumnezeu este iubire”.", "punctaj": 1 },
+  { "id": "rel-c2-u6", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cine este „aproapele” nostru?", "variante": ["Familia, prietenii, vecinii", "Doar eu", "Roboții", "Nimeni"], "raspunsCorect": 0, "explicatie": "Aproapele = cei din jurul nostru.", "punctaj": 1 },
+  { "id": "rel-c2-u7", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum trebuie să ne purtăm cu natura?", "variante": ["Să o îngrijim", "Să o stricăm", "Să o murdărim", "Să o ignorăm"], "raspunsCorect": 0, "explicatie": "Natura e un dar — o îngrijim.", "punctaj": 1 },
+  { "id": "rel-c2-u8", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este învățătura pildei bunului samarinean?", "variante": ["Să-i ajutăm pe cei în nevoie", "Să trecem mai departe", "Să ne grăbim", "Să nu privim"], "raspunsCorect": 0, "explicatie": "Învățătura: să fim milostivi și să ajutăm.", "punctaj": 1 },
+  { "id": "rel-c2-u9", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Lumea și natura sunt daruri ale lui Dumnezeu.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt daruri făcute din iubire.", "punctaj": 1 },
+  { "id": "rel-c2-u10", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Iertarea este un semn de iubire.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Când iertăm, arătăm iubire.", "punctaj": 1 },
+  { "id": "rel-c2-u11", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Domnul Iisus ne-a învățat prin pilde (povești cu tâlc).", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Pildele au o învățătură.", "punctaj": 1 },
+  { "id": "rel-c2-u12", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum ne învață Dumnezeu să fim cu aproapele?", "variante": ["Să-l iubim și să-l ajutăm", "Să-l ignorăm", "Să ne certăm", "Să fugim"], "raspunsCorect": 0, "explicatie": "Să iubim și să ajutăm aproapele.", "punctaj": 1 },
+
+  { "id": "rel-c2-m1", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce a creat Dumnezeu?", "variante": ["Cerul, soarele, plantele, animalele și omul", "Doar telefoanele", "Doar mașinile", "Nimic"], "raspunsCorect": 0, "explicatie": "Dumnezeu a creat întreaga lume.", "punctaj": 1 },
+  { "id": "rel-c2-m2", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce a făcut samarineanul pentru omul rănit?", "variante": ["L-a îngrijit și a avut grijă de el", "A trecut pe lângă el", "A râs de el", "L-a lăsat singur"], "raspunsCorect": 0, "explicatie": "L-a îngrijit cu milă.", "punctaj": 1 },
+  { "id": "rel-c2-m3", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Un coleg te-a supărat fără să vrea și își cere iertare. Ce e bine să faci?", "variante": ["Să-l iert", "Să mă răzbun", "Să nu-i mai vorbesc", "Să-l pârăsc"], "raspunsCorect": 0, "explicatie": "Iertarea este semn de iubire.", "punctaj": 1 },
+  { "id": "rel-c2-m4", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce a creat Dumnezeu lumea?", "variante": ["Din iubire, ca să ne bucurăm de ea", "Din întâmplare", "Ca să fie tristă", "Fără motiv"], "raspunsCorect": 0, "explicatie": "A creat-o din iubire, ca dar pentru noi.", "punctaj": 1 },
+  { "id": "rel-c2-m5", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum arătăm iubire față de aproapele?", "variante": ["Prin fapte bune și blândețe", "Prin ceartă", "Prin supărare", "Prin grabă"], "raspunsCorect": 0, "explicatie": "Prin fapte bune, ajutor și blândețe.", "punctaj": 1 },
+  { "id": "rel-c2-m6", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce este o pildă?", "variante": ["O poveste scurtă cu o învățătură", "O rugăciune", "Un cântec vesel", "Un joc"], "raspunsCorect": 0, "explicatie": "O pildă e o povestire cu tâlc (învățătură).", "punctaj": 1 },
+  { "id": "rel-c2-m7", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum trebuie să păstrăm natura, darul lui Dumnezeu?", "variante": ["Curată și îngrijită", "Plină de gunoaie", "Distrusă", "Murdară"], "raspunsCorect": 0, "explicatie": "O păstrăm curată și o îngrijim.", "punctaj": 1 },
+  { "id": "rel-c2-m8", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care faptă arată iubire față de aproapele?", "variante": ["Să-l ajut când are nevoie", "Să-l ocolesc", "Să râd de el", "Să-l supăr"], "raspunsCorect": 0, "explicatie": "Ajutorul arată iubire.", "punctaj": 1 },
+  { "id": "rel-c2-m9", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cine a spus pilda bunului samarinean?", "variante": ["Domnul Iisus", "Un învățător de azi", "Un negustor", "Un copil"], "raspunsCorect": 0, "explicatie": "Domnul Iisus a spus această pildă.", "punctaj": 1 },
+  { "id": "rel-c2-m10", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Tema acestui an este: „Dumnezeu este ___”.", "variante": ["iubire", "frică", "departe", "tăcere"], "raspunsCorect": 0, "explicatie": "„Dumnezeu este iubire”.", "punctaj": 1 },
+  { "id": "rel-c2-m11", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Soarele, apa și copacii sunt daruri ale lui Dumnezeu pentru noi.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt daruri ale naturii create.", "punctaj": 1 },
+  { "id": "rel-c2-m12", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce simțim când iertăm pe cineva?", "variante": ["Pace și bucurie", "Tristețe mereu", "Furie", "Nimic"], "raspunsCorect": 0, "explicatie": "Iertarea aduce pace și bucurie.", "punctaj": 1 },
+
+  { "id": "rel-c2-g1", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "În pildă, alții au trecut pe lângă omul rănit, dar samarineanul s-a oprit. Ce ne învață asta?", "variante": ["Să nu trecem nepăsători pe lângă cei în nevoie", "Să ne grăbim mereu", "Să nu privim în jur", "Să cerem plată"], "raspunsCorect": 0, "explicatie": "Ne învață să fim milostivi, nu nepăsători.", "punctaj": 1 },
+  { "id": "rel-c2-g2", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care faptă NU arată iubire față de aproapele?", "variante": ["Să ajuți", "Să ierți", "Să minți", "Să împarți"], "raspunsCorect": 2, "explicatie": "Minciuna nu arată iubire.", "punctaj": 1 },
+  { "id": "rel-c2-g3", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care NU este un dar al naturii create de Dumnezeu?", "variante": ["Aerul", "Apa", "Telefonul", "Plantele"], "raspunsCorect": 2, "explicatie": "Telefonul e făcut de oameni, nu e dar al naturii.", "punctaj": 1 },
+  { "id": "rel-c2-g4", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un coleg a stricat, fără să vrea, desenul tău și își cere iertare. Cum răspunzi creștinește?", "variante": ["Îl iert și facem altul împreună", "Îi stric și eu ceva", "Mă supăr pe vecie", "Îl pârăsc la toți"], "raspunsCorect": 0, "explicatie": "Iertarea și bunătatea sunt răspunsul creștin.", "punctaj": 1 },
+  { "id": "rel-c2-g5", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cum poți fi astăzi „un bun samarinean”?", "variante": ["Ajutând pe cineva aflat în nevoie", "Trecând mai departe", "Râzând de cei slabi", "Stând deoparte"], "raspunsCorect": 0, "explicatie": "Ajutând pe cei în nevoie urmezi exemplul samarineanului.", "punctaj": 1 },
+  { "id": "rel-c2-g6", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce trebuie să avem grijă de natură?", "variante": ["Pentru că este un dar de la Dumnezeu", "Pentru că nu contează", "Ca să o stricăm", "Fără motiv"], "raspunsCorect": 0, "explicatie": "Natura e un dar; o îngrijim cu recunoștință.", "punctaj": 1 },
+  { "id": "rel-c2-g7", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir arată DOAR fapte bune?", "variante": ["a ajuta, a ierta, a împărți", "a ajuta, a minți, a ierta", "a împărți, a striga, a fura", "a ierta, a râde de cineva, a ajuta"], "raspunsCorect": 0, "explicatie": "a ajuta, a ierta, a împărți sunt toate fapte bune.", "punctaj": 1 },
+  { "id": "rel-c2-g8", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Milostiv” înseamnă...?", "variante": ["Care ajută cu milă pe cei în nevoie", "Care fuge mereu", "Care se ceartă", "Care strânge bani"], "raspunsCorect": 0, "explicatie": "Milostiv = care ajută cu milă, ca samarineanul.", "punctaj": 1 },
+  { "id": "rel-c2-g9", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Dumnezeu a creat lumea din iubire. Cum răspundem noi acestei iubiri?", "variante": ["Iubind la rândul nostru și îngrijind lumea", "Ignorând totul", "Stricând natura", "Certându-ne"], "raspunsCorect": 0, "explicatie": "Răspundem prin iubire și grijă față de creație.", "punctaj": 1 },
+  { "id": "rel-c2-g10", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Iubirea aproapelui se arată prin fapte, nu doar prin vorbe.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Iubirea adevărată se vede în fapte bune.", "punctaj": 1 },
+  { "id": "rel-c2-g11", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care titlu se potrivește pildei bunului samarinean?", "variante": ["Ajută-l pe cel căzut", "Furtuna pe mare", "Numerele mari", "Mașina roșie"], "raspunsCorect": 0, "explicatie": "Pilda e despre a ajuta pe cel aflat în nevoie.", "punctaj": 1 },
+  { "id": "rel-c2-g12", "clasa": "clasa-2", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Lucrurile făcute de oameni (telefon, mașină) nu sunt aceleași cu darurile naturii create de Dumnezeu.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Natura e darul lui Dumnezeu; lucrurile sunt făcute de oameni.", "punctaj": 1 }
 ]

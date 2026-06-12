@@ -1,74 +1,40 @@
 [
-  {
-    "id": "mat-c2-i1", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere",
-    "enunt": "Cât face 2 × 5?",
-    "variante": ["7", "10", "12", "25"], "raspunsCorect": 1,
-    "explicatie": "2 × 5 = 5 + 5 = 10.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i2", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere",
-    "enunt": "Cât face 3 × 4?",
-    "variante": ["7", "12", "9", "34"], "raspunsCorect": 1,
-    "explicatie": "3 × 4 = 4 + 4 + 4 = 12.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i3", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere",
-    "enunt": "Cât face 4 × 2?",
-    "variante": ["6", "8", "10", "42"], "raspunsCorect": 1,
-    "explicatie": "4 × 2 = 2 + 2 + 2 + 2 = 8.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i4", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere",
-    "enunt": "Cât face 25 + 13?",
-    "variante": ["38", "28", "35", "48"], "raspunsCorect": 0,
-    "explicatie": "25 + 13 = 38.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i5", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere",
-    "enunt": "Cât face 40 − 15?",
-    "variante": ["25", "35", "30", "20"], "raspunsCorect": 0,
-    "explicatie": "40 − 15 = 25.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i6", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Ce număr este mai mare: 320 sau 230?",
-    "variante": ["320", "230", "Sunt egale", "Niciunul"], "raspunsCorect": 0,
-    "explicatie": "320 are 3 sute, deci este mai mare decât 230.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i7", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Câte sute are numărul 235?",
-    "variante": ["2", "3", "5", "23"], "raspunsCorect": 0,
-    "explicatie": "235 are 2 sute, 3 zeci și 5 unități.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i8", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Numărăm din 100 în 100: 100, 200, 300, ...?",
-    "variante": ["350", "400", "310", "500"], "raspunsCorect": 1,
-    "explicatie": "După 300 urmează 400.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i9", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere",
-    "enunt": "În ce stare este apa când îngheață?",
-    "variante": ["Lichidă", "Solidă (gheață)", "Gazoasă (abur)", "Niciuna"], "raspunsCorect": 1,
-    "explicatie": "Când îngheață, apa devine solidă — gheață.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i10", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce devine apa când fierbe?",
-    "variante": ["Gheață", "Abur", "Zăpadă", "Piatră"], "raspunsCorect": 1,
-    "explicatie": "Când fierbe, apa se transformă în abur (stare gazoasă).", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i11", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere",
-    "enunt": "Cât face 5 × 10?",
-    "variante": ["15", "50", "55", "510"], "raspunsCorect": 1,
-    "explicatie": "5 × 10 = 50.", "punctaj": 1
-  },
-  {
-    "id": "mat-c2-i12", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Numărul 500 este mai mare decât 450.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! 500 este mai mare decât 450.", "punctaj": 1
-  }
+  { "id": "mat-c2-u1", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "usor", "enunt": "Cât face 2 × 5?", "variante": ["7", "10", "12", "25"], "raspunsCorect": 1, "explicatie": "2 × 5 = 10.", "punctaj": 1 },
+  { "id": "mat-c2-u2", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "usor", "enunt": "Cât face 2 × 2?", "variante": ["2", "4", "6", "8"], "raspunsCorect": 1, "explicatie": "2 × 2 = 4.", "punctaj": 1 },
+  { "id": "mat-c2-u3", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "usor", "enunt": "Cât face 25 + 13?", "variante": ["38", "28", "35", "48"], "raspunsCorect": 0, "explicatie": "25 + 13 = 38.", "punctaj": 1 },
+  { "id": "mat-c2-u4", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "usor", "enunt": "Cât face 40 − 15?", "variante": ["25", "35", "30", "20"], "raspunsCorect": 0, "explicatie": "40 − 15 = 25.", "punctaj": 1 },
+  { "id": "mat-c2-u5", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Numărăm din 100 în 100: 100, 200, 300, ...?", "variante": ["350", "400", "310", "500"], "raspunsCorect": 1, "explicatie": "După 300 urmează 400.", "punctaj": 1 },
+  { "id": "mat-c2-u6", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "În ce stare este apa când îngheață?", "variante": ["Lichidă", "Solidă (gheață)", "Gazoasă (abur)", "Niciuna"], "raspunsCorect": 1, "explicatie": "Înghețată = solidă (gheață).", "punctaj": 1 },
+  { "id": "mat-c2-u7", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "usor", "enunt": "Cât face 5 × 10?", "variante": ["15", "50", "55", "510"], "raspunsCorect": 1, "explicatie": "5 × 10 = 50.", "punctaj": 1 },
+  { "id": "mat-c2-u8", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Câte sute are numărul 235?", "variante": ["2", "3", "5", "23"], "raspunsCorect": 0, "explicatie": "235 are 2 sute.", "punctaj": 1 },
+  { "id": "mat-c2-u9", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce număr este mai mare: 320 sau 230?", "variante": ["320", "230", "Sunt egale", "Niciunul"], "raspunsCorect": 0, "explicatie": "320 > 230.", "punctaj": 1 },
+  { "id": "mat-c2-u10", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce devine apa când fierbe?", "variante": ["Gheață", "Abur", "Zăpadă", "Piatră"], "raspunsCorect": 1, "explicatie": "Fierbând, apa devine abur.", "punctaj": 1 },
+  { "id": "mat-c2-u11", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Numărul 500 este mai mare decât 450.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! 500 > 450.", "punctaj": 1 },
+  { "id": "mat-c2-u12", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "usor", "enunt": "Cât face 3 × 2?", "variante": ["5", "6", "8", "9"], "raspunsCorect": 1, "explicatie": "3 × 2 = 6.", "punctaj": 1 },
+
+  { "id": "mat-c2-mm1", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "Cât face 3 × 4?", "variante": ["7", "12", "9", "34"], "raspunsCorect": 1, "explicatie": "3 × 4 = 12.", "punctaj": 1 },
+  { "id": "mat-c2-mm2", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "Cât face 4 × 2?", "variante": ["6", "8", "10", "42"], "raspunsCorect": 1, "explicatie": "4 × 2 = 8.", "punctaj": 1 },
+  { "id": "mat-c2-mm3", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "Cât face 34 + 28?", "variante": ["52", "62", "58", "64"], "raspunsCorect": 1, "explicatie": "34 + 28 = 62.", "punctaj": 1 },
+  { "id": "mat-c2-mm4", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "Cât face 53 − 27?", "variante": ["24", "26", "36", "34"], "raspunsCorect": 1, "explicatie": "53 − 27 = 26.", "punctaj": 1 },
+  { "id": "mat-c2-mm5", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care număr este cel mai mare?", "variante": ["480", "408", "840", "804"], "raspunsCorect": 2, "explicatie": "840 este cel mai mare.", "punctaj": 1 },
+  { "id": "mat-c2-mm6", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Zăpada este apă în stare...?", "variante": ["Lichidă", "Solidă", "Gazoasă", "Niciuna"], "raspunsCorect": 1, "explicatie": "Zăpada e apă în stare solidă.", "punctaj": 1 },
+  { "id": "mat-c2-mm7", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "Cât face 4 × 5?", "variante": ["16", "20", "24", "9"], "raspunsCorect": 1, "explicatie": "4 × 5 = 20.", "punctaj": 1 },
+  { "id": "mat-c2-mm8", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Câte zeci are numărul 462?", "variante": ["4", "6", "2", "46"], "raspunsCorect": 1, "explicatie": "462 are 6 zeci.", "punctaj": 1 },
+  { "id": "mat-c2-mm9", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "3 copii au câte 2 mere fiecare. Câte mere în total?", "variante": ["5", "6", "8", "9"], "raspunsCorect": 1, "explicatie": "3 × 2 = 6 mere.", "punctaj": 1 },
+  { "id": "mat-c2-mm10", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce număr vine după 599?", "variante": ["598", "600", "509", "699"], "raspunsCorect": 1, "explicatie": "După 599 vine 600.", "punctaj": 1 },
+  { "id": "mat-c2-mm11", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Apa pe care o bem este în stare lichidă.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Apa de băut este lichidă.", "punctaj": 1 },
+  { "id": "mat-c2-mm12", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "mediu", "enunt": "Cât face 6 × 2?", "variante": ["10", "12", "14", "8"], "raspunsCorect": 1, "explicatie": "6 × 2 = 12.", "punctaj": 1 },
+
+  { "id": "mat-c2-g1", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Cât face 3 × 4 + 2?", "variante": ["12", "14", "18", "20"], "raspunsCorect": 1, "explicatie": "3 × 4 = 12, apoi +2 = 14.", "punctaj": 1 },
+  { "id": "mat-c2-g2", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Ana are 4 cutii cu câte 5 creioane. Câte creioane are?", "variante": ["9", "15", "20", "25"], "raspunsCorect": 2, "explicatie": "4 × 5 = 20 creioane.", "punctaj": 1 },
+  { "id": "mat-c2-g3", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Cât face 50 − 12 − 8?", "variante": ["28", "30", "38", "32"], "raspunsCorect": 1, "explicatie": "50 − 12 = 38, apoi 38 − 8 = 30.", "punctaj": 1 },
+  { "id": "mat-c2-g4", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Ce număr înmulțit cu 5 dă 20?", "variante": ["3", "4", "5", "10"], "raspunsCorect": 1, "explicatie": "4 × 5 = 20.", "punctaj": 1 },
+  { "id": "mat-c2-g5", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ordonează de la mic la mare: 305, 350, 530. Care e primul?", "variante": ["530", "350", "305", "niciunul"], "raspunsCorect": 2, "explicatie": "Cel mai mic este 305.", "punctaj": 1 },
+  { "id": "mat-c2-g6", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Tudor are 30 lei, cumpără 2 cărți a câte 10 lei. Câți lei îi rămân?", "variante": ["10", "20", "30", "5"], "raspunsCorect": 0, "explicatie": "2 × 10 = 20; 30 − 20 = 10 lei.", "punctaj": 1 },
+  { "id": "mat-c2-g7", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Cât face 2 × 10 + 5?", "variante": ["20", "25", "30", "15"], "raspunsCorect": 1, "explicatie": "2 × 10 = 20, apoi +5 = 25.", "punctaj": 1 },
+  { "id": "mat-c2-g8", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Iarna, un cub de gheață lăsat la soare se transformă în...?", "variante": ["Apă lichidă", "Piatră", "Abur direct", "Zăpadă"], "raspunsCorect": 0, "explicatie": "Gheața se topește și devine apă lichidă.", "punctaj": 1 },
+  { "id": "mat-c2-g9", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care număr are 7 sute, 0 zeci și 3 unități?", "variante": ["730", "703", "73", "370"], "raspunsCorect": 1, "explicatie": "7 sute + 0 zeci + 3 unități = 703.", "punctaj": 1 },
+  { "id": "mat-c2-g10", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "5 farfurii cu câte 2 mere. Apoi mănânci 1 măr. Câte rămân?", "variante": ["8", "9", "10", "11"], "raspunsCorect": 1, "explicatie": "5 × 2 = 10; 10 − 1 = 9 mere.", "punctaj": 1 },
+  { "id": "mat-c2-g11", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.5", "tip": "alegere", "dificultate": "greu", "enunt": "Câte picioare au 3 pisici? (o pisică are 4 picioare)", "variante": ["7", "12", "8", "16"], "raspunsCorect": 1, "explicatie": "3 × 4 = 12 picioare.", "punctaj": 1 },
+  { "id": "mat-c2-g12", "clasa": "clasa-2", "materie": "matematica-stiinte", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Numărul 703 este mai mare decât 730.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 1, "explicatie": "Fals! 730 este mai mare decât 703.", "punctaj": 1 }
 ]

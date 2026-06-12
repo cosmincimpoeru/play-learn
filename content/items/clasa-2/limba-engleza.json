@@ -1,74 +1,40 @@
 [
-  {
-    "id": "en-c2-i1", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum spui „luni” în engleză?",
-    "variante": ["Sunday", "Monday", "Friday", "Tuesday"], "raspunsCorect": 1,
-    "explicatie": "„Monday” înseamnă luni.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i2", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Ce înseamnă „Friday”?",
-    "variante": ["luni", "miercuri", "vineri", "duminică"], "raspunsCorect": 2,
-    "explicatie": "„Friday” înseamnă vineri.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i3", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum spui „duminică” în engleză?",
-    "variante": ["Saturday", "Sunday", "Monday", "Thursday"], "raspunsCorect": 1,
-    "explicatie": "„Sunday” înseamnă duminică.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i4", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
-    "enunt": "Ce înseamnă „bread”? 🍞",
-    "variante": ["lapte", "pâine", "apă", "măr"], "raspunsCorect": 1,
-    "explicatie": "„Bread” înseamnă pâine.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i5", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
-    "enunt": "Cum spui „lapte” în engleză? 🥛",
-    "variante": ["water", "milk", "egg", "apple"], "raspunsCorect": 1,
-    "explicatie": "„Milk” înseamnă lapte.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i6", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
-    "enunt": "Ce înseamnă „water”? 💧",
-    "variante": ["apă", "pâine", "ou", "lapte"], "raspunsCorect": 0,
-    "explicatie": "„Water” înseamnă apă.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i7", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
-    "enunt": "Cum spui „însorit” în engleză? ☀️",
-    "variante": ["rainy", "sunny", "cloudy", "snowy"], "raspunsCorect": 1,
-    "explicatie": "„Sunny” înseamnă însorit.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i8", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
-    "enunt": "Ce înseamnă „rainy”? 🌧️",
-    "variante": ["însorit", "ploios", "înnorat", "cu zăpadă"], "raspunsCorect": 1,
-    "explicatie": "„Rainy” înseamnă ploios.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i9", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere",
-    "enunt": "Cum spui „cu zăpadă” în engleză? ❄️",
-    "variante": ["snowy", "sunny", "rainy", "cloudy"], "raspunsCorect": 0,
-    "explicatie": "„Snowy” înseamnă cu zăpadă.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i10", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere",
-    "enunt": "Cum spui „măr” în engleză? 🍎",
-    "variante": ["apple", "egg", "milk", "bread"], "raspunsCorect": 0,
-    "explicatie": "„Apple” înseamnă măr.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i11", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "„Saturday” înseamnă sâmbătă.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! „Saturday” înseamnă sâmbătă.", "punctaj": 1
-  },
-  {
-    "id": "en-c2-i12", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "adevarat-fals",
-    "enunt": "„Cloudy” înseamnă înnorat.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! „Cloudy” înseamnă înnorat.", "punctaj": 1
-  }
+  { "id": "en-c2-u1", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum spui „luni” în engleză?", "variante": ["Sunday", "Monday", "Friday", "Tuesday"], "raspunsCorect": 1, "explicatie": "„Monday” = luni.", "punctaj": 1 },
+  { "id": "en-c2-u2", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă „Friday”?", "variante": ["luni", "miercuri", "vineri", "duminică"], "raspunsCorect": 2, "explicatie": "„Friday” = vineri.", "punctaj": 1 },
+  { "id": "en-c2-u3", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă „bread”? 🍞", "variante": ["lapte", "pâine", "apă", "măr"], "raspunsCorect": 1, "explicatie": "„Bread” = pâine.", "punctaj": 1 },
+  { "id": "en-c2-u4", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă „water”? 💧", "variante": ["apă", "pâine", "ou", "lapte"], "raspunsCorect": 0, "explicatie": "„Water” = apă.", "punctaj": 1 },
+  { "id": "en-c2-u5", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "usor", "enunt": "Cum spui „însorit” în engleză? ☀️", "variante": ["rainy", "sunny", "cloudy", "snowy"], "raspunsCorect": 1, "explicatie": "„Sunny” = însorit.", "punctaj": 1 },
+  { "id": "en-c2-u6", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă „rainy”? 🌧️", "variante": ["însorit", "ploios", "înnorat", "cu zăpadă"], "raspunsCorect": 1, "explicatie": "„Rainy” = ploios.", "punctaj": 1 },
+  { "id": "en-c2-u7", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum spui „duminică” în engleză?", "variante": ["Saturday", "Sunday", "Monday", "Thursday"], "raspunsCorect": 1, "explicatie": "„Sunday” = duminică.", "punctaj": 1 },
+  { "id": "en-c2-u8", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "usor", "enunt": "Cum spui „lapte” în engleză? 🥛", "variante": ["water", "milk", "egg", "apple"], "raspunsCorect": 1, "explicatie": "„Milk” = lapte.", "punctaj": 1 },
+  { "id": "en-c2-u9", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "usor", "enunt": "Cum spui „cu zăpadă” în engleză? ❄️", "variante": ["snowy", "sunny", "rainy", "cloudy"], "raspunsCorect": 0, "explicatie": "„Snowy” = cu zăpadă.", "punctaj": 1 },
+  { "id": "en-c2-u10", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "usor", "enunt": "Cum spui „măr” în engleză? 🍎", "variante": ["apple", "egg", "milk", "bread"], "raspunsCorect": 0, "explicatie": "„Apple” = măr.", "punctaj": 1 },
+  { "id": "en-c2-u11", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "„Saturday” înseamnă sâmbătă.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! „Saturday” = sâmbătă.", "punctaj": 1 },
+  { "id": "en-c2-u12", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "„Cloudy” înseamnă înnorat.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! „Cloudy” = înnorat.", "punctaj": 1 },
+
+  { "id": "en-c2-mm1", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum spui „miercuri” în engleză?", "variante": ["Wednesday", "Monday", "Friday", "Sunday"], "raspunsCorect": 0, "explicatie": "„Wednesday” = miercuri.", "punctaj": 1 },
+  { "id": "en-c2-mm2", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce înseamnă „Thursday”?", "variante": ["marți", "joi", "vineri", "luni"], "raspunsCorect": 1, "explicatie": "„Thursday” = joi.", "punctaj": 1 },
+  { "id": "en-c2-mm3", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum spui „ou” în engleză? 🥚", "variante": ["egg", "bread", "milk", "water"], "raspunsCorect": 0, "explicatie": "„Egg” = ou.", "punctaj": 1 },
+  { "id": "en-c2-mm4", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum spui „înnorat” în engleză? ☁️", "variante": ["cloudy", "sunny", "rainy", "snowy"], "raspunsCorect": 0, "explicatie": "„Cloudy” = înnorat.", "punctaj": 1 },
+  { "id": "en-c2-mm5", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum spui „marți” în engleză?", "variante": ["Tuesday", "Thursday", "Monday", "Sunday"], "raspunsCorect": 0, "explicatie": "„Tuesday” = marți.", "punctaj": 1 },
+  { "id": "en-c2-mm6", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce înseamnă „milk”? 🥛", "variante": ["apă", "lapte", "pâine", "ou"], "raspunsCorect": 1, "explicatie": "„Milk” = lapte.", "punctaj": 1 },
+  { "id": "en-c2-mm7", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce înseamnă „snowy”? ❄️", "variante": ["cu zăpadă", "însorit", "ploios", "înnorat"], "raspunsCorect": 0, "explicatie": "„Snowy” = cu zăpadă.", "punctaj": 1 },
+  { "id": "en-c2-mm8", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum spui „sâmbătă” în engleză?", "variante": ["Saturday", "Sunday", "Friday", "Monday"], "raspunsCorect": 0, "explicatie": "„Saturday” = sâmbătă.", "punctaj": 1 },
+  { "id": "en-c2-mm9", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum spui „pâine” în engleză? 🍞", "variante": ["bread", "milk", "egg", "water"], "raspunsCorect": 0, "explicatie": "„Bread” = pâine.", "punctaj": 1 },
+  { "id": "en-c2-mm10", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "mediu", "enunt": "E vreme cu ploaie. Cum spui în engleză?", "variante": ["rainy", "sunny", "snowy", "cloudy"], "raspunsCorect": 0, "explicatie": "„Rainy” = ploios.", "punctaj": 1 },
+  { "id": "en-c2-mm11", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "„Wednesday” înseamnă miercuri.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! „Wednesday” = miercuri.", "punctaj": 1 },
+  { "id": "en-c2-mm12", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce înseamnă „egg”? 🥚", "variante": ["ou", "măr", "lapte", "apă"], "raspunsCorect": 0, "explicatie": "„Egg” = ou.", "punctaj": 1 },
+
+  { "id": "en-c2-g1", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce zi vine după „Monday”?", "variante": ["Sunday", "Tuesday", "Friday", "Saturday"], "raspunsCorect": 1, "explicatie": "După Monday (luni) vine Tuesday (marți).", "punctaj": 1 },
+  { "id": "en-c2-g2", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care cuvânt NU este mâncare/băutură?", "variante": ["bread", "milk", "Friday", "egg"], "raspunsCorect": 2, "explicatie": "„Friday” este o zi, nu mâncare.", "punctaj": 1 },
+  { "id": "en-c2-g3", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "greu", "enunt": "Care cuvânt NU descrie vremea?", "variante": ["sunny", "rainy", "apple", "cloudy"], "raspunsCorect": 2, "explicatie": "„apple” = măr, nu descrie vremea.", "punctaj": 1 },
+  { "id": "en-c2-g4", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce zi este între „Tuesday” și „Thursday”?", "variante": ["Monday", "Wednesday", "Friday", "Sunday"], "raspunsCorect": 1, "explicatie": "Între marți și joi este Wednesday (miercuri).", "punctaj": 1 },
+  { "id": "en-c2-g5", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "greu", "enunt": "Ninge afară și e frig. Ce vreme spui în engleză?", "variante": ["snowy", "sunny", "rainy", "warm"], "raspunsCorect": 0, "explicatie": "Ninge → „snowy”.", "punctaj": 1 },
+  { "id": "en-c2-g6", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Câte zile are o săptămână (week) în engleză?", "variante": ["five", "six", "seven", "ten"], "raspunsCorect": 2, "explicatie": "O săptămână are „seven” (7) zile.", "punctaj": 1 },
+  { "id": "en-c2-g7", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "greu", "enunt": "La micul dejun bei „milk” și mănânci „bread”. Ce ai pe masă?", "variante": ["Lapte și pâine", "Apă și ou", "Măr și apă", "Pâine și măr"], "raspunsCorect": 0, "explicatie": "milk = lapte, bread = pâine.", "punctaj": 1 },
+  { "id": "en-c2-g8", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce zi vine ÎNAINTE de „Sunday”?", "variante": ["Monday", "Saturday", "Friday", "Tuesday"], "raspunsCorect": 1, "explicatie": "Înainte de Sunday (duminică) e Saturday (sâmbătă).", "punctaj": 1 },
+  { "id": "en-c2-g9", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "alegere", "dificultate": "greu", "enunt": "Soarele strălucește și e cald. Ce vreme e?", "variante": ["sunny", "rainy", "snowy", "cloudy"], "raspunsCorect": 0, "explicatie": "Soare → „sunny”.", "punctaj": 1 },
+  { "id": "en-c2-g10", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR alimente?", "variante": ["bread, milk, egg", "bread, Monday, egg", "milk, sunny, water", "egg, rainy, apple"], "raspunsCorect": 0, "explicatie": "bread, milk, egg sunt toate alimente.", "punctaj": 1 },
+  { "id": "en-c2-g11", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR zile ale săptămânii?", "variante": ["Monday, Friday, Sunday", "Monday, bread, Sunday", "egg, Friday, milk", "rainy, Monday, sunny"], "raspunsCorect": 0, "explicatie": "Toate trei sunt zile ale săptămânii.", "punctaj": 1 },
+  { "id": "en-c2-g12", "clasa": "clasa-2", "materie": "limba-engleza", "competenta": "2.3", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "„sunny” și „rainy” descriu amândouă vremea.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Amândouă descriu vremea.", "punctaj": 1 }
 ]

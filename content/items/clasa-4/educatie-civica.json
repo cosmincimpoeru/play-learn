@@ -1,0 +1,74 @@
+[
+  {
+    "id": "civ-c4-i1", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce înseamnă să spui adevărul?",
+    "variante": ["Să nu minți", "Să taci mereu", "Să inventezi povești", "Să pleci"], "raspunsCorect": 0,
+    "explicatie": "Adevărul înseamnă să nu minți, să fii sincer.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i2", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Bunătatea înseamnă...?",
+    "variante": ["Să-i ajuți pe ceilalți", "Să te superi", "Să fii egoist", "Să râzi de cineva"], "raspunsCorect": 0,
+    "explicatie": "Bunătatea înseamnă să-i ajuți și să fii blând cu ceilalți.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i3", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care faptă arată cinste?",
+    "variante": ["Înapoiezi un obiect pierdut", "Păstrezi ce nu e al tău", "Minți", "Copiezi la test"], "raspunsCorect": 0,
+    "explicatie": "Să înapoiezi un obiect găsit arată cinste.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i4", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care sunt culorile drapelului României?",
+    "variante": ["Roșu, galben, albastru", "Roșu, alb, albastru", "Verde, galben, roșu", "Albastru, alb, roșu"], "raspunsCorect": 0,
+    "explicatie": "Drapelul României are roșu, galben și albastru.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i5", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este un simbol național al României?",
+    "variante": ["Imnul", "O jucărie", "Un desen animat", "Un joc"], "raspunsCorect": 0,
+    "explicatie": "Imnul este un simbol național, alături de drapel și stemă.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i6", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Cum se numește țara noastră?",
+    "variante": ["România", "Italia", "Franța", "Grecia"], "raspunsCorect": 0,
+    "explicatie": "Țara noastră se numește România.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i7", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Cum avem grijă de mediu?",
+    "variante": ["Nu aruncăm gunoaie și colectăm selectiv", "Aruncăm gunoiul pe jos", "Rupem florile", "Risipim apa"], "raspunsCorect": 0,
+    "explicatie": "Avem grijă de mediu păstrând curățenia și colectând selectiv.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i8", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce face un bun cetățean în comunitate?",
+    "variante": ["Cooperează și ajută", "Strică lucrurile comune", "Se ceartă cu toți", "Stă deoparte mereu"], "raspunsCorect": 0,
+    "explicatie": "Un bun cetățean cooperează și ajută comunitatea.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i9", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Respectul înseamnă să-i prețuiești pe ceilalți oameni.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Respectul înseamnă să-i prețuiești pe ceilalți.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i10", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Imnul, drapelul și stema sunt simboluri naționale.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Acestea sunt simbolurile naționale ale țării.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i11", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "3.1", "tip": "adevarat-fals",
+    "enunt": "Plantarea copacilor ajută mediul.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Copacii curăță aerul și protejează natura.", "punctaj": 1
+  },
+  {
+    "id": "civ-c4-i12", "clasa": "clasa-4", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este imnul național al României?",
+    "variante": ["Deșteaptă-te, române!", "La mulți ani", "Cântec de leagăn", "Un colind"], "raspunsCorect": 0,
+    "explicatie": "Imnul național este „Deșteaptă-te, române!”.", "punctaj": 1
+  }
+]

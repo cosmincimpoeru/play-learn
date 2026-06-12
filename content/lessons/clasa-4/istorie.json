@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ist-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "istorie",
+    "competenta": "1.1",
+    "titlu": "Trecut, prezent, viitor — axa timpului",
+    "explicatie": "Istoria studiază trecutul. Timpul curge de la trecut (ce a fost) spre prezent (acum) și viitor (ce va fi). Pe axa timpului așezăm evenimentele în ordinea în care s-au petrecut.",
+    "exemplu": "Bunicii au fost copii în trecut. Tu ești copil în prezent. Vei fi adult în viitor.",
+    "activitate": "Pune în ordine: prezent, viitor, trecut.",
+    "jocuri": ["Fac o axă a timpului cu evenimente din familia mea.", "Spun ceva din trecut și ceva din prezent."]
+  },
+  {
+    "id": "ist-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "istorie",
+    "competenta": "2.1",
+    "titlu": "Sursele istorice",
+    "explicatie": "Despre trecut aflăm din surse istorice: obiecte vechi, fotografii, documente, monede, povestirile bătrânilor și clădirile vechi. Ele sunt ca niște „urme” lăsate de oamenii din trecut.",
+    "exemplu": "O fotografie veche a bunicii, o monedă veche sau o cetate sunt surse istorice.",
+    "activitate": "Care dintre acestea este o sursă istorică: o fotografie veche sau o jucărie nouă?",
+    "jocuri": ["Caut un obiect vechi din casă și aflu povestea lui.", "Întreb un bunic despre cum era pe vremea lui."]
+  },
+  {
+    "id": "ist-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "istorie",
+    "competenta": "3.1",
+    "titlu": "Personalități și Marea Unire",
+    "explicatie": "În istoria românilor au fost conducători viteji: Ștefan cel Mare, Mihai Viteazul, Alexandru Ioan Cuza. La 1 Decembrie 1918 s-a făcut Marea Unire — românii s-au unit într-o singură țară. De aceea 1 Decembrie este Ziua Națională a României.",
+    "exemplu": "Mihai Viteazul a unit pentru prima dată țările române. La 1 Decembrie 1918, la Alba Iulia, s-a hotărât Marea Unire.",
+    "activitate": "Ce sărbătorim la 1 Decembrie?",
+    "jocuri": ["Spun numele unui domnitor viteaz.", "Desenez harta României de Ziua Națională."]
+  }
+]

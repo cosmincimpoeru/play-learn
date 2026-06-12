@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-4",
+  "materie": "istorie",
+  "sursa": "OMEN 5003/02.12.2014 — Istorie, Clasa a IV-a",
+  "competenteGenerale": [
+    "Localizarea în timp și în spațiu a evenimentelor istorice studiate",
+    "Explorarea surselor relevante pentru a înțelege fapte și evenimente din trecut",
+    "Utilizarea termenilor istorici în diferite situații de comunicare"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Ordonarea cronologică a unor evenimente din viața familiei, a localității și a trecutului",
+      "obiective": ["Folosește axa timpului", "Ordonează evenimente: trecut, prezent, viitor"],
+      "continuturi": ["Timpul istoric", "Axa timpului"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Recunoașterea surselor istorice (obiecte, fotografii, documente, povestiri)",
+      "obiective": ["Identifică o sursă istorică", "Înțelege că din surse aflăm despre trecut"],
+      "continuturi": ["Surse istorice"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea unor personalități și evenimente importante din istoria românilor",
+      "obiective": ["Cunoaște conducători importanți", "Cunoaște Ziua Națională și Marea Unire"],
+      "continuturi": ["Personalități istorice", "Marea Unire de la 1 Decembrie 1918"]
+    }
+  ]
+}

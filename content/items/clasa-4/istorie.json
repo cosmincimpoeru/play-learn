@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ist-c4-i1", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Ce studiază istoria?",
+    "variante": ["Trecutul", "Doar viitorul", "Numerele", "Plantele"], "raspunsCorect": 0,
+    "explicatie": "Istoria studiază trecutul oamenilor.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i2", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Care este ordinea corectă a timpului?",
+    "variante": ["Trecut, prezent, viitor", "Viitor, trecut, prezent", "Prezent, trecut, viitor", "Viitor, prezent, trecut"], "raspunsCorect": 0,
+    "explicatie": "Timpul curge: trecut → prezent → viitor.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i3", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "alegere",
+    "enunt": "Când au fost bunicii copii?",
+    "variante": ["În trecut", "În prezent", "În viitor", "Niciodată"], "raspunsCorect": 0,
+    "explicatie": "Bunicii au fost copii în trecut.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i4", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care este o sursă istorică?",
+    "variante": ["O fotografie veche", "O jucărie nouă", "Un telefon nou", "Un balon"], "raspunsCorect": 0,
+    "explicatie": "O fotografie veche este o sursă istorică.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i5", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere",
+    "enunt": "De unde aflăm despre trecut?",
+    "variante": ["Din surse istorice", "Din nimic", "Din viitor", "Din desene animate noi"], "raspunsCorect": 0,
+    "explicatie": "Aflăm din surse istorice: obiecte vechi, documente, povestiri.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i6", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "alegere",
+    "enunt": "Care NU este o sursă istorică?",
+    "variante": ["O cetate veche", "O monedă veche", "Un document vechi", "O tabletă nou-nouță"], "raspunsCorect": 3,
+    "explicatie": "O tabletă nouă nu este o sursă despre trecut.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i7", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Ce sărbătorim la 1 Decembrie?",
+    "variante": ["Marea Unire (Ziua Națională)", "Crăciunul", "Începutul școlii", "Ziua copilului"], "raspunsCorect": 0,
+    "explicatie": "La 1 Decembrie sărbătorim Marea Unire — Ziua Națională.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i8", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Care a fost un domnitor viteaz al românilor?",
+    "variante": ["Ștefan cel Mare", "Un personaj de desene animate", "Un cântăreț de azi", "Un sportiv"], "raspunsCorect": 0,
+    "explicatie": "Ștefan cel Mare a fost un domnitor viteaz.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i9", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
+    "enunt": "Cine a unit pentru prima dată țările române?",
+    "variante": ["Mihai Viteazul", "Un negustor", "Un învățător", "Un pictor"], "raspunsCorect": 0,
+    "explicatie": "Mihai Viteazul a realizat prima unire a țărilor române.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i10", "clasa": "clasa-4", "materie": "istorie", "competenta": "3.1", "tip": "alegere",
+    "enunt": "În ce an s-a făcut Marea Unire?",
+    "variante": ["1918", "2000", "1850", "1700"], "raspunsCorect": 0,
+    "explicatie": "Marea Unire s-a făcut la 1 Decembrie 1918.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i11", "clasa": "clasa-4", "materie": "istorie", "competenta": "1.1", "tip": "adevarat-fals",
+    "enunt": "Pe axa timpului așezăm evenimentele în ordinea în care s-au petrecut.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Axa timpului ordonează evenimentele cronologic.", "punctaj": 1
+  },
+  {
+    "id": "ist-c4-i12", "clasa": "clasa-4", "materie": "istorie", "competenta": "2.1", "tip": "adevarat-fals",
+    "enunt": "Povestirile bătrânilor pot fi o sursă despre trecut.",
+    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
+    "explicatie": "Da! Mărturiile oamenilor sunt surse istorice.", "punctaj": 1
+  }
+]

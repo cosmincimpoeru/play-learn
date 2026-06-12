@@ -5,9 +5,9 @@ import { areContinut } from "@/lib/content";
 import {
   CLASE,
   CONTEXTE,
-  MATERII,
   doarMajuscule,
   etichetaClasa,
+  materiiPentruClasa,
 } from "@/lib/taxonomie";
 import type { ClasaId } from "@/lib/types";
 
@@ -34,7 +34,7 @@ export default async function PaginaMaterii({
       <Bara caleInapoi={`/${context}`} titlu={etichetaClasa(clasa)} />
       <p className="mb-4 text-center text-lg font-bold">Alege materia:</p>
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
-        {MATERII.map((m) => {
+        {materiiPentruClasa(clasa as ClasaId).map((m) => {
           const disponibil = areContinut(clasa as ClasaId, m.id);
           return (
             <Card

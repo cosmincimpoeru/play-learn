@@ -1,0 +1,35 @@
+[
+  {
+    "id": "geo-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "geografie",
+    "competenta": "1.1",
+    "titlu": "Punctele cardinale",
+    "explicatie": "Ca să ne orientăm, folosim cele patru puncte cardinale: nord (N), sud (S), est (E) și vest (V). Soarele răsare la est și apune la vest. Dacă privești spre nord, estul e la dreapta.",
+    "exemplu": "Dimineața Soarele răsare la est. Seara apune la vest.",
+    "activitate": "În ce parte răsare Soarele?",
+    "jocuri": ["Mă orientez după Soare dimineața.", "Spun cele 4 puncte cardinale."]
+  },
+  {
+    "id": "geo-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "geografie",
+    "competenta": "2.1",
+    "titlu": "Formele de relief și harta",
+    "explicatie": "Suprafața Pământului are forme de relief: munți (înalți), dealuri (mai joase) și câmpii (întinse și netede). Pe hartă, le recunoaștem după culori: maro pentru munți, verde pentru câmpii, albastru pentru ape.",
+    "exemplu": "Munții Carpați sunt înalți (maro pe hartă). Câmpia de Vest este netedă (verde pe hartă).",
+    "activitate": "Cum este relieful la munte: înalt sau neted?",
+    "jocuri": ["Recunosc formele de relief pe o hartă.", "Desenez un munte, un deal și o câmpie."]
+  },
+  {
+    "id": "geo-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "geografie",
+    "competenta": "3.1",
+    "titlu": "România și planeta Pământ",
+    "explicatie": "România este țara noastră. Capitala ei este București. Munții Carpați străbat țara, iar Dunărea este cel mai mare râu, care se varsă în Marea Neagră. România este pe continentul Europa. Pământul este planeta pe care trăim toți.",
+    "exemplu": "Capitala României este București. Dunărea se varsă în Marea Neagră. Pământul are continente și oceane.",
+    "activitate": "Care este capitala României?",
+    "jocuri": ["Găsesc România pe harta Europei.", "Spun pe ce continent se află țara mea."]
+  }
+]

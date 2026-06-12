@@ -1,0 +1,35 @@
+[
+  {
+    "id": "civ-c4-l1",
+    "clasa": "clasa-4",
+    "materie": "educatie-civica",
+    "competenta": "1.1",
+    "titlu": "Valori morale: adevăr, bunătate, respect",
+    "explicatie": "Valorile morale ne arată cum să fim oameni buni. Adevărul înseamnă să nu minți. Bunătatea înseamnă să-i ajuți pe ceilalți. Respectul înseamnă să-i prețuiești pe oameni. Cinstea înseamnă să fii corect.",
+    "exemplu": "Când spui adevărul chiar dacă ți-e greu, dovedești cinste. Când ajuți un coleg, arăți bunătate.",
+    "activitate": "Spune o faptă prin care arăți respect față de cineva.",
+    "jocuri": ["Dau exemple de fapte cinstite.", "Spun cum arăt bunătate acasă."]
+  },
+  {
+    "id": "civ-c4-l2",
+    "clasa": "clasa-4",
+    "materie": "educatie-civica",
+    "competenta": "2.1",
+    "titlu": "Comunitatea și simbolurile naționale",
+    "explicatie": "Facem parte dintr-o comunitate locală (localitatea noastră) și dintr-una națională (țara, România). Țara are simboluri: drapelul (roșu, galben, albastru), imnul („Deșteaptă-te, române!”) și stema.",
+    "exemplu": "Drapelul României are trei culori: roșu, galben și albastru. Imnul se cântă la sărbători importante.",
+    "activitate": "Care sunt cele trei culori ale drapelului României?",
+    "jocuri": ["Colorez drapelul României.", "Spun numele țării și al localității mele."]
+  },
+  {
+    "id": "civ-c4-l3",
+    "clasa": "clasa-4",
+    "materie": "educatie-civica",
+    "competenta": "3.1",
+    "titlu": "Grija față de mediu și de ceilalți",
+    "explicatie": "Un bun cetățean are grijă de natură și de oamenii din jur. Nu aruncăm gunoaie, păstrăm curățenia, plantăm copaci și ajutăm pe cei care au nevoie. Cooperăm pentru binele comunității.",
+    "exemplu": "Când arunci hârtia la coș și colectezi selectiv, ai grijă de mediu. Când ajuți un vecin, ai grijă de comunitate.",
+    "activitate": "Spune o faptă prin care ai grijă de natură.",
+    "jocuri": ["Strâng gunoaiele din curtea școlii.", "Spun trei moduri de a proteja natura."]
+  }
+]

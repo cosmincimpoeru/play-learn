@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-3",
+  "materie": "educatie-civica",
+  "sursa": "OMEN 5003/02.12.2014 — Educație civică, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Aplicarea unor norme de conduită în viața cotidiană",
+    "Manifestarea unor deprinderi de comportament moral-civic în contexte de viață din mediul cunoscut",
+    "Cooperarea cu ceilalți pentru rezolvarea unor sarcini simple, manifestând disponibilitate"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea unor însușiri ale persoanei și a faptului că fiecare om este unic",
+      "obiective": ["Se descrie pe sine (însușiri)", "Înțelege că fiecare persoană e unică și valoroasă"],
+      "continuturi": ["Persoana", "Unicitatea fiecărei persoane"]
+    },
+    {
+      "cod": "1.2",
+      "descriere": "Identificarea grupurilor din care face parte copilul",
+      "obiective": ["Numește grupuri: familia, clasa, prietenii", "Înțelege rolul fiecărui grup"],
+      "continuturi": ["Grupuri: familia, școala, prietenii"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Recunoașterea unor drepturi și îndatoriri ale copilului și a regulilor de politețe",
+      "obiective": ["Cunoaște drepturi de bază ale copilului", "Folosește formule de politețe"],
+      "continuturi": ["Drepturile și îndatoririle copilului", "Politețea"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "civ-c3-l1",
+    "clasa": "clasa-3",
+    "materie": "educatie-civica",
+    "competenta": "1.1",
+    "titlu": "Fiecare om este unic",
+    "explicatie": "Fiecare persoană este unică: are propriul nume, chip, însușiri și talente. Unii sunt veseli, alții liniștiți; unii desenează frumos, alții cântă. Toți suntem valoroși și merităm respect.",
+    "exemplu": "Ana este harnică și prietenoasă. Dan e curajos și îi place să ajute. Amândoi sunt speciali, fiecare în felul lui.",
+    "activitate": "Spune două însușiri bune ale tale.",
+    "jocuri": ["Mă prezint cu numele și o calitate.", "Spun ce mă face special."]
+  },
+  {
+    "id": "civ-c3-l2",
+    "clasa": "clasa-3",
+    "materie": "educatie-civica",
+    "competenta": "1.2",
+    "titlu": "Grupurile din care fac parte",
+    "explicatie": "Trăim împreună cu ceilalți în grupuri: familia (părinți, frați), clasa de la școală, grupul de prieteni. În fiecare grup avem reguli și ne ajutăm unii pe alții.",
+    "exemplu": "Acasă fac parte din familie. La școală fac parte din clasă. În parc mă joc cu grupul de prieteni.",
+    "activitate": "Numește un grup din care faci parte și ce faci acolo.",
+    "jocuri": ["Desenez familia mea.", "Spun o regulă a clasei mele."]
+  },
+  {
+    "id": "civ-c3-l3",
+    "clasa": "clasa-3",
+    "materie": "educatie-civica",
+    "competenta": "2.1",
+    "titlu": "Drepturi, îndatoriri și politețe",
+    "explicatie": "Copiii au drepturi: dreptul la educație, la joacă, la a fi ocrotiți și iubiți. Dar avem și îndatoriri: să învățăm, să fim respectuoși, să ajutăm. Politețea („te rog”, „mulțumesc”, „bună ziua”) ne ajută să trăim frumos împreună.",
+    "exemplu": "Am dreptul să merg la școală (educație) și îndatorirea să îmi fac temele și să fiu politicos.",
+    "activitate": "Spune o formulă de politețe pe care o folosești des.",
+    "jocuri": ["Joc de rol: cer ceva politicos.", "Spun un drept și o îndatorire a copilului."]
+  }
+]

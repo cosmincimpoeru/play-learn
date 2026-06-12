@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-4",
+  "materie": "educatie-civica",
+  "sursa": "OMEN 5003/02.12.2014 — Educație civică, Clasele a III-a – a IV-a",
+  "competenteGenerale": [
+    "Aplicarea unor norme de conduită în viața cotidiană",
+    "Manifestarea unor deprinderi de comportament moral-civic în contexte de viață din mediul cunoscut",
+    "Cooperarea cu ceilalți pentru rezolvarea unor sarcini simple, manifestând disponibilitate"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Recunoașterea unor valori morale: adevărul, bunătatea, respectul, cinstea",
+      "obiective": ["Identifică valori morale în fapte", "Înțelege de ce sunt importante"],
+      "continuturi": ["Valori morale: adevăr, bunătate, respect, cinste"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Recunoașterea apartenenței la comunitatea locală și națională și a simbolurilor naționale",
+      "obiective": ["Cunoaște simbolurile naționale (drapel, imn, stemă)", "Înțelege ce e comunitatea"],
+      "continuturi": ["Comunitatea locală și națională", "Simboluri naționale"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Manifestarea unei atitudini responsabile față de mediu și de ceilalți",
+      "obiective": ["Înțelege grija față de natură", "Cooperează și ajută în comunitate"],
+      "continuturi": ["Raporturile cu mediul", "Cooperarea în comunitate"]
+    }
+  ]
+}

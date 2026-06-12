@@ -1,0 +1,30 @@
+{
+  "clasa": "clasa-4",
+  "materie": "geografie",
+  "sursa": "OMEN 5003/02.12.2014 — Geografie, Clasa a IV-a",
+  "competenteGenerale": [
+    "Utilizarea unor elemente de orientare în spațiu",
+    "Raportarea realității geografice la un suport cartografic (harta)",
+    "Relaționarea unor elemente geografice, pe baza unor surse diferite"
+  ],
+  "competenteSpecifice": [
+    {
+      "cod": "1.1",
+      "descriere": "Orientarea în spațiu cu ajutorul punctelor cardinale",
+      "obiective": ["Cunoaște cele 4 puncte cardinale", "Se orientează după Soare"],
+      "continuturi": ["Punctele cardinale: nord, sud, est, vest", "Orizontul local"]
+    },
+    {
+      "cod": "2.1",
+      "descriere": "Citirea unor elemente de pe hartă și recunoașterea formelor de relief",
+      "obiective": ["Recunoaște munți, dealuri, câmpii", "Citește semne simple de pe hartă"],
+      "continuturi": ["Harta", "Formele de relief"]
+    },
+    {
+      "cod": "3.1",
+      "descriere": "Recunoașterea unor elemente de geografie a României și a planetei",
+      "obiective": ["Cunoaște capitala și un râu important", "Înțelege că Pământul este o planetă"],
+      "continuturi": ["Geografia României", "Continente și planeta Pământ"]
+    }
+  ]
+}

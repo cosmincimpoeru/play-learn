@@ -7,10 +7,11 @@ import { getItemi, getLectii } from "@/lib/content";
 import {
   CLASE,
   CONTEXTE,
-  MATERII,
   doarMajuscule,
   etichetaClasa,
   etichetaMaterie,
+  materieValida,
+  materiiPentruClasa,
 } from "@/lib/taxonomie";
 import type { ClasaId, MaterieId } from "@/lib/types";
 
@@ -18,7 +19,8 @@ export function generateStaticParams() {
   const out: { context: string; clasa: string; materie: string }[] = [];
   for (const ctx of CONTEXTE)
     for (const cl of CLASE)
-      for (const m of MATERII) out.push({ context: ctx.id, clasa: cl.id, materie: m.id });
+      for (const m of materiiPentruClasa(cl.id))
+        out.push({ context: ctx.id, clasa: cl.id, materie: m.id });
   return out;
 }
 
@@ -30,10 +32,10 @@ export default async function PaginaMaterie({
   const { context, clasa, materie } = await params;
   if (!CONTEXTE.some((c) => c.id === context)) notFound();
   if (!CLASE.some((c) => c.id === clasa)) notFound();
-  if (!MATERII.some((m) => m.id === materie)) notFound();
 
   const cl = clasa as ClasaId;
   const mat = materie as MaterieId;
+  if (!materieValida(cl, mat)) notFound();
   const maj = doarMajuscule(clasa);
 
   const itemi = getItemi(cl, mat);

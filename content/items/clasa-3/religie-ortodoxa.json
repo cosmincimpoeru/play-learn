@@ -1,74 +1,40 @@
 [
-  {
-    "id": "rel-c3-i1", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Cum se numește cartea sfântă a creștinilor?",
-    "variante": ["Biblia (Sfânta Scriptură)", "Abecedarul", "Dicționarul", "Atlasul"], "raspunsCorect": 0,
-    "explicatie": "Biblia, sau Sfânta Scriptură, este cartea sfântă a creștinilor.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i2", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Despre ce aflăm în Biblie?",
-    "variante": ["Despre Dumnezeu și binele", "Despre rețete", "Despre roboți", "Despre fotbal"], "raspunsCorect": 0,
-    "explicatie": "În Biblie aflăm despre Dumnezeu și învățăm să facem binele.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i3", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este porunca cea mare dată de Domnul Iisus?",
-    "variante": ["Să-L iubim pe Dumnezeu și pe aproapele", "Să fugim", "Să tăcem mereu", "Să adunăm jucării"], "raspunsCorect": 0,
-    "explicatie": "Porunca iubirii: să-L iubim pe Dumnezeu și pe aproapele.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i4", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Prin ce se arată iubirea față de aproapele?",
-    "variante": ["Prin fapte bune", "Prin ceartă", "Prin supărare", "Prin grabă"], "raspunsCorect": 0,
-    "explicatie": "Iubirea se arată prin fapte bune: ajutor, blândețe, iertare.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i5", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce sărbătorim de Paște?",
-    "variante": ["Învierea Domnului", "Nașterea Domnului", "Pogorârea Sfântului Duh", "Ziua recoltei"], "raspunsCorect": 0,
-    "explicatie": "De Paște sărbătorim Învierea Domnului.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i6", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce sărbătorim de Crăciun?",
-    "variante": ["Nașterea Domnului", "Învierea Domnului", "Rusaliile", "Boboteaza copiilor"], "raspunsCorect": 0,
-    "explicatie": "De Crăciun sărbătorim Nașterea Domnului.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i7", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere",
-    "enunt": "La ce sărbătoare prăznuim Pogorârea Sfântului Duh?",
-    "variante": ["Rusalii", "Crăciun", "Paște", "Florii"], "raspunsCorect": 0,
-    "explicatie": "De Rusalii prăznuim Pogorârea Sfântului Duh 🕊️.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i8", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este o faptă de iubire față de aproapele?",
-    "variante": ["Să ajuți un coleg", "Să te superi", "Să râzi de cineva", "Să strici"], "raspunsCorect": 0,
-    "explicatie": "Să ajuți un coleg este o faptă de iubire.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i9", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Biblia ne învață să facem binele.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Biblia ne învață să trăim frumos și să facem binele.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i10", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Porunca iubirii ne cere să-L iubim pe Dumnezeu și pe aproapele.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Aceasta este porunca iubirii.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i11", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Sărbătorile creștine sunt zile de bucurie și rugăciune.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Sunt zile de bucurie, rugăciune și bunătate.", "punctaj": 1
-  },
-  {
-    "id": "rel-c3-i12", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Cine este personajul principal al Sfintei Scripturi, prin care Dumnezeu Se face cunoscut?",
-    "variante": ["Domnul Iisus Hristos", "Un rege oarecare", "Un negustor", "Un soldat"], "raspunsCorect": 0,
-    "explicatie": "Domnul Iisus Hristos ni-L face cunoscut pe Dumnezeu.", "punctaj": 1
-  }
+  { "id": "rel-c3-u1", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum se numește cartea sfântă a creștinilor?", "variante": ["Biblia (Sfânta Scriptură)", "Abecedarul", "Dicționarul", "Atlasul"], "raspunsCorect": 0, "explicatie": "Biblia, sau Sfânta Scriptură.", "punctaj": 1 },
+  { "id": "rel-c3-u2", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este porunca cea mare dată de Domnul Iisus?", "variante": ["Să-L iubim pe Dumnezeu și pe aproapele", "Să fugim", "Să tăcem", "Să adunăm jucării"], "raspunsCorect": 0, "explicatie": "Porunca iubirii.", "punctaj": 1 },
+  { "id": "rel-c3-u3", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce sărbătorim de Paște?", "variante": ["Învierea Domnului", "Nașterea Domnului", "Rusaliile", "Ziua recoltei"], "raspunsCorect": 0, "explicatie": "De Paște — Învierea Domnului.", "punctaj": 1 },
+  { "id": "rel-c3-u4", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce sărbătorim de Crăciun?", "variante": ["Nașterea Domnului", "Învierea Domnului", "Rusaliile", "Boboteaza"], "raspunsCorect": 0, "explicatie": "De Crăciun — Nașterea Domnului.", "punctaj": 1 },
+  { "id": "rel-c3-u5", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Despre ce aflăm în Biblie?", "variante": ["Despre Dumnezeu și binele", "Despre rețete", "Despre roboți", "Despre fotbal"], "raspunsCorect": 0, "explicatie": "În Biblie aflăm despre Dumnezeu și învățăm binele.", "punctaj": 1 },
+  { "id": "rel-c3-u6", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Prin ce se arată iubirea față de aproapele?", "variante": ["Prin fapte bune", "Prin ceartă", "Prin supărare", "Prin grabă"], "raspunsCorect": 0, "explicatie": "Prin fapte bune: ajutor, blândețe, iertare.", "punctaj": 1 },
+  { "id": "rel-c3-u7", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "La ce sărbătoare prăznuim Pogorârea Sfântului Duh?", "variante": ["Rusalii", "Crăciun", "Paște", "Florii"], "raspunsCorect": 0, "explicatie": "De Rusalii 🕊️.", "punctaj": 1 },
+  { "id": "rel-c3-u8", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este o faptă de iubire față de aproapele?", "variante": ["Să ajuți un coleg", "Să te superi", "Să râzi de cineva", "Să strici"], "raspunsCorect": 0, "explicatie": "Să ajuți un coleg.", "punctaj": 1 },
+  { "id": "rel-c3-u9", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Biblia ne învață să facem binele.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Ne învață binele.", "punctaj": 1 },
+  { "id": "rel-c3-u10", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Porunca iubirii ne cere să-L iubim pe Dumnezeu și pe aproapele.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Aceasta e porunca iubirii.", "punctaj": 1 },
+  { "id": "rel-c3-u11", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Sărbătorile creștine sunt zile de bucurie și rugăciune.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt zile de bucurie.", "punctaj": 1 },
+  { "id": "rel-c3-u12", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Prin cine Se face cunoscut Dumnezeu în Sfânta Scriptură?", "variante": ["Domnul Iisus Hristos", "Un rege oarecare", "Un negustor", "Un soldat"], "raspunsCorect": 0, "explicatie": "Prin Domnul Iisus Hristos.", "punctaj": 1 },
+
+  { "id": "rel-c3-m1", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Asociază: 🎄 Crăciun → ?", "variante": ["Nașterea Domnului", "Învierea Domnului", "Pogorârea Sfântului Duh", "Boboteaza"], "raspunsCorect": 0, "explicatie": "Crăciun = Nașterea Domnului.", "punctaj": 1 },
+  { "id": "rel-c3-m2", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Asociază: ✝️ Paște → ?", "variante": ["Învierea Domnului", "Nașterea Domnului", "Rusaliile", "Floriile"], "raspunsCorect": 0, "explicatie": "Paște = Învierea Domnului.", "punctaj": 1 },
+  { "id": "rel-c3-m3", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce fel de carte este Biblia?", "variante": ["O carte sfântă, cu învățături de la Dumnezeu", "O carte de povești obișnuite", "Un manual de matematică", "O revistă"], "raspunsCorect": 0, "explicatie": "Este cartea sfântă a creștinilor.", "punctaj": 1 },
+  { "id": "rel-c3-m4", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum împlinim porunca iubirii în fiecare zi?", "variante": ["Făcând fapte bune față de ceilalți", "Certându-ne", "Stând singuri", "Ignorând pe toți"], "raspunsCorect": 0, "explicatie": "Prin fapte bune față de aproapele.", "punctaj": 1 },
+  { "id": "rel-c3-m5", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Despre ce întâmplări citim în Biblie?", "variante": ["Crearea lumii, Nașterea și pildele Domnului", "Despre mașini", "Despre jocuri video", "Despre rețete de prăjituri"], "raspunsCorect": 0, "explicatie": "Crearea lumii, viața și pildele Domnului Iisus.", "punctaj": 1 },
+  { "id": "rel-c3-m6", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "🕊️ Rusalii → ce sărbătorim?", "variante": ["Pogorârea Sfântului Duh", "Nașterea Domnului", "Învierea Domnului", "Ziua recoltei"], "raspunsCorect": 0, "explicatie": "Rusalii = Pogorârea Sfântului Duh.", "punctaj": 1 },
+  { "id": "rel-c3-m7", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Pe cine cuprinde porunca iubirii?", "variante": ["Pe Dumnezeu și pe aproapele", "Doar pe mine", "Doar pe Dumnezeu", "Pe nimeni"], "raspunsCorect": 0, "explicatie": "Să-L iubim pe Dumnezeu și pe aproapele.", "punctaj": 1 },
+  { "id": "rel-c3-m8", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum ar trebui să fim în zilele de sărbătoare?", "variante": ["Buni, bucuroși și rugători", "Supărați", "Egoiști", "Certăreți"], "raspunsCorect": 0, "explicatie": "Sărbătorile sunt zile de bunătate, bucurie și rugăciune.", "punctaj": 1 },
+  { "id": "rel-c3-m9", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Un coleg nou nu cunoaște pe nimeni. Cum împlinești porunca iubirii?", "variante": ["Mă împrietenesc cu el și îl ajut", "Îl ignor", "Râd de el", "Plec"], "raspunsCorect": 0, "explicatie": "Iubirea aproapelui: îl primim și îl ajutăm.", "punctaj": 1 },
+  { "id": "rel-c3-m10", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce este Biblia importantă pentru creștini?", "variante": ["Ne arată cum să trăim frumos și bine", "Ne învață să gătim", "Ne învață sport", "Ne distrează doar"], "raspunsCorect": 0, "explicatie": "Ne învață cum să trăim după voia lui Dumnezeu.", "punctaj": 1 },
+  { "id": "rel-c3-m11", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Crăciunul, Paștele și Rusaliile sunt mari sărbători creștine.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt printre marile sărbători.", "punctaj": 1 },
+  { "id": "rel-c3-m12", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Porunca iubirii spune să-l iubim pe aproapele „ca pe...”", "variante": ["noi înșine", "un străin", "nimeni", "un dușman"], "raspunsCorect": 0, "explicatie": "„...ca pe noi înșine.”", "punctaj": 1 },
+
+  { "id": "rel-c3-g1", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care sărbătoare vine PRIMA în an: Crăciunul, Paștele sau Rusaliile?", "variante": ["Crăciunul (la sfârșit de an), apoi Paștele, apoi Rusaliile", "Rusaliile", "Paștele", "Toate odată"], "raspunsCorect": 0, "explicatie": "În anul bisericesc ordinea uzuală: Nașterea, apoi Învierea, apoi Rusaliile.", "punctaj": 1 },
+  { "id": "rel-c3-g2", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care faptă NU împlinește porunca iubirii?", "variante": ["Să ajuți", "Să ierți", "Să te răzbuni", "Să împarți"], "raspunsCorect": 2, "explicatie": "Răzbunarea nu împlinește porunca iubirii.", "punctaj": 1 },
+  { "id": "rel-c3-g3", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce loc are Sfânta Scriptură printre cărți, pentru creștini?", "variante": ["Este cartea cea mai de preț (sfântă)", "Este o carte ca oricare alta", "Este un manual de școală", "Este o revistă veche"], "raspunsCorect": 0, "explicatie": "Este cartea sfântă, cea mai de preț pentru creștini.", "punctaj": 1 },
+  { "id": "rel-c3-g4", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cum arăți iubire față de Dumnezeu ȘI față de aproapele în aceeași faptă?", "variante": ["Ajutând cu drag pe cineva în nevoie", "Strângând jucării pentru mine", "Certându-mă", "Stând singur acasă"], "raspunsCorect": 0, "explicatie": "Ajutorul dat din iubire împlinește ambele porunci.", "punctaj": 1 },
+  { "id": "rel-c3-g5", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir asociază corect sărbătoarea cu evenimentul?", "variante": ["Crăciun-Naștere, Paște-Înviere, Rusalii-Sfântul Duh", "Crăciun-Înviere, Paște-Naștere", "Paște-Sfântul Duh, Crăciun-Înviere", "Rusalii-Naștere, Paște-Crăciun"], "raspunsCorect": 0, "explicatie": "Crăciun=Naștere, Paște=Înviere, Rusalii=Pogorârea Sfântului Duh.", "punctaj": 1 },
+  { "id": "rel-c3-g6", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "În Biblie, pildele sunt...?", "variante": ["Povestiri scurte cu o învățătură", "Rețete", "Cântece de joacă", "Reguli de sport"], "raspunsCorect": 0, "explicatie": "Pildele sunt povestiri cu tâlc (învățătură).", "punctaj": 1 },
+  { "id": "rel-c3-g7", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un coleg te-a supărat. Cum împlinești porunca iubirii?", "variante": ["Îl iert, fără răzbunare", "Mă răzbun la fel", "Îl pârăsc mereu", "Nu-i mai vorbesc niciodată"], "raspunsCorect": 0, "explicatie": "Iertarea, nu răzbunarea, împlinește iubirea.", "punctaj": 1 },
+  { "id": "rel-c3-g8", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care NU este o sărbătoare creștină?", "variante": ["Crăciunul", "Paștele", "Ziua sportului", "Rusaliile"], "raspunsCorect": 2, "explicatie": "„Ziua sportului” nu este sărbătoare creștină.", "punctaj": 1 },
+  { "id": "rel-c3-g9", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce citesc creștinii din Sfânta Scriptură?", "variante": ["Ca să-L cunoască pe Dumnezeu și să trăiască bine", "Ca să se distreze doar", "Ca să învețe rețete", "Fără motiv"], "raspunsCorect": 0, "explicatie": "Ca să-L cunoască pe Dumnezeu și să urmeze binele.", "punctaj": 1 },
+  { "id": "rel-c3-g10", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Porunca iubirii se împlinește mai mult prin fapte decât prin vorbe goale.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Iubirea adevărată se vede în fapte.", "punctaj": 1 },
+  { "id": "rel-c3-g11", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ce au în comun Crăciunul, Paștele și Rusaliile?", "variante": ["Sunt mari sărbători creștine, de bucurie", "Sunt zile de școală", "Sunt zile de tristețe", "Sunt sărbători sportive"], "raspunsCorect": 0, "explicatie": "Toate sunt mari sărbători creștine, de bucurie.", "punctaj": 1 },
+  { "id": "rel-c3-g12", "clasa": "clasa-3", "materie": "religie-ortodoxa", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care titlu se potrivește unei pilde despre ajutorarea aproapelui?", "variante": ["Iubește-ți aproapele", "Furtuna pe mare", "Numerele mari", "Mașina roșie"], "raspunsCorect": 0, "explicatie": "„Iubește-ți aproapele” se potrivește temei iubirii.", "punctaj": 1 }
 ]

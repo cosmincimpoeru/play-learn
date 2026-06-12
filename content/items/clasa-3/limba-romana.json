@@ -1,74 +1,40 @@
 [
-  {
-    "id": "lr-c3-i1", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Care cuvânt este substantiv?",
-    "variante": ["aleargă", "frumos", "copil", "repede"], "raspunsCorect": 2,
-    "explicatie": "„copil” denumește o ființă — este substantiv.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i2", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Care este pluralul cuvântului „carte”?",
-    "variante": ["cărți", "cartea", "cărticică", "căruț"], "raspunsCorect": 0,
-    "explicatie": "Pluralul lui „carte” este „cărți”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i3", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "În „Câinele mic aleargă”, care cuvânt este adjectiv?",
-    "variante": ["câinele", "mic", "aleargă", "Câinele"], "raspunsCorect": 1,
-    "explicatie": "„mic” arată cum este câinele — este adjectiv.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i4", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "În „Floarea galbenă înflorește”, care cuvânt este verb?",
-    "variante": ["Floarea", "galbenă", "înflorește", "Floarea galbenă"], "raspunsCorect": 2,
-    "explicatie": "„înflorește” arată ce face floarea — este verb.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i5", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
-    "enunt": "Completează corect: „Am intrat ___ cameră.”",
-    "variante": ["într-o", "dintr-o", "intro", "dintro"], "raspunsCorect": 0,
-    "explicatie": "Intri undeva → „într-o” (cu cratimă).", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i6", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere",
-    "enunt": "Completează corect: „A ieșit ___ cutie.”",
-    "variante": ["într-o", "dintr-o", "dintro", "intro"], "raspunsCorect": 1,
-    "explicatie": "Ieși de undeva → „dintr-o” (cu cratimă).", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i7", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Care cuvânt este verb?",
-    "variante": ["masă", "citește", "albastru", "casă"], "raspunsCorect": 1,
-    "explicatie": "„citește” arată o acțiune — este verb.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i8", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Cuvântul „flori” este la...?",
-    "variante": ["singular", "plural", "adjectiv", "verb"], "raspunsCorect": 1,
-    "explicatie": "„flori” înseamnă mai multe — este plural.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i9", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "„Toamna, frunzele se îngălbenesc și cad.” Ce se întâmplă cu frunzele?",
-    "variante": ["Înverzesc", "Se îngălbenesc și cad", "Cresc", "Înfloresc"], "raspunsCorect": 1,
-    "explicatie": "Textul spune că frunzele se îngălbenesc și cad.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i10", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals",
-    "enunt": "Adjectivul arată cum este un lucru (mare, roșu, frumos).",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Adjectivul descrie însușirea unui lucru.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i11", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "adevarat-fals",
-    "enunt": "„într-o” și „dintr-o” se scriu cu cratimă (-).",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Se scriu cu cratimă: într-o, dintr-o.", "punctaj": 1
-  },
-  {
-    "id": "lr-c3-i12", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Care este pluralul cuvântului „copac”?",
-    "variante": ["copaci", "copacul", "copăcel", "copace"], "raspunsCorect": 0,
-    "explicatie": "Pluralul lui „copac” este „copaci”.", "punctaj": 1
-  }
+  { "id": "lr-c3-u1", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care cuvânt este substantiv?", "variante": ["aleargă", "frumos", "copil", "repede"], "raspunsCorect": 2, "explicatie": "„copil” denumește o ființă — substantiv.", "punctaj": 1 },
+  { "id": "lr-c3-u2", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este pluralul cuvântului „carte”?", "variante": ["cărți", "cartea", "cărticică", "căruț"], "raspunsCorect": 0, "explicatie": "Pluralul lui „carte” = „cărți”.", "punctaj": 1 },
+  { "id": "lr-c3-u3", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care cuvânt este verb?", "variante": ["masă", "citește", "albastru", "casă"], "raspunsCorect": 1, "explicatie": "„citește” arată o acțiune — verb.", "punctaj": 1 },
+  { "id": "lr-c3-u4", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "În „Câinele mic aleargă”, care cuvânt este adjectiv?", "variante": ["câinele", "mic", "aleargă", "și"], "raspunsCorect": 1, "explicatie": "„mic” arată cum e câinele — adjectiv.", "punctaj": 1 },
+  { "id": "lr-c3-u5", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cuvântul „flori” este la...?", "variante": ["singular", "plural", "adjectiv", "verb"], "raspunsCorect": 1, "explicatie": "„flori” = plural.", "punctaj": 1 },
+  { "id": "lr-c3-u6", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "usor", "enunt": "Completează: „Am intrat ___ cameră.”", "variante": ["într-o", "dintr-o", "intro", "dintro"], "raspunsCorect": 0, "explicatie": "Intri undeva → „într-o”.", "punctaj": 1 },
+  { "id": "lr-c3-u7", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este pluralul cuvântului „copac”?", "variante": ["copaci", "copacul", "copăcel", "copace"], "raspunsCorect": 0, "explicatie": "Pluralul lui „copac” = „copaci”.", "punctaj": 1 },
+  { "id": "lr-c3-u8", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care cuvânt este adjectiv?", "variante": ["aleargă", "verde", "copil", "casă"], "raspunsCorect": 1, "explicatie": "„verde” arată o însușire — adjectiv.", "punctaj": 1 },
+  { "id": "lr-c3-u9", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Toamna, frunzele se îngălbenesc.” Ce se întâmplă cu frunzele?", "variante": ["Înverzesc", "Se îngălbenesc", "Cresc", "Înfloresc"], "raspunsCorect": 1, "explicatie": "Se îngălbenesc.", "punctaj": 1 },
+  { "id": "lr-c3-u10", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Adjectivul arată cum este un lucru (mare, roșu, frumos).", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Adjectivul descrie însușirea.", "punctaj": 1 },
+  { "id": "lr-c3-u11", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "„într-o” și „dintr-o” se scriu cu cratimă (-).", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Se scriu cu cratimă.", "punctaj": 1 },
+  { "id": "lr-c3-u12", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care cuvânt denumește un lucru (substantiv)?", "variante": ["masă", "frumos", "aleargă", "repede"], "raspunsCorect": 0, "explicatie": "„masă” este substantiv.", "punctaj": 1 },
+
+  { "id": "lr-c3-m1", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "În „Floarea galbenă înflorește”, care cuvânt este verb?", "variante": ["Floarea", "galbenă", "înflorește", "frumoasă"], "raspunsCorect": 2, "explicatie": "„înflorește” arată ce face floarea — verb.", "punctaj": 1 },
+  { "id": "lr-c3-m2", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Completează: „A ieșit ___ cutie.”", "variante": ["într-o", "dintr-o", "dintro", "intro"], "raspunsCorect": 1, "explicatie": "Ieși de undeva → „dintr-o”.", "punctaj": 1 },
+  { "id": "lr-c3-m3", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este pluralul cuvântului „masă”?", "variante": ["mese", "măsuță", "masa", "măsele"], "raspunsCorect": 0, "explicatie": "Pluralul lui „masă” = „mese”.", "punctaj": 1 },
+  { "id": "lr-c3-m4", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "În „Mihai citește o carte interesantă”, care cuvânt este substantiv?", "variante": ["citește", "interesantă", "carte", "o"], "raspunsCorect": 2, "explicatie": "„carte” este substantiv (lucru).", "punctaj": 1 },
+  { "id": "lr-c3-m5", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Care propoziție este scrisă corect?", "variante": ["Am luat o carte dintr-o cutie.", "Am luat o carte dintro cutie.", "Am luat o carte din-tr-o cutie.", "Am luat o carte într-o cutie de unde am scos-o."], "raspunsCorect": 0, "explicatie": "„dintr-o” se scrie cu o singură cratimă.", "punctaj": 1 },
+  { "id": "lr-c3-m6", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care cuvânt este adjectiv în „cer senin”?", "variante": ["cer", "senin", "amândouă", "niciunul"], "raspunsCorect": 1, "explicatie": "„senin” descrie cerul — adjectiv.", "punctaj": 1 },
+  { "id": "lr-c3-m7", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "„Ana a citit o poveste despre un iepure curajos.” Despre cine este povestea?", "variante": ["Un iepure curajos", "O pisică", "Un dragon", "Ana"], "raspunsCorect": 0, "explicatie": "Povestea este despre un iepure curajos.", "punctaj": 1 },
+  { "id": "lr-c3-m8", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Trece la plural: „un câine” →", "variante": ["doi câini", "doi câine", "doi câinii", "doi câinele"], "raspunsCorect": 0, "explicatie": "Pluralul: „câini”.", "punctaj": 1 },
+  { "id": "lr-c3-m9", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Care formă este corectă?", "variante": ["s-a dus", "sa dus", "s-adus", "sadus"], "raspunsCorect": 0, "explicatie": "„s-a dus” (verb) se scrie cu cratimă.", "punctaj": 1 },
+  { "id": "lr-c3-m10", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Câte verbe sunt în „Pisica toarce și doarme”?", "variante": ["1", "2", "3", "0"], "raspunsCorect": 1, "explicatie": "„toarce” și „doarme” = 2 verbe.", "punctaj": 1 },
+  { "id": "lr-c3-m11", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Substantivul poate fi la singular sau la plural.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! ex: floare (sg) / flori (pl).", "punctaj": 1 },
+  { "id": "lr-c3-m12", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care cuvânt NU este verb?", "variante": ["scrie", "merge", "frumos", "cântă"], "raspunsCorect": 2, "explicatie": "„frumos” este adjectiv, nu verb.", "punctaj": 1 },
+
+  { "id": "lr-c3-g1", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "În „Băiatul harnic citește o carte nouă”, câte adjective sunt?", "variante": ["1", "2", "3", "0"], "raspunsCorect": 1, "explicatie": "„harnic” și „nouă” = 2 adjective.", "punctaj": 1 },
+  { "id": "lr-c3-g2", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR substantive?", "variante": ["copil, masă, oraș", "copil, frumos, oraș", "masă, aleargă, casă", "verde, masă, mic"], "raspunsCorect": 0, "explicatie": "copil, masă, oraș sunt toate substantive.", "punctaj": 1 },
+  { "id": "lr-c3-g3", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție folosește GREȘIT „într-o/dintr-o”?", "variante": ["A scos mingea într-o cutie.", "A intrat într-o cameră.", "A ieșit dintr-o casă.", "A pus jucăria într-o cutie."], "raspunsCorect": 0, "explicatie": "Dacă SCOATE, e „dintr-o cutie”, nu „într-o”.", "punctaj": 1 },
+  { "id": "lr-c3-g4", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Trece la plural: „acest copac înalt” →", "variante": ["acești copaci înalți", "acești copac înalt", "aceste copaci înalte", "acest copaci înalți"], "raspunsCorect": 0, "explicatie": "Toate cuvintele trec la plural: acești copaci înalți.", "punctaj": 1 },
+  { "id": "lr-c3-g5", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Vulpea l-a păcălit pe corb ca să scape brânza.” Care e ideea principală?", "variante": ["Vulpea a folosit șiretenia pentru brânză", "Corbul a zburat sus", "Brânza era roșie", "Vulpea dormea"], "raspunsCorect": 0, "explicatie": "Ideea: vulpea a fost șireată ca să obțină brânza.", "punctaj": 1 },
+  { "id": "lr-c3-g6", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "În „Floarea roșie crește repede”, ce parte de vorbire este „repede”?", "variante": ["Arată cum se face acțiunea (nu e adjectiv, nici verb, nici substantiv)", "Substantiv", "Verb", "Numeral"], "raspunsCorect": 0, "explicatie": "„repede” arată cum se face acțiunea (adverb).", "punctaj": 1 },
+  { "id": "lr-c3-g7", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care este forma corectă de plural pentru „ou”?", "variante": ["ouă", "ouri", "oale", "oule"], "raspunsCorect": 0, "explicatie": "Pluralul lui „ou” este „ouă”.", "punctaj": 1 },
+  { "id": "lr-c3-g8", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție este corect scrisă?", "variante": ["Ea s-a dus într-o pădure deasă.", "Ea sa dus intro pădure deasă.", "Ea s-a dus intr-o padure deasa.", "Ea sa dus într-o pădure deasă."], "raspunsCorect": 0, "explicatie": "Corect: „s-a dus” și „într-o”, cu diacritice.", "punctaj": 1 },
+  { "id": "lr-c3-g9", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "În „Copiii veseli aleargă în curte”, care e substantivul la plural?", "variante": ["Copiii", "veseli", "aleargă", "curte"], "raspunsCorect": 0, "explicatie": "„Copiii” este substantiv la plural.", "punctaj": 1 },
+  { "id": "lr-c3-g10", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Furnica muncea toată vara, iar greierele cânta. Iarna, greierele a rămas flămând.” Ce învățăm?", "variante": ["E bine să muncești la timp", "Cântatul e rău", "Vara e scurtă", "Furnicile sunt mici"], "raspunsCorect": 0, "explicatie": "Învățătura: harnicia (munca la timp) ajută.", "punctaj": 1 },
+  { "id": "lr-c3-g11", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție are un substantiv, un adjectiv și un verb?", "variante": ["Pisica neagră doarme.", "Repede și frumos.", "Mare, mic, înalt.", "Aleargă, sare, cântă."], "raspunsCorect": 0, "explicatie": "Pisica (subst.) neagră (adj.) doarme (verb).", "punctaj": 1 },
+  { "id": "lr-c3-g12", "clasa": "clasa-3", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Pluralul lui „masă” este „mese”, iar al lui „ou” este „ouă”.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! mese și ouă sunt formele corecte de plural.", "punctaj": 1 }
 ]

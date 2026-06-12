@@ -1,74 +1,40 @@
 [
-  {
-    "id": "civ-c3-i1", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Ce înseamnă că fiecare om este unic?",
-    "variante": ["Că nimeni nu e la fel ca altul", "Că toți suntem la fel", "Că suntem roboți", "Că nu avem nume"], "raspunsCorect": 0,
-    "explicatie": "Fiecare persoană este unică, diferită de ceilalți, și valoroasă.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i2", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care este o însușire bună a unei persoane?",
-    "variante": ["Harnică", "Răutăcioasă", "Mincinoasă", "Leneșă"], "raspunsCorect": 0,
-    "explicatie": "A fi harnic este o însușire bună.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i3", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere",
-    "enunt": "Care este un grup din care face parte un copil?",
-    "variante": ["Familia", "Un nor", "O carte", "Un munte"], "raspunsCorect": 0,
-    "explicatie": "Familia este un grup din care facem parte.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i4", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere",
-    "enunt": "La școală, din ce grup face parte elevul?",
-    "variante": ["Clasa", "Echipa de fotbal a orașului", "Familia bunicilor", "Niciunul"], "raspunsCorect": 0,
-    "explicatie": "La școală, elevul face parte din clasă.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i5", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este un drept al copilului?",
-    "variante": ["Dreptul la educație", "Dreptul de a nu asculta pe nimeni", "Dreptul de a strica lucruri", "Dreptul de a fi nepoliticos"], "raspunsCorect": 0,
-    "explicatie": "Copiii au dreptul la educație.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i6", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este o îndatorire a copilului?",
-    "variante": ["Să învețe și să fie respectuos", "Să nu facă nimic", "Să se certe", "Să strice jucării"], "raspunsCorect": 0,
-    "explicatie": "O îndatorire este să învățăm și să fim respectuoși.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i7", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este o formulă de politețe?",
-    "variante": ["Mulțumesc", "Pleacă", "Taci", "Nu vreau"], "raspunsCorect": 0,
-    "explicatie": "„Mulțumesc” este o formulă de politețe.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i8", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere",
-    "enunt": "Ce facem în grupurile din care facem parte?",
-    "variante": ["Ne ajutăm unii pe alții", "Ne certăm mereu", "Stăm singuri", "Ne ignorăm"], "raspunsCorect": 0,
-    "explicatie": "În grupuri ne ajutăm și respectăm reguli comune.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i9", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Fiecare persoană este valoroasă și merită respect.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Fiecare om este valoros și merită respect.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i10", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Copiii au și drepturi, și îndatoriri.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Avem drepturi (educație, joacă) și îndatoriri (învățat, respect).", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i11", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Folosirea cuvintelor „te rog” și „mulțumesc” arată politețe.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Acestea sunt formule de politețe.", "punctaj": 1
-  },
-  {
-    "id": "civ-c3-i12", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere",
-    "enunt": "Cine fac parte, de obicei, din familie?",
-    "variante": ["Părinți, frați, bunici", "Colegii de clasă", "Vânzătorii din magazin", "Trecătorii de pe stradă"], "raspunsCorect": 0,
-    "explicatie": "Din familie fac parte părinții, frații, bunicii.", "punctaj": 1
-  }
+  { "id": "civ-c3-u1", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce înseamnă că fiecare om este unic?", "variante": ["Că nimeni nu e la fel ca altul", "Că toți suntem la fel", "Că suntem roboți", "Că nu avem nume"], "raspunsCorect": 0, "explicatie": "Fiecare persoană este unică și valoroasă.", "punctaj": 1 },
+  { "id": "civ-c3-u2", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este o însușire bună a unei persoane?", "variante": ["Harnică", "Răutăcioasă", "Mincinoasă", "Leneșă"], "raspunsCorect": 0, "explicatie": "A fi harnic este o însușire bună.", "punctaj": 1 },
+  { "id": "civ-c3-u3", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "usor", "enunt": "Care este un grup din care face parte un copil?", "variante": ["Familia", "Un nor", "O carte", "Un munte"], "raspunsCorect": 0, "explicatie": "Familia este un grup.", "punctaj": 1 },
+  { "id": "civ-c3-u4", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "usor", "enunt": "La școală, din ce grup face parte elevul?", "variante": ["Clasa", "Echipa orașului", "Familia bunicilor", "Niciunul"], "raspunsCorect": 0, "explicatie": "La școală face parte din clasă.", "punctaj": 1 },
+  { "id": "civ-c3-u5", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este un drept al copilului?", "variante": ["Dreptul la educație", "Dreptul de a striga la toți", "Dreptul de a strica lucruri", "Dreptul de a fi nepoliticos"], "raspunsCorect": 0, "explicatie": "Copiii au dreptul la educație.", "punctaj": 1 },
+  { "id": "civ-c3-u6", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este o formulă de politețe?", "variante": ["Mulțumesc", "Pleacă", "Taci", "Nu vreau"], "raspunsCorect": 0, "explicatie": "„Mulțumesc” este politicos.", "punctaj": 1 },
+  { "id": "civ-c3-u7", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care este o îndatorire a copilului?", "variante": ["Să învețe și să fie respectuos", "Să nu facă nimic", "Să se certe", "Să strice jucării"], "raspunsCorect": 0, "explicatie": "Să învățăm și să fim respectuoși.", "punctaj": 1 },
+  { "id": "civ-c3-u8", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "usor", "enunt": "Ce facem în grupurile din care facem parte?", "variante": ["Ne ajutăm unii pe alții", "Ne certăm mereu", "Stăm singuri", "Ne ignorăm"], "raspunsCorect": 0, "explicatie": "Ne ajutăm și respectăm reguli comune.", "punctaj": 1 },
+  { "id": "civ-c3-u9", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Fiecare persoană este valoroasă și merită respect.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Fiecare om merită respect.", "punctaj": 1 },
+  { "id": "civ-c3-u10", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Copiii au și drepturi, și îndatoriri.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Avem drepturi și îndatoriri.", "punctaj": 1 },
+  { "id": "civ-c3-u11", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "„te rog” și „mulțumesc” arată politețe.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Sunt formule de politețe.", "punctaj": 1 },
+  { "id": "civ-c3-u12", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "usor", "enunt": "Cine fac parte din familie?", "variante": ["Părinți, frați, bunici", "Colegii de clasă", "Vânzătorii", "Trecătorii"], "raspunsCorect": 0, "explicatie": "Părinții, frații, bunicii.", "punctaj": 1 },
+
+  { "id": "civ-c3-m1", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Doi copii sunt diferiți: unul cântă, altul desenează. Ce arată asta?", "variante": ["Că fiecare are talentul lui", "Că unul e mai bun", "Că sunt la fel", "Că nu contează"], "raspunsCorect": 0, "explicatie": "Fiecare e unic, cu talentele lui.", "punctaj": 1 },
+  { "id": "civ-c3-m2", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "mediu", "enunt": "În grupul de prieteni, cum ne purtăm?", "variante": ["Cu respect și ajutor", "Ne certăm", "Ne ignorăm", "Ne lăudăm"], "raspunsCorect": 0, "explicatie": "Cu respect și sprijin reciproc.", "punctaj": 1 },
+  { "id": "civ-c3-m3", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care pereche de drept și îndatorire este corectă?", "variante": ["Dreptul la educație — îndatorirea să înveți", "Dreptul la joacă — îndatorirea să strici", "Dreptul la mâncare — îndatorirea să țipi", "Niciuna"], "raspunsCorect": 0, "explicatie": "Dreptul la educație merge cu îndatorirea de a învăța.", "punctaj": 1 },
+  { "id": "civ-c3-m4", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ceri ceva unui adult. Ce spui ca să fii politicos?", "variante": ["Vă rog frumos", "Dă-mi acum", "Repede", "Trebuie"], "raspunsCorect": 0, "explicatie": "„Vă rog frumos” este politicos.", "punctaj": 1 },
+  { "id": "civ-c3-m5", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "mediu", "enunt": "Care NU este un grup din care faci parte de obicei?", "variante": ["Norii de pe cer", "Familia", "Clasa", "Echipa de la sport"], "raspunsCorect": 0, "explicatie": "Norii nu sunt un grup din care facem parte.", "punctaj": 1 },
+  { "id": "civ-c3-m6", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce trebuie să respectăm fiecare persoană?", "variante": ["Pentru că fiecare e valoroasă și unică", "Pentru că toți sunt la fel", "Doar dacă ne place de ei", "Nu trebuie"], "raspunsCorect": 0, "explicatie": "Fiecare om e valoros și merită respect.", "punctaj": 1 },
+  { "id": "civ-c3-m7", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Un coleg a vorbit primul. Ce e politicos să faci?", "variante": ["Să-l ascult, apoi să vorbesc", "Să-l întrerup", "Să țip mai tare", "Să plec"], "raspunsCorect": 0, "explicatie": "Politețea cere să ascultăm și să așteptăm rândul.", "punctaj": 1 },
+  { "id": "civ-c3-m8", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este o îndatorire față de clasă?", "variante": ["Să păstrez curățenia și ordinea", "Să stric băncile", "Să murdăresc", "Să lipsesc mereu"], "raspunsCorect": 0, "explicatie": "Avem datoria să păstrăm curățenia și ordinea.", "punctaj": 1 },
+  { "id": "civ-c3-m9", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum putem afla calitățile cuiva?", "variante": ["Observând cum se poartă și ce face", "După cât e de înalt", "După culoarea hainelor", "Nu putem"], "raspunsCorect": 0, "explicatie": "Calitățile se văd din purtare și fapte.", "punctaj": 1 },
+  { "id": "civ-c3-m10", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce avem reguli în fiecare grup?", "variante": ["Ca să ne înțelegem și să fie ordine", "Ca să ne plictisim", "Fără motiv", "Ca să ne certăm"], "raspunsCorect": 0, "explicatie": "Regulile ajută înțelegerea și ordinea.", "punctaj": 1 },
+  { "id": "civ-c3-m11", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Dreptul la educație înseamnă că ai voie să mergi la școală și să înveți.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Este un drept de bază al copilului.", "punctaj": 1 },
+  { "id": "civ-c3-m12", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce spui când cineva te ajută?", "variante": ["Mulțumesc!", "Pleacă!", "Nu vreau!", "Repede!"], "raspunsCorect": 0, "explicatie": "Spunem politicos „Mulțumesc!”.", "punctaj": 1 },
+
+  { "id": "civ-c3-g1", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție arată corect legătura drept–îndatorire?", "variante": ["Am dreptul la educație, deci am îndatorirea să învăț și să respect școala", "Am dreptul la joacă, deci pot strica jucăriile altora", "Am dreptul la mâncare, deci pot risipi", "Niciuna"], "raspunsCorect": 0, "explicatie": "Fiecare drept vine cu o îndatorire potrivită.", "punctaj": 1 },
+  { "id": "civ-c3-g2", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un coleg e diferit de tine (alt talent, altă fire). Cum te porți corect?", "variante": ["Îl respect și apreciez ce e bun la el", "Râd de diferențe", "Îl evit", "Îl schimb"], "raspunsCorect": 0, "explicatie": "Respectăm unicitatea fiecăruia.", "punctaj": 1 },
+  { "id": "civ-c3-g3", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR grupuri din care poate face parte un copil?", "variante": ["familia, clasa, echipa de sport", "familia, norul, clasa", "clasa, muntele, echipa", "familia, cartea, clasa"], "raspunsCorect": 0, "explicatie": "familia, clasa, echipa de sport sunt grupuri reale.", "punctaj": 1 },
+  { "id": "civ-c3-g4", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Doi colegi vor să vorbească în același timp. Care este soluția politicoasă?", "variante": ["Vorbesc pe rând și se ascultă", "Vorbesc amândoi mai tare", "Pleacă supărați", "Se ceartă"], "raspunsCorect": 0, "explicatie": "Politețea: pe rând și cu ascultare.", "punctaj": 1 },
+  { "id": "civ-c3-g5", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care faptă NU este o îndatorire bună?", "variante": ["Să copiezi la test", "Să înveți", "Să fii respectuos", "Să ajuți un coleg"], "raspunsCorect": 0, "explicatie": "Să copiezi nu este corect; nu e o îndatorire bună.", "punctaj": 1 },
+  { "id": "civ-c3-g6", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "De ce e bine că oamenii sunt diferiți?", "variante": ["Pentru că fiecare aduce ceva bun și ne completăm", "Pentru că ne putem certa", "Pentru că nu contează", "Nu e bine"], "raspunsCorect": 0, "explicatie": "Diversitatea ne îmbogățește; ne completăm unii pe alții.", "punctaj": 1 },
+  { "id": "civ-c3-g7", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "alegere", "dificultate": "greu", "enunt": "Care este ordinea de la grupul mic la cel mare?", "variante": ["familia, clasa, școala", "școala, clasa, familia", "clasa, familia, școala", "școala, familia, clasa"], "raspunsCorect": 0, "explicatie": "De la mic la mare: familia, clasa, școala.", "punctaj": 1 },
+  { "id": "civ-c3-g8", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un copil nou nu cunoaște regulile clasei. Ce e civilizat să faci?", "variante": ["Îl ajut cu blândețe să le învețe", "Râd de el", "Îl pârăsc", "Îl ignor"], "raspunsCorect": 0, "explicatie": "Comportamentul civic: să-l ajutăm cu bunătate.", "punctaj": 1 },
+  { "id": "civ-c3-g9", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care șir conține DOAR formule de politețe?", "variante": ["te rog, mulțumesc, scuză-mă", "te rog, taci, mulțumesc", "scuză-mă, pleacă, mulțumesc", "mulțumesc, repede, acum"], "raspunsCorect": 0, "explicatie": "te rog, mulțumesc, scuză-mă sunt politicoase.", "punctaj": 1 },
+  { "id": "civ-c3-g10", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "A respecta unicitatea fiecăruia înseamnă să prețuiești ce e diferit și bun la ceilalți.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Respectăm și apreciem diferențele.", "punctaj": 1 },
+  { "id": "civ-c3-g11", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ai dreptul la joacă. Care este îndatorirea potrivită?", "variante": ["Să respect și jocul/jucăriile celorlalți", "Să iau jucăriile altora", "Să mă joc doar singur", "Să stric jocul"], "raspunsCorect": 0, "explicatie": "Dreptul la joacă vine cu respectul pentru ceilalți.", "punctaj": 1 },
+  { "id": "civ-c3-g12", "clasa": "clasa-3", "materie": "educatie-civica", "competenta": "1.2", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "În fiecare grup (familie, clasă, echipă) avem reguli și ne ajutăm reciproc.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Regulile și sprijinul reciproc țin grupul unit.", "punctaj": 1 }
 ]

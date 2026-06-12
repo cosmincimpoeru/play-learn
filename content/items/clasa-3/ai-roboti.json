@@ -1,74 +1,40 @@
 [
-  {
-    "id": "ai-c3-i1", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "„Repetă de 5 ori: bate din palme.” De câte ori bați?",
-    "variante": ["3", "4", "5", "6"], "raspunsCorect": 2,
-    "explicatie": "Bucla repetă de 5 ori, deci bați de 5 ori.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i2", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Cum scrii mai scurt: pas, pas, pas, pas?",
-    "variante": ["repetă de 4 ori: pas", "repetă de 2 ori: pas", "pas o dată", "stop"], "raspunsCorect": 0,
-    "explicatie": "Patru pași = „repetă de 4 ori: pas”.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i3", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "„Repetă de 3 ori: sari și strigă hop.” Câte „hop” se aud?",
-    "variante": ["1", "2", "3", "6"], "raspunsCorect": 2,
-    "explicatie": "Bucla repetă de 3 ori, deci 3 „hop”.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i4", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Robotul trebuie să meargă 3 căsuțe la dreapta. Ce comandă repeți de 3 ori?",
-    "variante": ["dreapta", "stânga", "sus", "jos"], "raspunsCorect": 0,
-    "explicatie": "Repeți comanda „dreapta” de 3 ori.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i5", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Ținta e cu 2 căsuțe la dreapta și 1 sus. Ce secvență e corectă?",
-    "variante": ["dreapta, dreapta, sus", "sus, sus, dreapta", "stânga, jos", "jos, jos, jos"], "raspunsCorect": 0,
-    "explicatie": "2 la dreapta + 1 sus = dreapta, dreapta, sus.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i6", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "O comandă mută robotul cu...?",
-    "variante": ["O căsuță", "Trei căsuțe", "Tot tabloul", "Niciuna"], "raspunsCorect": 0,
-    "explicatie": "Fiecare comandă mută robotul cu o căsuță.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i7", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Cum ne ajută inteligența artificială?",
-    "variante": ["Traduce și recomandă", "Gătește singură", "Spală vasele cu mâna", "Doarme"], "raspunsCorect": 0,
-    "explicatie": "AI traduce limbi, recomandă conținut și recunoaște vocea.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i8", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Din ce învață un program AI?",
-    "variante": ["Din multe exemple (date)", "Din nimic", "Dintr-o singură poză", "Din somn"], "raspunsCorect": 0,
-    "explicatie": "AI învață din multe exemple, adică din date.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i9", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Când o aplicație îți sugerează un desen animat care îți place, folosește...?",
-    "variante": ["AI (recomandare)", "Un creion", "O hartă", "O lingură"], "raspunsCorect": 0,
-    "explicatie": "Aplicația folosește AI ca să recomande ce îți place.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i10", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "O buclă ne ajută să scriem mai scurt pașii care se repetă.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Bucla scurtează pașii repetați.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i11", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Pe o grilă, comenzile „sus, jos, stânga, dreapta” mișcă robotul.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Acestea sunt comenzile de mișcare pe grilă.", "punctaj": 1
-  },
-  {
-    "id": "ai-c3-i12", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals",
-    "enunt": "Un asistent vocal recunoaște vocea folosind inteligența artificială.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Recunoașterea vocii folosește AI.", "punctaj": 1
-  }
+  { "id": "ai-c3-u1", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Repetă de 5 ori: bate din palme.” De câte ori bați?", "variante": ["3", "4", "5", "6"], "raspunsCorect": 2, "explicatie": "De 5 ori.", "punctaj": 1 },
+  { "id": "ai-c3-u2", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum scrii mai scurt: pas, pas, pas, pas?", "variante": ["repetă de 4 ori: pas", "repetă de 2 ori: pas", "pas o dată", "stop"], "raspunsCorect": 0, "explicatie": "Patru pași = „repetă de 4 ori: pas”.", "punctaj": 1 },
+  { "id": "ai-c3-u3", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Robotul trebuie să meargă 3 căsuțe la dreapta. Ce comandă repeți de 3 ori?", "variante": ["dreapta", "stânga", "sus", "jos"], "raspunsCorect": 0, "explicatie": "Repeți „dreapta” de 3 ori.", "punctaj": 1 },
+  { "id": "ai-c3-u4", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "O comandă mută robotul cu...?", "variante": ["O căsuță", "Trei căsuțe", "Tot tabloul", "Niciuna"], "raspunsCorect": 0, "explicatie": "Fiecare comandă mută robotul cu o căsuță.", "punctaj": 1 },
+  { "id": "ai-c3-u5", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum ne ajută inteligența artificială?", "variante": ["Traduce și recomandă", "Gătește singură", "Spală vasele cu mâna", "Doarme"], "raspunsCorect": 0, "explicatie": "AI traduce, recomandă și recunoaște vocea.", "punctaj": 1 },
+  { "id": "ai-c3-u6", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Din ce învață un program AI?", "variante": ["Din multe exemple (date)", "Din nimic", "Dintr-o singură poză", "Din somn"], "raspunsCorect": 0, "explicatie": "AI învață din multe exemple (date).", "punctaj": 1 },
+  { "id": "ai-c3-u7", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Repetă de 3 ori: sari” — câte sărituri?", "variante": ["1", "2", "3", "6"], "raspunsCorect": 2, "explicatie": "3 sărituri.", "punctaj": 1 },
+  { "id": "ai-c3-u8", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce comenzi mișcă robotul pe grilă?", "variante": ["sus, jos, stânga, dreapta", "roșu, verde, albastru", "unu, doi, trei", "mare, mic"], "raspunsCorect": 0, "explicatie": "Comenzile de mișcare: sus, jos, stânga, dreapta.", "punctaj": 1 },
+  { "id": "ai-c3-u9", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "O buclă ne ajută să scriem mai scurt pașii care se repetă.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Bucla scurtează pașii repetați.", "punctaj": 1 },
+  { "id": "ai-c3-u10", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Un asistent vocal recunoaște vocea folosind AI.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Folosește inteligența artificială.", "punctaj": 1 },
+  { "id": "ai-c3-u11", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Când o aplicație îți sugerează un desen animat care îți place, folosește...?", "variante": ["AI (recomandare)", "Un creion", "O hartă", "O lingură"], "raspunsCorect": 0, "explicatie": "Folosește AI ca să recomande.", "punctaj": 1 },
+  { "id": "ai-c3-u12", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "„Repetă de 2 ori: pas” înseamnă câți pași?", "variante": ["1", "2", "3", "4"], "raspunsCorect": 1, "explicatie": "2 pași.", "punctaj": 1 },
+
+  { "id": "ai-c3-m1", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ținta e cu 2 căsuțe la dreapta și 1 sus. Ce secvență e corectă?", "variante": ["dreapta, dreapta, sus", "sus, sus, dreapta", "stânga, jos", "jos, jos, jos"], "raspunsCorect": 0, "explicatie": "2 la dreapta + 1 sus.", "punctaj": 1 },
+  { "id": "ai-c3-m2", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "„Repetă de 3 ori: sari și spune hop.” Câte „hop”?", "variante": ["1", "2", "3", "6"], "raspunsCorect": 2, "explicatie": "3 „hop”.", "punctaj": 1 },
+  { "id": "ai-c3-m3", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum scrii cu o buclă: pas, sari, pas, sari, pas, sari?", "variante": ["repetă de 3 ori: pas, sari", "repetă de 2 ori: pas", "repetă de 6 ori: pas", "pas o dată"], "raspunsCorect": 0, "explicatie": "Grupul „pas, sari” se repetă de 3 ori.", "punctaj": 1 },
+  { "id": "ai-c3-m4", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Robotul e jos-stânga; ținta e cu 3 la dreapta. Ce comandă și de câte ori?", "variante": ["dreapta, de 3 ori", "stânga, de 3 ori", "sus, de 3 ori", "jos, de 3 ori"], "raspunsCorect": 0, "explicatie": "„dreapta” repetat de 3 ori.", "punctaj": 1 },
+  { "id": "ai-c3-m5", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cum recunoaște AI o pisică?", "variante": ["A învățat din multe poze cu pisici", "Ghicește", "Întreabă", "Nu poate"], "raspunsCorect": 0, "explicatie": "A învățat tiparele din multe exemple.", "punctaj": 1 },
+  { "id": "ai-c3-m6", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "„Repetă de 4 ori: înainte.” Câte căsuțe înaintează robotul?", "variante": ["2", "3", "4", "5"], "raspunsCorect": 2, "explicatie": "4 căsuțe.", "punctaj": 1 },
+  { "id": "ai-c3-m7", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Robotul trebuie să facă un pătrat. Câte comenzi „înainte + întoarce” repetă?", "variante": ["3", "4", "5", "2"], "raspunsCorect": 1, "explicatie": "Un pătrat are 4 laturi → repetă de 4 ori.", "punctaj": 1 },
+  { "id": "ai-c3-m8", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este un exemplu de AI care ne ajută zilnic?", "variante": ["Traducerea automată", "O lingură", "Un creion", "O minge"], "raspunsCorect": 0, "explicatie": "Traducerea automată folosește AI.", "punctaj": 1 },
+  { "id": "ai-c3-m9", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "„Repetă de 2 ori: bate de 3 ori din palme.” Câte bătăi în total?", "variante": ["3", "5", "6", "2"], "raspunsCorect": 2, "explicatie": "2 × 3 = 6 bătăi.", "punctaj": 1 },
+  { "id": "ai-c3-m10", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Robotul e la (0,0); ținta la (2,2). Câte mișcări minim are nevoie?", "variante": ["2", "4", "6", "8"], "raspunsCorect": 1, "explicatie": "2 la dreapta + 2 în sus = 4 mișcări.", "punctaj": 1 },
+  { "id": "ai-c3-m11", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "AI învață din date și ne ajută la traduceri și recomandări.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! AI învață din date.", "punctaj": 1 },
+  { "id": "ai-c3-m12", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Cu o buclă „repetă de 10 ori: pas”, câți pași face robotul?", "variante": ["1", "5", "10", "100"], "raspunsCorect": 2, "explicatie": "10 pași.", "punctaj": 1 },
+
+  { "id": "ai-c3-g1", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Robotul e la (1,1), ținta la (1,4). Ce comandă și de câte ori (sus crește al doilea număr)?", "variante": ["sus, de 3 ori", "sus, de 4 ori", "dreapta, de 3 ori", "jos, de 3 ori"], "raspunsCorect": 0, "explicatie": "De la 1 la 4 sunt 3 pași în sus.", "punctaj": 1 },
+  { "id": "ai-c3-g2", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Repetă de 3 ori: pas, pas, sari.” Câte sărituri și câți pași?", "variante": ["3 sărituri, 6 pași", "3 sărituri, 3 pași", "1 săritură, 6 pași", "6 sărituri, 3 pași"], "raspunsCorect": 0, "explicatie": "Per repetare: 2 pași + 1 săritură; × 3 = 6 pași, 3 sărituri.", "punctaj": 1 },
+  { "id": "ai-c3-g3", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Robotul merge: dreapta, dreapta, sus, stânga. Cu câte căsuțe la dreapta a rămas față de start?", "variante": ["0", "1", "2", "3"], "raspunsCorect": 1, "explicatie": "2 dreapta − 1 stânga = 1 căsuță la dreapta.", "punctaj": 1 },
+  { "id": "ai-c3-g4", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pentru a desena un triunghi (3 laturi), de câte ori repeți „linie + întoarce”?", "variante": ["2", "3", "4", "6"], "raspunsCorect": 1, "explicatie": "Triunghiul are 3 laturi → de 3 ori.", "punctaj": 1 },
+  { "id": "ai-c3-g5", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Un AI antrenat doar cu poze de pisici albe vede o pisică neagră. Ce se poate întâmpla?", "variante": ["Ar putea greși, fiindcă n-a învățat din exemple variate", "Sigur o recunoaște", "Devine alb", "Se strică"], "raspunsCorect": 0, "explicatie": "Cu exemple puține/asemănătoare, AI poate greși la ceva nou.", "punctaj": 1 },
+  { "id": "ai-c3-g6", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Robotul e la (3,2), ținta la (1,2). Ce comandă și de câte ori (stânga scade primul număr)?", "variante": ["stânga, de 2 ori", "dreapta, de 2 ori", "sus, de 2 ori", "jos, de 2 ori"], "raspunsCorect": 0, "explicatie": "De la 3 la 1 sunt 2 pași la stânga.", "punctaj": 1 },
+  { "id": "ai-c3-g7", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Repetă de 5 ori: pas.” Apoi „repetă de 2 ori: sari.” Câte acțiuni în total?", "variante": ["5", "7", "10", "2"], "raspunsCorect": 1, "explicatie": "5 pași + 2 sărituri = 7 acțiuni.", "punctaj": 1 },
+  { "id": "ai-c3-g8", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Cum facem un AI să recunoască mai bine TOATE pisicile?", "variante": ["Îi arătăm multe poze diferite cu pisici", "O singură poză", "Doar pisici albe", "Nicio poză"], "raspunsCorect": 0, "explicatie": "Cu exemple multe și variate învață mai bine.", "punctaj": 1 },
+  { "id": "ai-c3-g9", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Secvența „dreapta, sus, dreapta, sus” duce robotul cu câte căsuțe la dreapta și câte în sus?", "variante": ["2 dreapta, 2 sus", "4 dreapta, 0 sus", "0 dreapta, 4 sus", "1 dreapta, 1 sus"], "raspunsCorect": 0, "explicatie": "2 comenzi dreapta + 2 comenzi sus.", "punctaj": 1 },
+  { "id": "ai-c3-g10", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care buclă desenează cel mai mare drum: A) repetă de 3 ori: pas; B) repetă de 2 ori: pas, pas?", "variante": ["B (4 pași)", "A (3 pași)", "Sunt egale", "Niciuna"], "raspunsCorect": 0, "explicatie": "A = 3 pași; B = 2 × 2 = 4 pași. B e mai lung.", "punctaj": 1 },
+  { "id": "ai-c3-g11", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care propoziție despre AI este ADEVĂRATĂ?", "variante": ["AI învață din date și uneori poate greși", "AI știe totul fără să învețe", "AI nu greșește niciodată", "AI gândește exact ca un om"], "raspunsCorect": 0, "explicatie": "AI învață din date și poate greși.", "punctaj": 1 },
+  { "id": "ai-c3-g12", "clasa": "clasa-3", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Pe o grilă, „dreapta” apoi „stânga” readuce robotul în aceeași coloană.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! O comandă anulează pe cealaltă.", "punctaj": 1 }
 ]

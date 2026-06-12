@@ -1,74 +1,40 @@
 [
-  {
-    "id": "ai-preg-i1", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Ce este un robot?",
-    "variante": ["Un animal", "O mașină care ne ajută", "O floare", "O carte"], "raspunsCorect": 1,
-    "explicatie": "Un robot este o mașină care poate face anumite lucruri ca să ne ajute.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i2", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere",
-    "enunt": "Care dintre acestea este un robot care ne ajută?",
-    "variante": ["Aspiratorul-robot", "Un măr", "Un nor", "O pernă"], "raspunsCorect": 0,
-    "explicatie": "Aspiratorul-robot curăță podeaua singur — este un robot.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i3", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Cum face un robot ceea ce îi cerem?",
-    "variante": ["Ghicește singur", "Urmează pașii pe care îi spunem", "Doarme", "Aleargă"], "raspunsCorect": 1,
-    "explicatie": "Robotul urmează pașii (instrucțiunile) pe care i le dăm.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i4", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere",
-    "enunt": "Care este PRIMUL pas ca să faci un sandviș?",
-    "variante": ["Pui brânza", "Iei pâinea", "Mănânci", "Speli vasele"], "raspunsCorect": 1,
-    "explicatie": "Întâi iei pâinea, apoi pui brânza.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i5", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Completează șirul: 🔴🔵🔴🔵🔴 ...?",
-    "variante": ["🔴", "🔵", "🟢", "🟡"], "raspunsCorect": 1,
-    "explicatie": "Șirul alternează roșu-albastru, deci urmează 🔵.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i6", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "DACĂ semaforul este verde, ATUNCI ...?",
-    "variante": ["Mă opresc", "Pot să trec", "Dorm", "Alerg înapoi"], "raspunsCorect": 1,
-    "explicatie": "Dacă e verde, atunci putem trece în siguranță.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i7", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce NU se potrivește cu celelalte?",
-    "variante": ["Robot", "Calculator", "Telefon", "Banană"], "raspunsCorect": 3,
-    "explicatie": "Banana nu este o mașină — celelalte sunt aparate.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i8", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "DACĂ plouă, ATUNCI ce iei cu tine?",
-    "variante": ["Umbrela", "Înghețata", "Mingea", "Săniuța"], "raspunsCorect": 0,
-    "explicatie": "Dacă plouă, luăm umbrela ca să nu ne udăm.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i9", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Un robot face exact ce îi spunem, pas cu pas.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Robotul urmează exact pașii primiți.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i10", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals",
-    "enunt": "Roboții ne pot ajuta la treburi în casă.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! De exemplu, aspiratorul-robot curăță singur.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i11", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Completează șirul: ⬛🔺⬛🔺⬛ ...?",
-    "variante": ["⬛", "🔺", "⭕", "🔵"], "raspunsCorect": 1,
-    "explicatie": "Șirul alternează pătrat-triunghi, deci urmează 🔺.", "punctaj": 1
-  },
-  {
-    "id": "ai-preg-i12", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals",
-    "enunt": "Dacă dăm pașii în ordine greșită, robotul poate greși.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! De aceea instrucțiunile trebuie să fie în ordine și clare.", "punctaj": 1
-  }
+  { "id": "ai-preg-u1", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce este un robot?", "variante": ["Un animal", "O mașină care ne ajută", "O floare", "O carte"], "raspunsCorect": 1, "explicatie": "Un robot este o mașină care ne ajută.", "punctaj": 1 },
+  { "id": "ai-preg-u2", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care robot curăță podeaua singur?", "variante": ["Aspiratorul-robot", "Un măr", "Un nor", "O pernă"], "raspunsCorect": 0, "explicatie": "Aspiratorul-robot curăță singur.", "punctaj": 1 },
+  { "id": "ai-preg-u3", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Completează șirul: 🔴🔵🔴🔵🔴 ...?", "variante": ["🔴", "🔵", "🟢", "🟡"], "raspunsCorect": 1, "explicatie": "Alternează roșu-albastru → urmează 🔵.", "punctaj": 1 },
+  { "id": "ai-preg-u4", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ semaforul este verde, ATUNCI ...?", "variante": ["Mă opresc", "Pot să trec", "Dorm", "Fug înapoi"], "raspunsCorect": 1, "explicatie": "La verde putem trece.", "punctaj": 1 },
+  { "id": "ai-preg-u5", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce NU se potrivește?", "variante": ["Robot", "Calculator", "Telefon", "Banană"], "raspunsCorect": 3, "explicatie": "Banana nu e o mașină.", "punctaj": 1 },
+  { "id": "ai-preg-u6", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ plouă, ATUNCI ce iei?", "variante": ["Umbrela", "Înghețata", "Mingea", "Săniuța"], "raspunsCorect": 0, "explicatie": "Dacă plouă, luăm umbrela.", "punctaj": 1 },
+  { "id": "ai-preg-u7", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "usor", "enunt": "Cum face un robot ce îi cerem?", "variante": ["Ghicește", "Urmează pașii", "Doarme", "Aleargă"], "raspunsCorect": 1, "explicatie": "Robotul urmează pașii.", "punctaj": 1 },
+  { "id": "ai-preg-u8", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Completează: ⬛🔺⬛🔺⬛ ...?", "variante": ["⬛", "🔺", "⭕", "🔵"], "raspunsCorect": 1, "explicatie": "Alternează pătrat-triunghi → urmează 🔺.", "punctaj": 1 },
+  { "id": "ai-preg-u9", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Un robot face exact ce îi spunem, pas cu pas.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Urmează exact pașii.", "punctaj": 1 },
+  { "id": "ai-preg-u10", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Roboții ne pot ajuta la treburi în casă.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! De exemplu aspiratorul-robot.", "punctaj": 1 },
+  { "id": "ai-preg-u11", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "DACĂ ți-e somn, ATUNCI ...?", "variante": ["Mă culc", "Alerg", "Mănânc înghețată", "Sar coarda"], "raspunsCorect": 0, "explicatie": "Dacă ți-e somn, te culci.", "punctaj": 1 },
+  { "id": "ai-preg-u12", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care aparat ne ajută să spălăm hainele?", "variante": ["Mașina de spălat", "Mărul", "Cartea", "Balonul"], "raspunsCorect": 0, "explicatie": "Mașina de spălat ne ajută cu hainele.", "punctaj": 1 },
+
+  { "id": "ai-preg-m1", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care este PRIMUL pas ca să faci un sandviș?", "variante": ["Pui brânza", "Iei pâinea", "Mănânci", "Speli vasele"], "raspunsCorect": 1, "explicatie": "Întâi iei pâinea.", "punctaj": 1 },
+  { "id": "ai-preg-m2", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "DACĂ e frig afară, ATUNCI ce porți?", "variante": ["Haina groasă", "Tricou subțire", "Costum de baie", "Nimic"], "raspunsCorect": 0, "explicatie": "Dacă e frig, porți haină groasă.", "punctaj": 1 },
+  { "id": "ai-preg-m3", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Completează: 🌟🌟🌙🌟🌟🌙 ...?", "variante": ["🌟", "🌙", "☀️", "⭐"], "raspunsCorect": 0, "explicatie": "Regula: două stele, apoi o lună → urmează 🌟.", "punctaj": 1 },
+  { "id": "ai-preg-m4", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce se întâmplă dacă dăm pașii în ordine greșită?", "variante": ["Robotul poate greși", "Robotul devine mai rapid", "Nu se schimbă nimic", "Robotul cântă"], "raspunsCorect": 0, "explicatie": "Ordinea greșită face robotul să greșească.", "punctaj": 1 },
+  { "id": "ai-preg-m5", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care dintre acestea NU este un aparat care ne ajută?", "variante": ["Frigiderul", "Mașina de spălat", "Aspiratorul", "Floarea"], "raspunsCorect": 3, "explicatie": "Floarea nu este un aparat.", "punctaj": 1 },
+  { "id": "ai-preg-m6", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "DACĂ e întuneric, ATUNCI ce faci?", "variante": ["Aprind lumina", "Închid ochii", "Alerg", "Cânt"], "raspunsCorect": 0, "explicatie": "Dacă e întuneric, aprindem lumina.", "punctaj": 1 },
+  { "id": "ai-preg-m7", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Pași pentru a te spăla pe mâini: 1) deschizi robinetul, 2) ... ?", "variante": ["Pui săpun", "Te culci", "Mănânci", "Pleci"], "raspunsCorect": 0, "explicatie": "După ce deschizi robinetul, pui săpun.", "punctaj": 1 },
+  { "id": "ai-preg-m8", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Completează: 🟢🟢🔴🟢🟢🔴🟢 ...?", "variante": ["🔴", "🟢", "🔵", "🟡"], "raspunsCorect": 1, "explicatie": "Regula: două verzi, un roșu. După un verde mai urmează un verde.", "punctaj": 1 },
+  { "id": "ai-preg-m9", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "mediu", "enunt": "De ce trebuie instrucțiunile să fie clare?", "variante": ["Ca robotul să facă corect", "Ca să fie mai multe", "Ca să dureze mai mult", "Nu contează"], "raspunsCorect": 0, "explicatie": "Instrucțiunile clare ajută robotul să facă corect.", "punctaj": 1 },
+  { "id": "ai-preg-m10", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "mediu", "enunt": "La ce ne ajută un telefon?", "variante": ["Să vorbim de la distanță", "Să gătim ciorbă", "Să măturăm", "Să udăm florile"], "raspunsCorect": 0, "explicatie": "Telefonul ne ajută să vorbim de la distanță.", "punctaj": 1 },
+  { "id": "ai-preg-m11", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "DACĂ ți-e foame, ATUNCI ...?", "variante": ["Mănânc", "Dorm toată ziua", "Alerg fără oprire", "Nu fac nimic"], "raspunsCorect": 0, "explicatie": "Dacă ți-e foame, mănânci.", "punctaj": 1 },
+  { "id": "ai-preg-m12", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "Pașii pentru o acțiune trebuie să fie în ordine.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Ordinea pașilor este importantă.", "punctaj": 1 },
+
+  { "id": "ai-preg-g1", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pași amestecați: A) mănânci, B) pui brânza, C) iei pâinea. Care e ordinea corectă?", "variante": ["C, B, A", "A, B, C", "B, C, A", "A, C, B"], "raspunsCorect": 0, "explicatie": "Întâi pâinea (C), apoi brânza (B), apoi mănânci (A).", "punctaj": 1 },
+  { "id": "ai-preg-g2", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Completează șirul: 🔺🔵🔵🔺🔵🔵🔺 ...?", "variante": ["🔺", "🔵", "🟢", "⬛"], "raspunsCorect": 1, "explicatie": "Regula: un triunghi, două cercuri. După triunghi urmează 🔵.", "punctaj": 1 },
+  { "id": "ai-preg-g3", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "DACĂ e cald ATUNCI iau apă, ALTFEL iau ceai cald. Afară sunt 35°C. Ce iei?", "variante": ["Apă", "Ceai cald", "Săniuța", "Mănuși"], "raspunsCorect": 0, "explicatie": "E cald (35°C), deci iei apă.", "punctaj": 1 },
+  { "id": "ai-preg-g4", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pași încălțat: 1) pui pantoful, 2) pui șoseta. Ce e GREȘIT?", "variante": ["Ordinea — întâi șoseta", "Nimic", "Lipsește mâncarea", "Prea mulți pași"], "raspunsCorect": 0, "explicatie": "Întâi pui șoseta, apoi pantoful.", "punctaj": 1 },
+  { "id": "ai-preg-g5", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "„Repetă de 3 ori: bate din palme.” De câte ori bați?", "variante": ["1", "2", "3", "6"], "raspunsCorect": 2, "explicatie": "„De 3 ori” → bați de 3 ori.", "punctaj": 1 },
+  { "id": "ai-preg-g6", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care e regula șirului: 🍎🍌🍎🍌?", "variante": ["Un măr, o banană, repetat", "Doar mere", "Doar banane", "Niciuna"], "raspunsCorect": 0, "explicatie": "Regula: măr, banană, repetat.", "punctaj": 1 },
+  { "id": "ai-preg-g7", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Robotul trebuie să meargă la ușă: dreapta, dreapta, ... mai trebuie 1 pas dreapta. Câți pași dreapta în total?", "variante": ["2", "3", "4", "1"], "raspunsCorect": 1, "explicatie": "dreapta, dreapta + încă unul = 3 pași.", "punctaj": 1 },
+  { "id": "ai-preg-g8", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "1.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care NU se potrivește cu celelalte?", "variante": ["Tabletă", "Telefon", "Calculator", "Scaun"], "raspunsCorect": 3, "explicatie": "Scaunul nu este un dispozitiv inteligent.", "punctaj": 1 },
+  { "id": "ai-preg-g9", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "DACĂ ai jucat ATUNCI strângi jucăriile. Ai terminat de jucat. Ce faci?", "variante": ["Strâng jucăriile", "Mai scot altele", "Plec", "Dorm pe jucării"], "raspunsCorect": 0, "explicatie": "Conform regulii, strângi jucăriile.", "punctaj": 1 },
+  { "id": "ai-preg-g10", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Completează: 1️⃣2️⃣1️⃣2️⃣1️⃣ ...?", "variante": ["1️⃣", "2️⃣", "3️⃣", "0️⃣"], "raspunsCorect": 1, "explicatie": "Alternează 1 și 2 → după 1 urmează 2.", "punctaj": 1 },
+  { "id": "ai-preg-g11", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "2.1", "tip": "alegere", "dificultate": "greu", "enunt": "Pași pentru a desena un om: 1) cap, 2) corp, 3) picioare. Ce desenezi AL TREILEA?", "variante": ["Capul", "Corpul", "Picioarele", "Soarele"], "raspunsCorect": 2, "explicatie": "Al treilea pas: picioarele.", "punctaj": 1 },
+  { "id": "ai-preg-g12", "clasa": "pregatitoare", "materie": "ai-roboti", "competenta": "3.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "„Repetă de 2 ori: sari” înseamnă că sari de două ori.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! „De 2 ori” = 2 sărituri.", "punctaj": 1 }
 ]

@@ -2,27 +2,124 @@
 
 import { useMemo, useState } from "react";
 import { genereazaFeedback } from "@/lib/feedback";
-import { construiesteTest } from "@/lib/test";
-import type { Item, RezultatTest } from "@/lib/types";
+import { itemiPeNivel, selecteazaTest } from "@/lib/test";
+import { NIVELURI, etichetaNivel } from "@/lib/taxonomie";
+import type { Dificultate, Item, RezultatTest } from "@/lib/types";
 
-// Test: exact 9 întrebări (sau câte există), corectare în browser,
-// feedback pe șabloane (fără AI) și export PDF prin tipărire.
-export function TestRunner({ itemi, majuscule }: { itemi: Item[]; majuscule: boolean }) {
-  const [seed, setSeed] = useState(() => Date.now() % 233280);
-  const test = useMemo(() => construiesteTest(itemi, seed), [itemi, seed]);
-  const [raspunsuri, setRaspunsuri] = useState<Record<string, number>>({});
-  const [trimis, setTrimis] = useState(false);
+// Test: alegi nivelul (Ușor/Mediu/Greu), apoi rezolvi exact 9 întrebări.
+// La retest, întrebările nu se repetă până se epuizează pool-ul nivelului
+// (memorăm întrebările văzute în localStorage).
+export function TestRunner({
+  itemi,
+  majuscule,
+  clasa,
+  materie,
+}: {
+  itemi: Item[];
+  majuscule: boolean;
+  clasa: string;
+  materie: string;
+}) {
+  const [nivel, setNivel] = useState<Dificultate | null>(null);
   const m = majuscule ? "majuscule" : "";
 
   if (itemi.length === 0) {
     return <p className="text-center font-bold">Momentan nu sunt teste aici. Revino curând!</p>;
   }
 
+  // Pasul 1: alegerea nivelului.
+  if (!nivel) {
+    return (
+      <section>
+        <h2 className={`mb-4 text-center text-xl font-extrabold text-brand-albastru ${m}`}>
+          Alege nivelul testului
+        </h2>
+        <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
+          {NIVELURI.map((n) => {
+            const cate = itemiPeNivel(itemi, n.id).length;
+            return (
+              <button
+                key={n.id}
+                onClick={() => setNivel(n.id)}
+                className={`flex min-h-[120px] flex-col items-center justify-center gap-2 rounded-xl2 p-6 text-white shadow-lg transition hover:scale-[1.03] ${n.culoare}`}
+              >
+                <span className="text-4xl">{n.emoji}</span>
+                <span className={`text-xl font-extrabold ${m}`}>{n.titlu}</span>
+              </button>
+            );
+          })}
+        </div>
+      </section>
+    );
+  }
+
+  return (
+    <TestNivel
+      itemi={itemi}
+      nivel={nivel}
+      majuscule={majuscule}
+      clasa={clasa}
+      materie={materie}
+      onSchimbaNivel={() => setNivel(null)}
+    />
+  );
+}
+
+function cheieVazute(clasa: string, materie: string, nivel: Dificultate) {
+  return `eduapp:vazute:${clasa}:${materie}:${nivel}`;
+}
+
+function TestNivel({
+  itemi,
+  nivel,
+  majuscule,
+  clasa,
+  materie,
+  onSchimbaNivel,
+}: {
+  itemi: Item[];
+  nivel: Dificultate;
+  majuscule: boolean;
+  clasa: string;
+  materie: string;
+  onSchimbaNivel: () => void;
+}) {
+  const m = majuscule ? "majuscule" : "";
+
+  // Pool-ul nivelului ales; dacă are sub 9 întrebări, completăm din toate.
+  const pool = useMemo(() => {
+    const peNivel = itemiPeNivel(itemi, nivel);
+    return peNivel.length >= 9 ? peNivel : itemi;
+  }, [itemi, nivel]);
+
+  const [seed, setSeed] = useState(() => Date.now() % 233280);
+
+  const test = useMemo(() => {
+    let vazute: string[] = [];
+    if (typeof window !== "undefined") {
+      try {
+        vazute = JSON.parse(localStorage.getItem(cheieVazute(clasa, materie, nivel)) || "[]");
+      } catch {
+        vazute = [];
+      }
+    }
+    const sel = selecteazaTest(pool, vazute, seed);
+    if (typeof window !== "undefined") {
+      localStorage.setItem(cheieVazute(clasa, materie, nivel), JSON.stringify(sel.vazute));
+    }
+    return sel.test;
+    // seed se schimbă la „Test nou”, declanșând o selecție nouă.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pool, seed, clasa, materie, nivel]);
+
+  const [raspunsuri, setRaspunsuri] = useState<Record<string, number>>({});
+  const [trimis, setTrimis] = useState(false);
+
   const corecte = test.filter((it) => raspunsuri[it.id] === it.raspunsCorect).length;
   const rezultat: RezultatTest = {
     totalIntrebari: test.length,
     corecte,
-    scor: Math.round((corecte / test.length) * 100),
+    scor: test.length ? Math.round((corecte / test.length) * 100) : 0,
   };
   const feedback = genereazaFeedback(rezultat, majuscule);
   const toateRaspunse = test.every((it) => raspunsuri[it.id] !== undefined);
@@ -35,13 +132,20 @@ export function TestRunner({ itemi, majuscule }: { itemi: Item[]; majuscule: boo
 
   return (
     <section>
-      <div className="no-print mb-4 flex items-center justify-between">
-        <h2 className={`text-xl font-extrabold text-brand-albastru ${m}`}>📝 Test ({test.length} întrebări)</h2>
-        {trimis && (
-          <button onClick={() => window.print()} className="rounded-full bg-brand-verde px-4 py-2 font-bold text-white shadow">
-            🖨️ Exportă PDF
+      <div className="no-print mb-4 flex flex-wrap items-center justify-between gap-2">
+        <h2 className={`text-xl font-extrabold text-brand-albastru ${m}`}>
+          📝 Test · Nivel {etichetaNivel(nivel)} ({test.length} întrebări)
+        </h2>
+        <div className="flex gap-2">
+          <button onClick={onSchimbaNivel} className="rounded-full bg-white px-4 py-2 font-bold shadow hover:bg-amber-100">
+            ↔ Schimbă nivelul
           </button>
-        )}
+          {trimis && (
+            <button onClick={() => window.print()} className="rounded-full bg-brand-verde px-4 py-2 font-bold text-white shadow">
+              🖨️ Exportă PDF
+            </button>
+          )}
+        </div>
       </div>
 
       {trimis && (

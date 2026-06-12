@@ -56,12 +56,16 @@ export interface Lectie {
 
 export type TipItem = "alegere" | "adevarat-fals";
 
+// Nivelul de dificultate al unei întrebări.
+export type Dificultate = "usor" | "mediu" | "greu";
+
 export interface Item {
   id: string;
   clasa: ClasaId;
   materie: MaterieId;
   competenta: string;
   tip: TipItem;
+  dificultate: Dificultate;
   enunt: string;
   variante: string[];
   raspunsCorect: number; // index în `variante`

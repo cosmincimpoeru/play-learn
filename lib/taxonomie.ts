@@ -1,6 +1,16 @@
-import type { ClasaId, ContextId, MaterieId } from "./types";
+import type { ClasaId, ContextId, Dificultate, MaterieId } from "./types";
 
 // Etichete și ordine pentru navigare. Sursa unică de adevăr pentru UI.
+
+export const NIVELURI: { id: Dificultate; titlu: string; emoji: string; culoare: string }[] = [
+  { id: "usor", titlu: "Ușor", emoji: "🟢", culoare: "bg-brand-verde" },
+  { id: "mediu", titlu: "Mediu", emoji: "🟡", culoare: "bg-brand-galben" },
+  { id: "greu", titlu: "Greu", emoji: "🔴", culoare: "bg-brand-rosu" },
+];
+
+export function etichetaNivel(id: string) {
+  return NIVELURI.find((n) => n.id === id)?.titlu ?? id;
+}
 
 export const CONTEXTE: { id: ContextId; titlu: string; emoji: string; descriere: string }[] = [
   { id: "teste", titlu: "Teste", emoji: "📝", descriere: "Rezolvă un test cu 9 întrebări" },

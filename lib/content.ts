@@ -23,7 +23,10 @@ export function getLectii(clasa: ClasaId, materie: MaterieId): Lectie[] {
 }
 
 export function getItemi(clasa: ClasaId, materie: MaterieId): Item[] {
-  return citesteJson<Item[]>(`items/${clasa}/${materie}.json`) ?? [];
+  const itemi = citesteJson<Item[]>(`items/${clasa}/${materie}.json`) ?? [];
+  // Normalizare: itemii fără dificultate (conținut încă nemigrat) sunt tratați
+  // ca „mediu”, ca toate materiile să rămână funcționale.
+  return itemi.map((it) => ({ ...it, dificultate: it.dificultate ?? "mediu" }));
 }
 
 // Există conținut publicat pentru această clasă+materie?

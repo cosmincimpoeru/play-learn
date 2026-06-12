@@ -51,7 +51,7 @@ export default async function PaginaMaterie({
       </h1>
 
       {context === "teste" ? (
-        <TestRunner itemi={itemi} majuscule={maj} />
+        <TestRunner itemi={itemi} majuscule={maj} clasa={clasa} materie={materie} />
       ) : (
         <>
           <Lectii lectii={lectii} majuscule={maj} />

@@ -1,74 +1,40 @@
 [
-  {
-    "id": "lr-c1-i1", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce cuvânt formezi din literele: c-a-s-ă?",
-    "variante": ["casă", "masă", "cană", "cap"], "raspunsCorect": 0,
-    "explicatie": "c-a-s-ă se citește „casă”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i2", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce cuvânt formezi din: p-o-m?",
-    "variante": ["pod", "pom", "pop", "par"], "raspunsCorect": 1,
-    "explicatie": "p-o-m se citește „pom”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i3", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Unește silabele: „ma” + „să”. Ce cuvânt iese?",
-    "variante": ["casă", "masă", "musa", "mama"], "raspunsCorect": 1,
-    "explicatie": "ma + să = „masă”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i4", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Unește silabele: „pi” + „si” + „că”. Ce cuvânt iese?",
-    "variante": ["pisică", "pisic", "pasică", "pisi"], "raspunsCorect": 0,
-    "explicatie": "pi + si + că = „pisică”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i5", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere",
-    "enunt": "„Maria se joacă în parc.” Cine se joacă?",
-    "variante": ["Bunicul", "Maria", "Pisica", "Mama"], "raspunsCorect": 1,
-    "explicatie": "Maria este cea care se joacă.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i6", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere",
-    "enunt": "„Maria se joacă în parc.” Unde se întâmplă?",
-    "variante": ["În parc", "Acasă", "La școală", "În magazin"], "raspunsCorect": 0,
-    "explicatie": "Acțiunea se petrece „în parc”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i7", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Câte silabe are cuvântul „fluture”?",
-    "variante": ["2", "3", "4", "1"], "raspunsCorect": 1,
-    "explicatie": "flu-tu-re = 3 silabe.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i8", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Care cuvânt începe cu litera „s”?",
-    "variante": ["masă", "soare", "pom", "casă"], "raspunsCorect": 1,
-    "explicatie": "„soare” începe cu litera „s”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i9", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere",
-    "enunt": "Ce literă lipsește: „ca_ă” (un loc unde locuim)?",
-    "variante": ["s", "m", "p", "t"], "raspunsCorect": 0,
-    "explicatie": "Cuvântul este „casă” — lipsește litera „s”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i10", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "adevarat-fals",
-    "enunt": "Într-o poveste, personajul este cel care face acțiunea.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! Personajele sunt cei care fac acțiunile din poveste.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i11", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere",
-    "enunt": "Ce cuvânt formezi din: l-u-n-ă?",
-    "variante": ["lină", "lună", "lupă", "lume"], "raspunsCorect": 1,
-    "explicatie": "l-u-n-ă se citește „lună”.", "punctaj": 1
-  },
-  {
-    "id": "lr-c1-i12", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals",
-    "enunt": "Cuvântul „masă” are două silabe: ma-să.",
-    "variante": ["Adevărat", "Fals"], "raspunsCorect": 0,
-    "explicatie": "Da! ma-să are 2 silabe.", "punctaj": 1
-  }
+  { "id": "lr-c1-u1", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce cuvânt formezi din: c-a-s-ă?", "variante": ["casă", "masă", "cană", "cap"], "raspunsCorect": 0, "explicatie": "c-a-s-ă = „casă”.", "punctaj": 1 },
+  { "id": "lr-c1-u2", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce cuvânt formezi din: p-o-m?", "variante": ["pod", "pom", "pop", "par"], "raspunsCorect": 1, "explicatie": "p-o-m = „pom”.", "punctaj": 1 },
+  { "id": "lr-c1-u3", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Unește silabele: „ma” + „să”.", "variante": ["casă", "masă", "musa", "mama"], "raspunsCorect": 1, "explicatie": "ma + să = „masă”.", "punctaj": 1 },
+  { "id": "lr-c1-u4", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Câte silabe are „fluture”?", "variante": ["2", "3", "4", "1"], "raspunsCorect": 1, "explicatie": "flu-tu-re = 3 silabe.", "punctaj": 1 },
+  { "id": "lr-c1-u5", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Care cuvânt începe cu litera „s”?", "variante": ["masă", "soare", "pom", "casă"], "raspunsCorect": 1, "explicatie": "„soare” începe cu „s”.", "punctaj": 1 },
+  { "id": "lr-c1-u6", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "usor", "enunt": "„Maria se joacă.” Cine se joacă?", "variante": ["Bunicul", "Maria", "Pisica", "Mama"], "raspunsCorect": 1, "explicatie": "Maria se joacă.", "punctaj": 1 },
+  { "id": "lr-c1-u7", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce cuvânt formezi din: l-u-n-ă?", "variante": ["lină", "lună", "lupă", "lume"], "raspunsCorect": 1, "explicatie": "l-u-n-ă = „lună”.", "punctaj": 1 },
+  { "id": "lr-c1-u8", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "usor", "enunt": "Unește silabele: „so” + „re”.", "variante": ["mare", "soare", "sare", "seră"], "raspunsCorect": 1, "explicatie": "so + re = „soare”.", "punctaj": 1 },
+  { "id": "lr-c1-u9", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Câte silabe are „masă”?", "variante": ["1", "2", "3", "4"], "raspunsCorect": 1, "explicatie": "ma-să = 2 silabe.", "punctaj": 1 },
+  { "id": "lr-c1-u10", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "usor", "enunt": "„Câinele latră.” Ce face câinele?", "variante": ["Doarme", "Latră", "Mănâncă", "Cântă"], "raspunsCorect": 1, "explicatie": "Câinele latră.", "punctaj": 1 },
+  { "id": "lr-c1-u11", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "usor", "enunt": "Ce cuvânt formezi din: n-a-s?", "variante": ["nas", "sac", "san", "nai"], "raspunsCorect": 0, "explicatie": "n-a-s = „nas”.", "punctaj": 1 },
+  { "id": "lr-c1-u12", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals", "dificultate": "usor", "enunt": "Cuvântul „masă” are două silabe: ma-să.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! ma-să = 2 silabe.", "punctaj": 1 },
+
+  { "id": "lr-c1-m1", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Unește silabele: „pi” + „si” + „că”.", "variante": ["pisică", "pisic", "pasică", "pisi"], "raspunsCorect": 0, "explicatie": "pi + si + că = „pisică”.", "punctaj": 1 },
+  { "id": "lr-c1-m2", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Maria se joacă în parc.” Unde se întâmplă?", "variante": ["În parc", "Acasă", "La școală", "În magazin"], "raspunsCorect": 0, "explicatie": "Acțiunea e „în parc”.", "punctaj": 1 },
+  { "id": "lr-c1-m3", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce literă lipsește: „ca_ă” (loc unde locuim)?", "variante": ["s", "m", "p", "t"], "raspunsCorect": 0, "explicatie": "Cuvântul este „casă”.", "punctaj": 1 },
+  { "id": "lr-c1-m4", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care cuvânt are 3 silabe?", "variante": ["pom", "masă", "pisică", "tren"], "raspunsCorect": 2, "explicatie": "pi-si-că = 3 silabe.", "punctaj": 1 },
+  { "id": "lr-c1-m5", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce literă lipsește: „_oare” (e pe cer ziua)?", "variante": ["s", "m", "c", "p"], "raspunsCorect": 0, "explicatie": "Cuvântul este „soare”.", "punctaj": 1 },
+  { "id": "lr-c1-m6", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Bunicul citește în fotoliu.” Cine citește?", "variante": ["Bunicul", "Mama", "Pisica", "Maria"], "raspunsCorect": 0, "explicatie": "Bunicul citește.", "punctaj": 1 },
+  { "id": "lr-c1-m7", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Care cuvânt începe cu litera „f”?", "variante": ["masă", "floare", "pom", "casă"], "raspunsCorect": 1, "explicatie": "„floare” începe cu „f”.", "punctaj": 1 },
+  { "id": "lr-c1-m8", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Unește silabele: „bu” + „ni” + „că”.", "variante": ["bunică", "bunic", "banică", "bună"], "raspunsCorect": 0, "explicatie": "bu + ni + că = „bunică”.", "punctaj": 1 },
+  { "id": "lr-c1-m9", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "mediu", "enunt": "„Mama gătește în bucătărie.” Unde gătește?", "variante": ["În bucătărie", "În parc", "La școală", "În curte"], "raspunsCorect": 0, "explicatie": "Mama gătește în bucătărie.", "punctaj": 1 },
+  { "id": "lr-c1-m10", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce cuvânt formezi din: m-i-n-g-e?", "variante": ["minge", "mingi", "mire", "mine"], "raspunsCorect": 0, "explicatie": "m-i-n-g-e = „minge”.", "punctaj": 1 },
+  { "id": "lr-c1-m11", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "adevarat-fals", "dificultate": "mediu", "enunt": "În poveste, personajul este cel care face acțiunea.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! Personajul face acțiunile.", "punctaj": 1 },
+  { "id": "lr-c1-m12", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "mediu", "enunt": "Ce literă lipsește: „pisic_” (animal care toarce)?", "variante": ["ă", "a", "o", "e"], "raspunsCorect": 0, "explicatie": "Cuvântul este „pisică”.", "punctaj": 1 },
+
+  { "id": "lr-c1-g1", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Câte cuvinte are propoziția „Mama udă florile.”?", "variante": ["2", "3", "4", "5"], "raspunsCorect": 1, "explicatie": "Mama + udă + florile = 3 cuvinte.", "punctaj": 1 },
+  { "id": "lr-c1-g2", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care cuvânt are CELE MAI MULTE silabe?", "variante": ["pom", "masă", "televizor", "tren"], "raspunsCorect": 2, "explicatie": "te-le-vi-zor = 4 silabe.", "punctaj": 1 },
+  { "id": "lr-c1-g3", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Schimbă prima literă din „casă” cu „m”. Ce cuvânt iese?", "variante": ["masă", "vază", "rasă", "pază"], "raspunsCorect": 0, "explicatie": "casă → masă.", "punctaj": 1 },
+  { "id": "lr-c1-g4", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Dimineața, Tudor merge la școală cu autobuzul.” Cu ce merge?", "variante": ["Cu bicicleta", "Cu autobuzul", "Pe jos", "Cu trenul"], "raspunsCorect": 1, "explicatie": "Tudor merge cu autobuzul.", "punctaj": 1 },
+  { "id": "lr-c1-g5", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care cuvânt are O SINGURĂ silabă?", "variante": ["soare", "masă", "tren", "pisică"], "raspunsCorect": 2, "explicatie": "„tren” are 1 silabă.", "punctaj": 1 },
+  { "id": "lr-c1-g6", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Seara, copiii citesc o poveste în pat.” Când citesc?", "variante": ["Dimineața", "Seara", "La prânz", "Niciodată"], "raspunsCorect": 1, "explicatie": "Citesc seara.", "punctaj": 1 },
+  { "id": "lr-c1-g7", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Care cuvânt NU se potrivește (nu e o ființă)?", "variante": ["pisică", "câine", "masă", "albină"], "raspunsCorect": 2, "explicatie": "„masă” este un lucru.", "punctaj": 1 },
+  { "id": "lr-c1-g8", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Câte cuvinte are „Pisica mică doarme liniștită.”?", "variante": ["3", "4", "5", "2"], "raspunsCorect": 1, "explicatie": "Pisica + mică + doarme + liniștită = 4 cuvinte.", "punctaj": 1 },
+  { "id": "lr-c1-g9", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "alegere", "dificultate": "greu", "enunt": "Schimbă prima literă din „pom” cu „d”. Ce cuvânt iese?", "variante": ["dom", "tom", "rom", "som"], "raspunsCorect": 0, "explicatie": "pom → dom.", "punctaj": 1 },
+  { "id": "lr-c1-g10", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "3.1", "tip": "alegere", "dificultate": "greu", "enunt": "Ordonează după silabe (1, 2, 3): tren, masă, pisică. Care e primul (1 silabă)?", "variante": ["tren", "masă", "pisică", "niciunul"], "raspunsCorect": 0, "explicatie": "„tren” are 1 silabă.", "punctaj": 1 },
+  { "id": "lr-c1-g11", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "1.2", "tip": "alegere", "dificultate": "greu", "enunt": "„Ana desenează un soare galben.” Ce desenează Ana?", "variante": ["Un copac", "Un soare", "O floare", "O casă"], "raspunsCorect": 1, "explicatie": "Ana desenează un soare.", "punctaj": 1 },
+  { "id": "lr-c1-g12", "clasa": "clasa-1", "materie": "limba-romana", "competenta": "4.1", "tip": "adevarat-fals", "dificultate": "greu", "enunt": "Cuvântul „autobuz” are mai multe silabe decât „pom”.", "variante": ["Adevărat", "Fals"], "raspunsCorect": 0, "explicatie": "Da! a-u-to-buz (4) > pom (1).", "punctaj": 1 }
 ]
